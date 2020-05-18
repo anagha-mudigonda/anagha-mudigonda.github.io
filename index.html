@@ -15,11 +15,16 @@
     <div class="container">
         <nav class="navbar navbar-expand-md navbar-light"><!---navbar declaration, navbar expand to middle, look and feel (Light/dark)-->
            <a href="#" class="navbar-brand"> <img src ="img/fruit.png" class = "img-fluid" width="100"> </a>
-            <ul class="navbar-nav text-center ml-auto"> <!----moves the navigation from below the logo to the right-->
-                <li><a href="#" class="nav-link">Aboutme</li> </a>
-                <li><a href="#" class="nav-link">Contact</li> </a>
-                <li><a href="#" class="nav-link">Resume</li> </a>
-            </ul>
+           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1">
+            <span class="navbar-toggler-icon"></span>
+           </button>
+           <div class="navbar-collapse collapse" id="navbar1">
+                <ul class="navbar-nav text-center ml-auto"> <!----moves the navigation from below the logo to the right-->
+                    <li><a href="#" class="nav-link">Aboutme</li> </a>
+                    <li><a href="#" class="nav-link">Contact</li> </a>
+                    <li><a href="#" class="nav-link">Resume</li> </a>
+                </ul>
+            </div>
         </nav>
     </div>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
