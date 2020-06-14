@@ -10350,7 +10350,7 @@ Mainmenu Area
 @media (min-width: 1200px) {
   .container {
     max-width: 1260px;
-    animation: transitionIn 1.00s;
+    animation: transitionIn 2.00s;
   }
 }
 
