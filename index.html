@@ -24,43 +24,30 @@
 
 <body class="position-relative spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150">
     <div class="main-page">
-        <!-- Start Header Area  -->
-        <header class="header-area header-style-two header--transparent color-black header--sticky">
-            <div class="header-wrapper">
-                <div class="header-left d-flex align-items-center">
+        <!-- Start Header Area -->
+        <header class="header-area formobile-menu header--transparent color-black header--sticky">
+            <div class="header-wrapper" id="header-wrapper">
+                <div class="header-left">
                     <div class="logo">
                         <a href="index.html">
                             <img src="assets/images/logo/logo-anagha.png" alt="Personal Logo">
                         </a>
                     </div>
-                    <nav class="mainmenunav d-lg-block ml--50">
-                        <div class="navbar-example2">
-                            <!-- Start Mainmanu Nav -->
-                            <ul class="mainmenu nav nav-pills">
-                                <li class="nav-item">
-                                    <a class="nav-link smoth-animation active" href="#portfolio">Work</a>
-                                </li>
-
-                                <li>
-                                    <a class="mainmenunav" href="03-about.html">About</a>
-                                </li>
-
-                            </ul>
-                            <!-- End Mainmanu Nav -->
-                        </div>
-                    </nav>
                 </div>
                 <div class="header-right">
-                    <div class="social-share-inner">
-                        <ul class="social-share social-style--2 color-black d-flex justify-content-start liststyle">
-                            <li><a href="https://www.linkedin.com/in/anaghamudigonda/"><i class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="https://www.instagram.com/anaghamudigonda/"><i class="fab fa-instagram"></i></a></li>
+                    <nav class="mainmenunav d-lg-block navbar-example2">
+                        <!-- Start Mainmanu Nav -->
+                        <ul class="mainmenu nav nav-pills">
+                            <li class="nav-item"><a class="nav-link smoth-animation active" href="#home">Home</a></li>
+                            <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Work</a></li>
+                            <li class="nav-item"><a class="nav-link smoth-animation" href="#news">News</a></li>
+                            <li class="nav-item"><a class="nav-link " href="03-about.html">About</a></li>
+                            <li class="nav-item"><a class="nav-link" target="_blank" href="anagha_mudigonda_resume.pdf">Resume</a></li>
                         </ul>
-                    </div>
-                    <div class="header-btn ml_md--20 ml_sm--0"><a class="rn-btn" target="_blank" href="anagha_mudigonda_resume.pdf"><span>Resume</span></a>
-                    </div>
+                        <!-- End Mainmanu Nav -->
+                    </nav>
                     <!-- Start Humberger Menu  -->
-                    <div class="humberger-menu d-block d-lg-none pl--20 pl_sm--10">
+                    <div class="humberger-menu d-block d-lg-none pl--20">
                         <span class="menutrigger text-white">
                             <i data-feather="menu"></i>
                         </span>
@@ -76,7 +63,9 @@
                 </div>
             </div>
         </header>
-        <!-- End Header Area  -->
+        <!-- End Header Area -->
+
+
             <!-- Start Slider Area  -->
             <main class="page-wrapper">
                 <!-- Start Slider Area  -->
@@ -90,14 +79,24 @@
                                  <div class="col-lg-7 mt_md--40 mt_sm--40">
                                     <div class="inner text-left"><span>Hi! Welcome to my World</span>
                                         <h2 class="title"> I’m Anagha, I'm a 
-                                            <div class="text-slide"> 
-                                                <div class ="title text1-slide"><h2 class="title theme-color fontWeight10"> UX Researcher. </h2> </div>
-                                                <div class ="title text2-slide"><h2 class="title theme-color fontWeight10"> UX Designer.</h2></div>
-                                                <div class ="title text3-slide"><h2 class="title theme-color fontWeight10">Human Factors Engineer. </h2> </div>
+                                            <div class=" title text-slide"> 
+                                                <div class ="title text1-slide"><h2 class="theme-color fontWeight10"> UX Researcher. </h2> </div>
+                                                <div class ="title text2-slide"><h2 class="theme-color fontWeight10"> UX Designer.</h2></div>
+                                                <div class ="title text3-slide"><h2 class="theme-color fontWeight10">Human Factors Engineer. </h2> </div>
                                           </div>
                                         </h2>
                                         <h6> <p> Currently a Graduate Student Researcher in Center for Human, Artificial Intelligence, and Robot Teaming <a class="btn-transparent rn-btn-dark" href="https://globalsecurity.asu.edu/center-human-artificial-intelligence-and-robot-teaming" target="_blank"><span class="text fontWeight900 font--16">(CHART)</span></a>
-                                             Lab at Arizona State University.  I love to transform user insights and aha-moments into revenue-driven design principles. </p></h6>
+                                             Lab at Arizona State University. <br> I love to transform user insights and aha-moments into revenue-driven design principles. 
+                                            </p>
+                                        </h6>
+                                        <div class="social-share-inner">
+                                            <ul class="social-share rn-lg-size d-flex justify-content-start liststyle">
+                                                <li><a href="https://www.linkedin.com/in/anaghamudigonda/"><i class="fab fa-linkedin-in"></i></a></li>
+                                                <li><a href="https://medium.com/anagha-mudigonda"><i class="fab fa-medium"></i></a></li>
+                                                <li><a href="https://www.instagram.com/anaghamudigonda/"><i class="fab fa-instagram"></i></a></li>
+                                            </ul>
+                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -125,6 +124,7 @@
                     <button data-filter=".cat--1"><span class="filter-text">UX Design</span></button>
                     <button data-filter=".cat--2"><span class="filter-text">UX Research</span></button>
                     <button data-filter=".cat--3"><span class="filter-text">Data Analytics</span></button>
+                    <button data-filter=".cat--4"><span class="filter-text">Accessibility</span></button>
                    <!--<button data-filter=".landing"><span class="filter-text">Landing</span></button>
                     <button data-filter=".hot"><span class="filter-text">Hot</span></button>---> 
                 </div>
@@ -133,7 +133,7 @@
 
             <!-- Start Single Demo  -->
             <div class="single-demo masonry_item portfolio-33-33 cat--2"> <!--image size 1230 X 850-->
-                <a target="_blank" href="portfolio-details.html">
+                <a href="whatsapp-details.html">
                     <img src="assets/images/portfolio/whatsapp-1280-850.png" alt="WhatsApp Banner Image">
                     <div class="content">
                         <div class="inner">
@@ -208,7 +208,7 @@
 <!-- End Home Demo  -->
 
          <!-- Start Featured Area  -->
-                <div class="rn-featured-service-area pt--90 pb--120 bg_color--5">
+                <div class="rn-featured-service-area pt--90 pb--120 bg_color--5" id="news">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-3 col-md-6 col-12 mt--30">
@@ -273,6 +273,7 @@
                             <ul class="social-share rn-lg-size d-flex justify-content-center liststyle">
                                 <li><a href="https://www.linkedin.com/in/anaghamudigonda/"><i class="fab fa-linkedin-in"></i></a></li>
                                 <li><a href="https://medium.com/anagha-mudigonda"><i class="fab fa-medium"></i></a></li>
+                                <li><a href="https://www.instagram.com/anaghamudigonda/"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>                   
