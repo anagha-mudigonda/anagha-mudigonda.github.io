@@ -650,7 +650,7 @@ select {
 ul.liststyle.bullet li {
   font-size: 18px;
   line-height: 30px;
-  color: rgba(29, 29, 36, 0.75);
+  color: rgba(10, 10, 10, 0.75);
   position: relative;
   padding-left: 30px;
 }
@@ -667,7 +667,7 @@ ul.liststyle.bullet li::before {
   width: 6px;
   height: 6px;
   border-radius: 100%;
-  background: rgba(29, 29, 36, 0.75);
+  background: rgba(10, 10, 10, 0.75);
   left: 0;
   top: 10px;
 }
@@ -15015,6 +15015,18 @@ ul.nav.tab-style--1 li a.active::before {
   background: currentColor;
 }
 
+.active {
+  background: transparent;
+  color: #f9004d;
+}
+
+
+
+
+
+
+
+
 /*------------------------
     Tab Content  
 -------------------------*/
@@ -15636,6 +15648,29 @@ ul.social-transparent li a:hover {
   border-radius: 0;
 }
 
+/*-----------------
+Read progress bar
+----------------*/
+
+.progress {
+  position: fixed;
+  z-index: 99999999;
+  top: 0;
+  height: 8px;
+  overflow: hidden;
+  background-color: #f81f01;
+  background-image: -webkit-linear-gradient(314deg, #f81f01, #ee076e);
+  background-image: -o-linear-gradient(314deg, #f81f01, #ee076e);
+  background-image: linear-gradient(-224deg, #f81f01, #ee076e);
+}
+
+article {
+  max-width: auto;
+  margin:  auto;
+  border: transparent;
+  padding: auto;
+}
+
 /*--------------------
 Gallery Styles  
 -----------------------*/
@@ -15649,6 +15684,8 @@ Gallery Styles
 .single-column p {
   font-size: 16px;
   line-height: 28px;
+  margin-top: 0 ;
+  margin-bottom: 0 
 }
 
 .single-column.custom-color {
