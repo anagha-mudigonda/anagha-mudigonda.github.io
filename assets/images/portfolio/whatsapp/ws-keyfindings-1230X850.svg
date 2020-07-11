@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1230" height="654" viewBox="0 0 1230 654">
+  <defs>
+    <filter id="Rectangle_1572" x="71" y="64" width="423" height="161" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1573" x="248" y="236" width="447" height="202" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1574" x="96" y="446" width="434" height="149" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1575" x="702" y="455" width="437" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1576" x="661" y="9" width="443" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1577" x="722" y="195" width="448" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-ws-keyfindings-1230X850">
+      <rect width="1230" height="654"/>
+    </clipPath>
+  </defs>
+  <g id="ws-keyfindings-1230X850" clip-path="url(#clip-ws-keyfindings-1230X850)">
+    <rect width="1230" height="654" fill="#f8f9fd"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1572)">
+      <rect id="Rectangle_1572-2" data-name="Rectangle 1572" width="405" height="143" rx="16" transform="translate(80 70)" fill="#fff"/>
+    </g>
+    <text id="A_glimpse_of_forward_tag_in_feed_turns_me_off_from_reading_the_message." data-name="A glimpse of &quot;forward&quot; tag  in feed 
+turns me off from reading the message." transform="translate(129 132)" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">A glimpse of </tspan><tspan y="0" xml:space="preserve" fill="#f8004c">&quot;forward&quot; tag  in feed </tspan><tspan fill="#f8004c"><tspan x="0" y="32">turns me off </tspan><tspan y="32" fill="#000">from reading the message.</tspan></tspan></text>
+    <path id="Icon_awesome-quote-left" data-name="Icon awesome-quote-left" d="M26.281,14.938H21.75V11.313a3.628,3.628,0,0,1,3.625-3.625h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,25.828,2.25h-.453a9.06,9.06,0,0,0-9.062,9.063V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25A2.719,2.719,0,0,0,29,24.906v-7.25A2.719,2.719,0,0,0,26.281,14.938Zm-16.312,0H5.438V11.313A3.628,3.628,0,0,1,9.063,7.688h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,9.516,2.25H9.063A9.06,9.06,0,0,0,0,11.313V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25a2.719,2.719,0,0,0,2.719-2.719v-7.25A2.719,2.719,0,0,0,9.969,14.938Z" transform="translate(88 112.75)" fill="#ececec"/>
+    <g id="Group_76" data-name="Group 76" transform="translate(-178 -27)">
+      <g transform="matrix(1, 0, 0, 1, 178, 27)" filter="url(#Rectangle_1573)">
+        <rect id="Rectangle_1573-2" data-name="Rectangle 1573" width="429" height="184" rx="16" transform="translate(257 242)" fill="#fff"/>
+      </g>
+      <text id="_I_see_the_message_is_false_then_it_should_notify_people_who_sent_this_message._I_would_include_the_right_information." data-name=" I see the message is false then 
+it should notify people who sent this message. I would include the right information." transform="translate(486 301)" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="16" xml:space="preserve"> I see the </tspan><tspan y="16" fill="#f8004c">message is false then </tspan><tspan fill="#f8004c"><tspan x="0" y="48">it should notify people who sent this </tspan><tspan x="0" y="80">message</tspan><tspan y="80" fill="#000">. I would include the right </tspan><tspan x="0" y="112" fill="#000">information.</tspan></tspan></text>
+      <path id="Icon_awesome-quote-left-2" data-name="Icon awesome-quote-left" d="M26.281,14.938H21.75V11.313a3.628,3.628,0,0,1,3.625-3.625h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,25.828,2.25h-.453a9.06,9.06,0,0,0-9.062,9.063V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25A2.719,2.719,0,0,0,29,24.906v-7.25A2.719,2.719,0,0,0,26.281,14.938Zm-16.312,0H5.438V11.313A3.628,3.628,0,0,1,9.063,7.688h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,9.516,2.25H9.063A9.06,9.06,0,0,0,0,11.313V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25a2.719,2.719,0,0,0,2.719-2.719v-7.25A2.719,2.719,0,0,0,9.969,14.938Z" transform="translate(451 298.75)" fill="#ececec"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1574)">
+      <rect id="Rectangle_1574-2" data-name="Rectangle 1574" width="416" height="131" rx="16" transform="translate(105 452)" fill="#fff"/>
+    </g>
+    <text id="marking_a_message_as_useful_can_be_biased_it_should_be_available_for_verified_agencies_or_individuals." data-name="marking a message as useful can be 
+biased, it should be available for verified
+agencies or individuals." transform="translate(159 481)" fill="#f8004c" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">marking a message as useful can be </tspan><tspan x="0" y="32">biased,</tspan><tspan y="32" xml:space="preserve" fill="#000"> it should be available for verified</tspan><tspan fill="#000"><tspan x="0" y="64">agencies or individuals.</tspan></tspan></text>
+    <path id="Icon_awesome-quote-left-3" data-name="Icon awesome-quote-left" d="M26.281,14.938H21.75V11.313a3.628,3.628,0,0,1,3.625-3.625h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,25.828,2.25h-.453a9.06,9.06,0,0,0-9.062,9.063V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25A2.719,2.719,0,0,0,29,24.906v-7.25A2.719,2.719,0,0,0,26.281,14.938Zm-16.312,0H5.438V11.313A3.628,3.628,0,0,1,9.063,7.688h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,9.516,2.25H9.063A9.06,9.06,0,0,0,0,11.313V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25a2.719,2.719,0,0,0,2.719-2.719v-7.25A2.719,2.719,0,0,0,9.969,14.938Z" transform="translate(120 462.75)" fill="#ececec"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1575)">
+      <rect id="Rectangle_1575-2" data-name="Rectangle 1575" width="419" height="142" rx="16" transform="translate(711 461)" fill="#fff"/>
+    </g>
+    <text id="link_to_the_source_is_important_instead_of_a_fact-check_result._I_prefer_to_explore." data-name="link to the source is important instead 
+of a fact-check result. I prefer to explore." transform="translate(762 506)" fill="#f8004c" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">link to the source is important instead </tspan><tspan x="0" y="32">of a fact-check result. </tspan><tspan y="32" fill="#000">I prefer to explore.</tspan></text>
+    <path id="Icon_awesome-quote-left-4" data-name="Icon awesome-quote-left" d="M26.281,14.938H21.75V11.313a3.628,3.628,0,0,1,3.625-3.625h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,25.828,2.25h-.453a9.06,9.06,0,0,0-9.062,9.063V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25A2.719,2.719,0,0,0,29,24.906v-7.25A2.719,2.719,0,0,0,26.281,14.938Zm-16.312,0H5.438V11.313A3.628,3.628,0,0,1,9.063,7.688h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,9.516,2.25H9.063A9.06,9.06,0,0,0,0,11.313V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25a2.719,2.719,0,0,0,2.719-2.719v-7.25A2.719,2.719,0,0,0,9.969,14.938Z" transform="translate(721 487.75)" fill="#ececec"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1576)">
+      <rect id="Rectangle_1576-2" data-name="Rectangle 1576" width="425" height="147" rx="16" transform="translate(670 15)" fill="#fff"/>
+    </g>
+    <text id="forwarding_message_should_be_difficult_add_roadblocks_then_only_genuine_content_may_come._" data-name="forwarding message should be difficult 
+add roadblocks then only genuine 
+content may come.       " transform="translate(731 58)" fill="#f8004c" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">forwarding message should be difficult </tspan><tspan fill="#000"><tspan x="0" y="32">add roadblocks then only genuine </tspan></tspan><tspan x="0" y="64" fill="#000">content may come. </tspan><tspan y="64" xml:space="preserve" fill="#f8004c">      </tspan></text>
+    <path id="Icon_awesome-quote-left-5" data-name="Icon awesome-quote-left" d="M26.281,14.938H21.75V11.313a3.628,3.628,0,0,1,3.625-3.625h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,25.828,2.25h-.453a9.06,9.06,0,0,0-9.062,9.063V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25A2.719,2.719,0,0,0,29,24.906v-7.25A2.719,2.719,0,0,0,26.281,14.938Zm-16.312,0H5.438V11.313A3.628,3.628,0,0,1,9.063,7.688h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,9.516,2.25H9.063A9.06,9.06,0,0,0,0,11.313V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25a2.719,2.719,0,0,0,2.719-2.719v-7.25A2.719,2.719,0,0,0,9.969,14.938Z" transform="translate(686 39.75)" fill="#ececec"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1577)">
+      <rect id="Rectangle_1577-2" data-name="Rectangle 1577" width="430" height="147" rx="16" transform="translate(731 201)" fill="#fff"/>
+    </g>
+    <text id="Adding_a_start_date_of_the_message_will_be_useful_if_the_message_is_a_latest_one_or_not." data-name="Adding a start date of the message 
+will be useful if the message is a latest one
+or not." transform="translate(792 244)" fill="#f8004c" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Adding a start date of the message </tspan><tspan fill="#000"><tspan x="0" y="32">will be useful if the message is a latest one</tspan><tspan x="0" y="64">or not.</tspan></tspan></text>
+    <path id="Icon_awesome-quote-left-6" data-name="Icon awesome-quote-left" d="M26.281,14.938H21.75V11.313a3.628,3.628,0,0,1,3.625-3.625h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,25.828,2.25h-.453a9.06,9.06,0,0,0-9.062,9.063V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25A2.719,2.719,0,0,0,29,24.906v-7.25A2.719,2.719,0,0,0,26.281,14.938Zm-16.312,0H5.438V11.313A3.628,3.628,0,0,1,9.063,7.688h.453a1.356,1.356,0,0,0,1.359-1.359V3.609A1.356,1.356,0,0,0,9.516,2.25H9.063A9.06,9.06,0,0,0,0,11.313V24.906a2.719,2.719,0,0,0,2.719,2.719h7.25a2.719,2.719,0,0,0,2.719-2.719v-7.25A2.719,2.719,0,0,0,9.969,14.938Z" transform="translate(747 225.75)" fill="#ececec"/>
+  </g>
+</svg>
