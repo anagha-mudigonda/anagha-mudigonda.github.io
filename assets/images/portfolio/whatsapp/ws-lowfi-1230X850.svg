@@ -1,0 +1,1004 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1343" height="2190" viewBox="0 0 1343 2190">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1582" data-name="Rectangle 1582" width="360" height="83" transform="translate(40 53)" fill="#fff" stroke="#95989a" stroke-width="1"/>
+    </clipPath>
+    <filter id="app_bar" x="47.5" y="26" width="366" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect width="12" height="24" fill="none"/>
+    </clipPath>
+    <filter id="Path_1631" x="45.67" y="119.684" width="358.33" height="477.452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149" x="68" y="546" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-2" x="179" y="546" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="app_bar-2" x="444" y="25" width="366" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-5"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1" x="442.17" y="118.684" width="358.33" height="477.452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-3" x="464.5" y="545" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-4" x="575.5" y="545" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="app_bar-3" x="840" y="24" width="366" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-9"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1-2" x="838.17" y="117.684" width="358.33" height="477.452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-5" x="860.5" y="544" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-6" x="971.5" y="544" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_148-3" data-name="Rectangle 148" width="360" height="83" transform="translate(40 53)" fill="#fff" stroke="#acacae" stroke-width="1"/>
+    </clipPath>
+    <filter id="app_bar-4" x="46.5" y="707" width="366" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-13"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1-3" x="44.67" y="800.684" width="358.33" height="477.452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-7" x="67" y="1227" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-8" x="178" y="1227" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-16"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1-4" x="838.17" y="740.684" width="358.33" height="453.316" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-17"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="app_bar-5" x="840" y="707" width="366" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-18"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-9" x="858.5" y="1151" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-19"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-10" x="964.5" y="1151" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-20"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1632" x="448.17" y="795.684" width="358.33" height="477.452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-21"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-11">
+      <rect id="Rectangle_1586" data-name="Rectangle 1586" width="360" height="83" transform="translate(40.5 53)" fill="#fff" stroke="#95989a" stroke-width="1"/>
+    </clipPath>
+    <filter id="app_bar-6" x="443.5" y="712" width="365.999" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-22"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-11" x="464.5" y="1227" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-23"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-12" x="575.5" y="1227" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-24"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-13">
+      <rect id="Rectangle_148-5" data-name="Rectangle 148" width="360" height="83" fill="#fff" stroke="#95989a" stroke-width="1"/>
+    </clipPath>
+    <filter id="app_bar-7" x="47.5" y="1382" width="366" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-25"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1-5" x="45.67" y="1476.684" width="358.33" height="477.452" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-26"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-13" x="68" y="1903" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-27"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-14" x="179" y="1903" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-28"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 512 512">
+      <image width="512" height="512" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAQAAABecRxxAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAHdElNRQfkBREAEhAEBywJAAAu40lEQVR42u3dd5xV1bn/8c8MvXekgyDSVBQUlaYCKqigqNiiaExE41XQJJa0X4x6b/SamBij/kRjwWuioOIV7EgsgCKi0pv0JkX6wAzT7h/DwAxTTtnl2eX7Xi8TGM45+1lrn/XM2mvvvXYGEjXVaEYzWtKQBjQ89L/1qEldqtGQKjQ49LoGZB76UwG7D/1pN3nsJpd9ZLOH3exm16HyPdvYRq515cRdGdYBiCMZtKQtrWhLG1rTlmY0p7GH29vBVraxjo1sZD0b2cAm6yYQJ5QAwqYKx9KFjnSiEx3pSE3jeLJZxUpWsoqVLGc1+dYNJKlQAgiDqnSlB93oRle6UMM6nErksJRlLGYJi1hGnnU4kogSQHDV52R60pOTOSHQnb4i2SziW+bxLfPYYx2MlE8JIGiq0oXe9KM/XQ9P0oXfZmYwk7l8RbZ1KFKSEkBQNKMfA+nLKVS3DsVDOXzDLD5lJtutQxFQArDXmsEMoB/drAPxVSFLmcFnfKSzCLaUAKzU5QyGMIReMd8Hq5jGND5ih3Ug8RTvL5+FTE7jAobRiyrWoQRIPnN5l3f4igLrUOJFCcA/jRnMEC6ilXUgAbadfzOVKey0DiQulAD80JZhDOd8qlkHEhL5fMEkXmeDdSDRpwTgrW6MZCS91c5pKOQrJjOZpdaBRJm+mF5px0hG0c86jAhYzCReZoV1GNGkBOC+1lzBVfSxDiNSCpnNq0zUSUO3KQG4qSbDGc1QqloHElEFfM4EXibLOpDoUAJwS29Gc62nt+JKkT38LxP4iELrQKJACcC5ZtzATXS2DiNmlvMML+iCYqeUAJzpzRiuo5Z1GDF1kP9lvMYCTigBpKsBN3ILx1uHISznKZ4/vKiZpEQJIB2duY0bqWsdhhy2j3/yOAutw5Coy2Q4H1BAoUrgSgHvc2GE1lCQgKnOaBaZf81VKi8rGKc5meTpECA59fkxd9HaOgxJylae4m+6wTgZSgCJteIufqoj/pDZyzP8ic3WYUi4teMx9psPa1XSKzlMoJP1VyjYNAKoWAfuZIz5uvviTC6v8IBuJZLUtOc5cs1/g6m4U3J5hnbWX6lg0gigrGb8gnH6zR8xB3mB+zQncDQlgNIaM5afU886DPHEfh7nYS03VpIWpjyiOrcxmaGhfAqPJKMa/RkDzNVDy4ppBFAkg8t5mGOtwxBfbOAB/qHHmIISQJHBPMIp1kGIr+ZyN9Otg7CnBHAc/8Uo6yDExFTuYKV1ELbiPQdQm9/wMj2twxAjx/MzmjKTg9aB2IlvAshgFG9xsdbvi7UqnM71bGe+dSBW4noIcAJP0d86CAmMT7mVRdZBWIjjCKA2v+ElzfhLCe0ZQ1NmxO9gIH4jgOH8jQ7WQUggbWQcr1sH4a94JYDW/J1LrIOQQHuD2+J0wXCcDgFG8bbO9ksC3fgpO/jaOgy/xGUE0IHxnGsdhITGp/w0HrcQx2EEkMlYXqerdRgSIu35MVnMIfJPHIj+CKA9L3C2dRASSrO4nu+sg/BW1EcAo5lKF+sgJKTa8mN+iPZ8QJRHAMcwnhHWQUjovcdPovtY8ug+RuEyFqn7iwuGMi+6J4+jmQBq8Riv0cQ6DImIpkxmAnWsw/BCFA8BevAvTrQOQiJnCVczzzoIt0VtEjCDMbxOG+swJIKacQP7+NI6DHdFawTQiBd03C+eeoMbo/Qo8iglgF5M1HNgxHNruSI644DoHAKM5g2aWwchMdCQ0exltnUY7ojGCKAuz3CVdRASKy/xM7Ksg3AuCgngOCZzgnUQEjvzGckq6yCcCv91AEP5Ut1fDJzEHM6zDsKpcM8BZHAP/6C2dRgSU7W4hhxmWYfhRJgPAerwvFb0F3Ov8BP2WweRrvAmgFa8RW/rIESAeYxgnXUQ6QnrHMDJfKHuLwHRky84zTqI9IQzAVzOTNpaByFyWEs+5WrrINIRvknADH7Lk1S3DkOklKpcykFmWIeRqrAlgKr8f34Z4pkLia4MBtOBdyiwDiS1oMOkLq9ygXUQIpX4kMvZYx1E8sKUAFowVRN/EnjzuYCN1kEkKzwJ4Dje5TjrIESSsJoLWGodRHLCkgD68I6W+JLQ2M4wvrIOIhnhOA14Nh+q+0uINOXjcDyJKgwJYATvUt86CJGU1GEKl1kHkVjwTwNexz911l9CqCqXsZFvrMOoXNATwJ08FfgYRcqXyXB2BnvtoGB3rrv4U2imKUXKymAY+XxqHUbFgpwA7uFh6xBEHBsEfGIdREWCmwDu4SHrEERccTa1mGYdRPmCmgDu5wHrEERc0586fGgdRHmCmQAe5LfWIYi4qh/1+MA6iLKCmADuV/eXCOpLBh9bB3G04CWAu3jQOgQRT5wdvDMCQUsAP+dP1iGIeGZQ0BYNCVYCuJNHrUMQ8dTgYF0aFKQEMJqndNmPRN5QNgTnAuHgJICLeTlA0Yh4JYMLWcxi6zCKgwmGQbxNTesgRHxykOHBOCkYjATQh2nUsw5CxEdZnBeEh4oFIQF0ZYaW+5DY2U4/llsHYZ8AmjFLa/1JLK2mL9/bhmC9IlA93lP3l5g6lqnUtQ3BNgFUYxK9bBtAxFBvJlLVMgDLE28ZPMPllpUXMdeZ1rxlt3nLBPA7fm64dZFg6EWO3eXBdgngMp4IwBSkiL3BLGWRzaatumAvPqWO0bZFguYAZ/OlxYZtEkArZtPGZMsiwbSZPmzwf7MWZwHqMFXdX6SUlrxJbf83638CyOAfnOJ/RUUCrjcv+T8i938S8NeM9X2bImHQjX1+3x/gd8Y5l3d1069IBQq4iHf93KC/CaAzX9LQ1y2KhMsO+rDSv835OQdQl8nq/iKVaszrfk4G+pkAnqSHj1sTCaeePOvfxvw7Hr+VX/lXLZEQO5GNfO3PpvyaA+jJ59TyaVsiYZdNP39SgD8JoCFz6ejLlkSiYSW92e39ZvyYA8jgRXV/kZR04jk/fj37MQcwjnE+bEUkWrqxlTleb8T7HHMCX+roXyQN2ZzBPG834XUCqMmXnOjxNkSiajGncsDLDXh9CPAkwzzegkh0NaMR73i5AW9HAJfxmqefLxJ9I3nTuw/3MgG0ZIEe+CHi0HZO9O7pAV6eBnxG3V/EsaaM9+7DvZsDGKM1f0Vc0YX1Xj1Q3KtDgGOZp8d9irhkHyd7c5OwN4cAmTyv7i/imrq84E1f9eYQYCy3eNocInHTjh+8WDjci0OADiywfuShSOTs50RWuf2h7g8rMhiv7i/iuto84/4vbPcPAW7iDj9aQyR2jmUt37r7kW5nlFYspJFf7SESM7vpwUY3P9DtQ4An1P1FPNOAx9z9QHdHAMO8vXFBRBjBFPc+zM0EUJuFHOt7c4jEyzq6k+XWh7k5CfifXGjQHCLx0oAMPnLrw9wbAfTgG6qZNIhIvOTRm/nufJRbk4AZPK3uL+KLqjzu1q9utxLAtfQzaw6RuBnIVe58kDt5pC7LaGXYHCJxs5EubkwFujMJeL9W/hPxVX0K+Lfzj3FjBNCJRdSwbg+RmMnhRFY4/RA35gD+qu4v4rsaPOz8Q5yPAM5hunVLiMTUEKdXBDhNAJnMoZd1K4jE1DecSoGTD3B6CHCtur+ImVO40tkHOBsB1GQZ7azbQCTG1tCVnPTf7mwEcIe6v4ipDtzm5O1ORgCNWUlD6/qLxNxOOrEz3Tc7GQHco+4vYq4Rv0z/zemPAFryHbWt6y4iZNGJLem9Nf1LgR/S7T8igVCdqryf3lvTHQG0Z5mu/xMJiGyOZ306b0x3BPAXTrWus4gcUpU6TE3njemNADqyjKrWdRaRw3I5njWpvy29swC/VvcXCZRq3J3O29IZAbTlO6pb11dESsmhU+oPDUlnBPArdX+RwKnBXam/KfURQEtWUsu6riJSRjYd2ZzaW1IfAdyt7i8SSDW5M9W3pDoCaMQ6PfxbJKD20o5dqbwh1RHArer+IoFVj5tSe0NqI4AarKaldR1FpEIb6cjB5F+e2gjgenV/kUBrzTWpvDyVEUAGi+hmXT8RqdRSeiS/TmAqI4CL1P1FAq8r5yX/4lQSwFjrmolIElLoqckfAnRjkYsPExcRrxTSnaXJvTT5EcDt6v4ioZDBrcm/NDkNWa8rAERCYi9t2Z3MC5MdAdyo7i8SGvW4IbkXJjcCyGApx1vXSUSStoxuFCZ+WXIjgHPU/UVCpQsDknlZcglgjHVtRCRFSfXaZA4BmrJBKwCLhEwObdmW6EXJjABuVPcXCZ0aXJv4RYlHABkso7N1XUQkZUsTX7yfeATQX91fJJS6ckailyROANdb10JE0pSw9yY6BKjFJj0DWCSkdtOSA5W9INEI4FJ1f5HQasDwyl+QKAHoAEAkzBL04MoPAVqz1sEDxEXEWh5t+b7if678GX9XxLT7/8BSlrGMTWSxl93sI5M61Kc+dWhDF7rSRYdGAbOT5SxlGRvIYg97yKKAujSgHnVozfF0pQtNrIM0UJVRPF7xP1c+AphNH+v4fVTAfP7NdD7nhyRe3YK+nMMguluHHXOLmc50ZrElidc25UwGcQ4nxWpti5n0r/gfK2uIjnwXk4bK5T1eZlpSHf9oLTifHzE4zecsS7ry+YiX+aCy4W2FmjKEHzE0Js+4LqQD69J5468pjEH5inE0c9zIbbiHReZ1iUtZyN20drzPmjOOueZ18aP8Mr0Gmm8euNdlBoMdf41K6s8U8zpFvcxguKvj0n5MocC8Vt6Wr9JpmG7mYXtZ8nmNXq52/mIDeM+8dlEt71R2NOvAqUyOeBI4LvVG+a150N6VrxNfI+3IWSw0r2PUyjLO9XSf9WK2eR29K3el3iBfmQftTdnJOB9OblZjHHvN6xqVksV9PtySnslotpvX1ZsyK9XGaBvRIdFrNPf8i1SsPdPM6xuF8gHtfNtnLZhsXl8vSj6tyq9wRSevRkbwBGAOdzCKrb5tby3nci/51tUOtXz+wND0TmKl5XtGcnMqT9cNiUwuTu0N081zlttljcfH/RU5i43mdQ9r2eLxcX9FevOded3dLh+UX9Xyf883ZkvELpL4iMuSe1CCB1owld7WDRBCXzLcx/FaaQ15g3OsG8BVuTRnV9kfl38IcH7Euv9kLjLr/vA9Z/GedROEznSGmHV/2MVQJlo3gauqlT+aKj8BDLOO1lVPcjnZphFkcTGvWDdDqLzBBew1jeAg1/CUdTO4KulenclW8yMW98ofrdv9cKs+a94WYSnjA3NnxcPmbeFe2ZzsxP4Z5qG6V562/gaVUIVJ5u0RhvJmgG5Cz+AZ8/Zwr5Rz7Wt5mTY6BwBv8R/WIZSQz4+YZh1E4H3MVQE6dVrILbxhHYRrLkjuZV+aZyp3ysfUtG7xMhoyz7xdgly+ob71LiqjFp+Zt4s7ZWbZypU9KmjI9gANwdK3hZPTulfca52YSwPrIAJqF71YbR1EOZrzLS2tg3BBHk3YU/pHZQ8BBkWi+xfwo0B2f1jJT61DCKyfBLL7w1auCdBhSfqqMvDoH5VNAO7eIW/l93xkHUKFXuMJ6xAC6bEAH21/zIPWIbiiTO8uewiwhK7WUTo2nXMpsA6iEjWYTU/rIALmG84I9DX4mUznLOsgHFvIiaV/cHQCaM0G6xgdO8hJLLMOIoHT+CIw57qDoIB+fGEdRAKdWRD652QX0qr0ofHRX8JB1hG64OHAd3+Yw3PWIQTK+MB3f1jBo9YhOJaR6A6H8F/2sIba1q2clMaRut7SWdkekhX7a7HKvK2clidLV+noEYA3a675aSz7rUNIyg5+Zx1CYNyT1oLs/juQ7vq6ATKg9F9LzwE0ZWvIFwL5ll4UWgeRpGosp4N1EAGwmuPJsw4iaXM9WkzWL4U0ZceRv5YeAQwIefeHB0LT/SGXP1mHEAgPh6j7w8PWATiUQd+Sfz06AYTbEt60DiElz7LJOgRzm3nROoSUvMYi6xAcKtXLSyeAftaxOfTHQJ/9LyuHv1iHYO4R47UaUlXAI9YhOFRqnq/kkL8Gu0N9nnMHrchx9RMbcTrdaUl9YDfrWcoXLi9T0YRNVPexjYImh5bsdPUT63EmXWlDA2APm1jCbJe3UJPNoX42dDb1yS3vH/qYn6Jw9QSHI00Yx2zyy2wjl08YQz0Xt/SGebtZlkkutmR9buZTcstsI48vGEtjF7f0tHm7OSsVrFD5H+aBOSturfrbkEcSPNRjB7937WqDS8zbzbIMd6kV6/AHdlS6pb38t2u/t/uZt5uzckv51XrRPDAnxa2r/0bxfVLbW+PSktXVI/s0msRlC9VcacPzWZvU9jZzmSvbywj5suElrkItOQl4miuNY8WNNVyr8gQTOSap17bnPe5z4bTpwZCduXDT5PKPRVOSwYO8m+Szg1rwGn9z4XZ3dw9d/NenvB/WL+eIN0zlbMfNUpP/TXmrz7vwdbravO2syijHbVcljXHrmy5MdQ8xbzsnJb+8WayzzMNyUg44Xv4r3SU7nS872jyiz2FMVAocP6cx3SU7nS87WpMD5u3npBw+4X/kEOAkx19kSzMdn01+kMvTet8Yxjrc8lYWe9ImQbfA8YM/7kxzdaWL+YPDLWeH4O7Fypxc/IfMsj8KpX87fP9g7k77vY84XtxjuuvtEQZO91kvHkr7vb9y/OCvcO+zw9/YqCSAuY7eXZ0nHCzPUZ1nHC7u8bUnbRJ0zvZZJk84OIeQydMOZwLCvc/KJICqdLeOyRFnJwHH0MXR+09jpGH0YeWs1qMcXvfRmRsNo7d2YvEsSPFprBNYYB2TA9nUcXAXQBVW0t5hBHM51cG7G5W8QTM2Gjp6YOvXnOJw+2s4zsFav1XICvWF891YCkdGACdYx+PICkc3AQ1x3P2ht6NJ1J1sc71Ngu57R92/l+PuDx0czQPks9L1NvFTj6L/K04A4V4JeLmjd1/hSgxXOnp3uAeU6dA+s9Wt6P+KE0C4ZwCc/f50ZyFUZ5+y3bW2CAtn+8ydp1fEeZ8dlQC6WcfjyD4H723u0rJcvajq4N3u3mQcBk72WTWXnqrQ0dFipOHeZ6USQBU6W8fjiJMv0/EuxVDdUSLZ4+C94eSk+xzr0k1EODr7E+4E0KWo7xclgI6hns90tiuSu/UnGU4ubHWSwsIp/Pss3AmgdtENVEUJwK3fglacdJ86rkXh5MHW4f4ypSPLwXuDsc/CnrS7QHEC6GQdi0NOFtVy73n0dR28N9wjsHQ4GcRrn7mhIxw5BAi3pkbvde+TmrkWRVg4qXEw9pl7UdjoBFEZATiZynF2EXDwogiLYLRWMKKwUWIEEPYE4GQ58zNdi6Jv2u+sFvLVmNLRx8FBgHvL1zt5FF76+zsYDieAjNA/oKpt2pcyn+jCZcDFeqc9O32Wo2PRcKqXdudr5cJlwMXapX0JXE/auN4m/jp8CNCSWtaxOHaDz+8rTxWuS/Od17vaFmFxQ5rvu87hzdfuRJHu+4KjbvE8zOnmCxQ5L/tpm0YTtCLL1Si2pTU/3bWctezjUPKKb0hJST22uPzNSec3eWuXvzk25ZSiEUDYhzIAtfh/abzrftdW9y/SlLvSeNcjji4iDq8q/Gca7/qV45UES6uV1mPaH3D5m2Pj0C/NseaZyJ3fJ6neIDKYPNejyEr5+PRK85azLKmuC9yb/a7HkJvybcHnevDNsSi3RmcEAFWYmNIdDcfyigtLeh+tNlNplcLrTyn5kIYYejGl8x8tmOzBfFVVXuO4FF5/LP/04JtjoU1RAmhtHYdLGjMl6Tn9drzj0YUcrXgz6YtcuvNWJIaS6avF60nfidqcKWnN9CTWmClJPloEOvBe6C8BKnaoNT8xH4q4V7YkdXKpn8sTSUeX1UmtD3Qhu83bKwhlF8OSaK2erPE0iu+TOq8/gK3m7eVeObQu81LzQNwsOTxQ6dN763E/OZ5HsZe7Kn1USRP+GvInMblZ8ni00jvza3EP+zyPIps/VPrNqc+DPnxz/CyLiiq2wzwQt8sWxtGonF3YiHEe/+4vWdby03Iv8DmGX7PLvI2CVnZWML9fj5tY5+M3Z2y5zxBuzB2R+t1fVLZBBtXJduERl8GTwyd8yhI2kUs1WtGNsxjo+x1cWfybGSxlM/lUpw09OJt+MT3tl1geM/iERWzgIFVoSVcGcI7vsyTZfMqnLGEjeVSjFd0ZaPDN8UMBNTJow3rrOETERItMly+rEJHwaJ4ZmVMaIpKqZpmO1kUVkTBrklnunKeIxEGDTBpYxyAiRhoqAYjEVwMdAojEl0YAIjHWMLPSq59FJMrqZ8b8dlSROKuVGYEFQUUkPbU0AhCJr9oaAYjElw4BRGJMCUAkxmpnOnpMs4iEWdXMiCxwLCKpq6IEIBJfSgAiMaZDAJEYq5JBQSTXBBaRxArcfNK6iIRMJgXWIYiIkfxM8q1jEBEjSgAiMZanBCASXxoBiMRYfia51jGIiJG8TA5YxyAiRvYrAYjE1wElAJH4OpDJfusYRMSIDgFEYkwjAJEYO5DJHusYRMTI7kx2WccgIkZ2ZbLbOgYRMaIEIBJju5UAROJrl+YAROJrVyY7rGMQESM7M9lqHYOIGNmqBCASX1szqEaOFgYXiaECqmeSy07rOETEwA/kZ4IOAkRiaSsoAYjE1aEEsME6DhExsEEJQCS+1hclgI3WcYiIAY0ARGJsvRKASHwdGgGst45DRAxsgAwggyxqWcciIr7aS/2iEUAhq61jERGfrYKiBHDojyISIyuhOAGstI5FRHymBCASYyUOAZQAROKmRAJYbh2LiPhsGXBoKZAq7KOmdTwi4pv91KOgeASQzwrreETER0spgOIEAEus4xERHx3q8UoAInGkBCASY0clgIXW8YiIjxYV/V/xguBV2avzACIxkUX90pOAeRoDiMTGgqLufyQBwDzrmETEJ4d7uxKASPyUkwC+tY5JRHxyOAEceSpgfXaWSAciElUFNGRv0R+PdPk9RTcHiEjELS7u/pT6nf+ldVwi4oPZR/5YMgHMsY5LRHxQoqdrBCASNyV6ekaJH1dnDzWsYxMRT2VTn9ziv5QcARzUqUCRyJt7pPtz1Im/GdaxiYjHPiv5FyUAkXgp1cszSv1TU7Ye9RMRiZICmrHjyF9LjwC2s9Q6PhHx0MKS3Z8yF//qIEAkyo7q4UcngE+t4xMRD31W+q9HH/G3YqN1hCLikUJa8X3JHxw9AtikWQCRyFpYuvtTzg3AH1nHKCIemXb0D5QAROKjTO8ue9a/IdupYh2niLgujybsKf2jsiOAXcy1jlNEPDD76O5PuYuAvWsdp4h4oJyeXV4CeMc6ThHxQDk9u7wr/zPZxDHWsYqIqzbTmsKjf1jeCKCA961jFRGXvVu2+0PVcl/6DqOtow2MPLayhSo0p7mWTQ+JArayhQJa0FxntA4rd26v/Jt/G7G1gtQQJ18zhanMPZw3q3AGFzGC7taBSYUW8RZTmU3+ob9n0puLGM4p1oGZy6UZu5N/+TQKY12mcUaFbTOE2ebxqZQtnzOown3Wl+nm8dmWCg7rKxrUvmmdsAzt4VqG8EWF/z6NM7mdbOswpYQD3Epfplf477MYxOgjj8OIocnl/7ii9X/asC6mawOtYWhSz0g6lbdpbh2sALCVC5K6fK0r79HeOlgTBbRhc3n/UNEIYANfWcdsYi0DknxE2lf0Z511uAKso3+SV68uZUBM99nn5Xd/KpnXnkz87GMYG5J+9QoG8p11yLG3ggGsSPrV67mALOuQDbxZ0T8oAZQ0jiUpvX4tA1lkHXSsLWRgir/TF/EL66ANvFHRP1R2nP8tPa3j9tVMBlCY8rua8h69rUOPqa8Yyg8pv6sK8+hhHbqv5tCnon+q7NKWV6zj9tnv0+j+sJ3BzLQOPZZmMDiN7g/5/M46dJ9V0pMrGwEcy8oYnQlYwfFpv7c2/8NI6wrEzOtcx4E035vBCjpZV8A3BXRgfUX/WNkIYHXJ54hH3lsO3rufy/iDdQVi5W9ckXb3h0KmWlfARzMr7v4kuLr9VevYffS2o3cXch83kWddiVjI5zbGUeDoM5zt7XCptBdXPsRvxbrY3EzRmJ2OP+NCXqGudUUibi9XurBkTRO2W1fEJ3m0YUvF/1z5CGBT2VVEIyrbhe4PbzOQtdZVibQ1DHBlxaod5FhXxSfvV9b9EyUAeNE6fp9scf4RAHzDqXxgXZnIep9TmefKJxW6tseDLkEPTpQAJrPLuga+qObaJ21nKPc6PEKVsgp5mAvTOu1XvhrWFfLFzkST24kSQDavWdfBF24uHFHIw4xw5ZBCiu3hMu49fJe/c1Vpal0lX7yS6FAn8Ro38TgIqEozVz/vbfq4NFgV+IZeLl+afkxMJrcnJHpB4gQwk+XWtfDFAJc/7ztO5886FHCsgEc4k5Uuf6rbezuYFleyqsUhiRNAIc9a18MXF7r+iTn8knNTuLtQyvqeC7nbgxn7i6wr5otnEr8kmUt9m7E+BlMm22jDQQ8+tzFPc7l15UJqIrd4MpdSkw00sa6c57Jpk3jSNJl1brfF4tbgZlzjyefuYBQ3xORcipt2cj1XejSVemsMuj+87t45k3PMlzT0o6yjjmc7owUTzOsXpjKFNp7ti7psMa+fH2Wge02WwVLz6vhR/uzZlw5gOOvMaxiGstaD+ZiS/mpeQz/KEnfv5L3DvEJ+lAKPb+qtx2Pkm9cyyCWPv3h8N8VlFJjX0o8y1t1ma8Be8yr5UfZztqdfPziNWea1DGqZ4fnaSmdzwLyWfpTd1He76f5uXil/ShZDPf4SwnBWmdczaGUdoz1ffmYo+83r6U/5q/uN1zk2g9ccLvP4iwjVGcdu85oGpezjPmp63ubDY/Lbv5ACB6tbVeJ984r5VXL5kedfR2jJM+Sa19W6HORpWvjQ2tfGqK09Wu/oQvOK+VfyGePDlxI68UKMvphHl1yeo6Mv7XxLbMavhRRynjeNmMEi86r5Vwp8Wz++A0/HMAnkM5HOPrXw7TGZ+S8q872bS/mJeeX8Lff7tiry8UzgoHl9/So5vOBb58/gP83r628Z7V1j1mCjefX8La/6MDlVrAX3sd28xl6X3TxGW9/atAYvmdfY37Ke6l426L3mFfS7zPR16YiajGaxeZ29Kt8xzsPLrctqzMfmdfa7/NzbJm3EHvMq+l2W+DRRVSyTEUwlz7zebpY8pjA8qVvP3NOJZeb19rvscv8CoKP92byS/petnOHrVxegFb9iuXnN3SjLuJdWvrdfX7aa19z/8pD3DdsyNpdTlCz7Te7pz2AgL4b4Iuw9PM8Ak8fLXRHLb2kWzf1o3LhcFFy6FPCQ0TpyNRnOhJBdN5jFFEb7erx/RBXui9VZ/yPlUX8auC055lW1KR8YriVbk0v4nxCkgV28xAgfz50crRnTzNvAphzw70BrvHllrcp6g9mAkqrQm3uYEcjfcIt4iCHenoRKqDerzdvBqvzdv2Y+NoZXrhWXbG4y/YoXacY1vMBa89YopJA1PM/VgVhn/xayzVvDquTQzs+mfta8wpZlArWtv+uHtGQ49/GhwZRXLl/xGKPpYN0Eh9SM+XfyyfSaLd0Z2nYsj8FKwRWbz49YaB1ECTXoxUmcSA9O9HTBy+0sYBELmM83gXq85km8zAnWQRg6QGc2pvPG9E/RPOb2okMhk829/I1C6zDK0YIT6EZH2tOe9o7TwQ+sZQ1rWc0SFgTykZoZ3Ml/xfrXETya7q1r6SeAY1hpdJonOD7gx2yyDiKBerSnDU1ofPi/RlQlg4ZAdeoAWRwEdlFILrvYwQ+H/1vPWvZZVyCB1rzAEOsgjO2lE9v83+wfzY977MtOrrbe+7F2aQxun0pc7rdp/EbsMK96EMo/qGfdD2KpPs+Z7/sglB9omH4jOrm2LZsCzrX+FgTAKVzPWpZYhxEzFzHV8xWcw+HXfGy16eqsNM9/QSlePstGStNzlo6UVc6mP51d3Z7PD1xq/W0IiOP5CQeYQxDPC0RJBqN5y/h6zCC5hfmWm89gjnkODFKZQXfrb0SkdWa6+T4OUpltcq9lKfF4cGjyJZs/alLQE/V5KLa3oVVUBljvFIDJ5s0QtLKdcUa3DkdVJqPZbL5fg1YmWu+WIh1jufhCorKYC6x3TGQM4lvz/Rm8st+N+zDcWKVtlceP1Q6nbrzNh/SwDiP0OjORj+hpHUYA/TdrrEMoVof15vkwmOUgjxushxcVrfl7jJ6WkFpZG5g7UgG4xrxBgltyeJrW1jsodJrzUGye5ZtOGWW9g0rL4BPzJgly2c9ffHkEZjS05K+aV6q0TLfeRWX10GAtQcnmaVpa76bAa8ZDZJnvq2CXHLpZ76by6O7AxCWbCZoYrNBxPKbOn0R5wHpHla+W7gxIqhTwIcPtr+AKmP5MidUzfNMva4K7DsdQ88YJT1nGOGpZ77BAqM5o5pvvj/CUC613WGVeN2+eMJXN3O/zcweDpiMP8L35fghTcfnqP7cHoi1YTCPfvj7RMJfxvEyWdRg+q8EIxjBYh0Ip2UH3QK7LWMKN5jkyjGUXT9Pfetf5pgcPaSmvtMpot3eF+/k3g/e1TlCa5vEvJrHKOgwPdWIUV3OSdRgh9T5D3f5ILwZg7VmgG2IdWMwkXmGpdRgu68DFjKKvhvxpy+Ik9385eLM7budvnjdH1M1jEq9HIg105XIu1+08jt3GE+5/qDcJIJNpnONxc8TDaj5kGh+yyzqQNNThTIYwIphXrYXOZ5xNgfsf69WArAPzqO9pg8RJPt8yjWl8Qq51KEnI5BSGMISBxk8KjpLd9GStFx/s3RHZjfzDs8+Oqx18zufMYk4gn9dTl9Poxxn01Ylg193Ai958sJdTMm8x3MNPj7M8FjCLz/mCldahAJ04kzPoy0laBs0jbzLSq4/2MgE0YyHNPfx8gT2sYDGLWMwiX08fNqIH3elBd06mqXUjRNw2TvTu4h9vT8pcwmRPP19K2sYCvmMta1nDGja7OmWUSSva04H2dKATJ6nT+6aQEUz17uO9Piv7JD/zeAtSvoOsZy0bDj/pt6jsSXg+oSH1aXKoNKYJTWhNe9pqQs/I44z18uO9TgC1mKP73wMnh/3APnIpBDKoRl2gtrOHTIkH5nM62V5uwPvrsnowR7e9iqQhmz4s8HYT3s/bbmOXVsgXScN/8K7Xm/DjyuwMXvfuNIZIRE3kSu834s+tGfWYQxdftiQSDSs4lT3eb8aNJwMltpcrOODLlkSiIJsr/ej+fswBFNnCNl0XKJKkm3jPnw35d/HmXI7lZN+2JhJez/q38LefyzPUYZbWghFJ4Gv6+3fA7O/6LB2Yo4tIRSrxA6ex2r/N+TMJWGwNV5Hn6xZFwiSfa/zs/n7OARRZTbaWDBWpwC942d8N+n8H9yy6coLvWxUJvn9yt9+btFijtTaf0ttguyJBNoez/L9axmaR5pZ8SRuTLYsE0yZOZ4P/m/V3ErDYZkbE7lFYIhU7wCUW3d8qAcA3jPZikWORECrgGubYbNpuGccl5DHYbOsiwXEPz1lt2nId189ozmmG2xcJgmf4ld3GbZ/UVoXXudg0AhFbb3OJ5cVx1o9qrM1HnGEcg4iVrzjbdjrcOgFAU2bR2ToIEQOr6Ovdiv/JsToLcMR2LmK7dRAivtvG+dbdPwgJAJYzJJRPvxVJ3x6G8Z11EMFIADCPkd6ufi4SKAcYwVzrICAoCQA+5krdKCwxkc+1fGIdRJHgPM91Gau5JACTkiLeKuSn/Ms6iGLBSQAwn10Msw5CxFOF3M546yCOCFICgNns4XzrIEQ89Cv+Yh1CScFKAPAFWZxnHYSIR37LH61DKC1oCQBmkclZ1kGIeOA+/5b7TlbwEgB8TDUGWgch4rI/8xvrEMoKYgKA6RoFSMT8t//r/SUjmAkAPiabIdZBiLjkYe61DqF8QU0AMJMDWkBcIuH3/M46hIoENwHATPbpjICE3m940DqEigU5AcDn7GSorg6U0Crgdh61DqIywU4AMJvvGB74KEXKk89NQbrqrzxh+O06nFepZR2ESIpyuIY3rINIJAwJAM7iLepbByGSgn2MZJp1EImFIwHAqbyrB4tLaGxjKF9bB5GMsCQA6Mh7WjtQQmEVw1huHURygrIgSGKrOJNZ1kGIJDSHM8PS/cOUAOAHzmOqdRAilfqAwWy1DiJ54TrBlstEmnOqdRgiFXiOq8O1umW4EgAU8jY5DArR3IXERQH3cE/YHnkbzo50KROoYx2ESAlZXMub1kGkLpwJAHryFu2sgxA5ZFNQlvlOVZgmAUuax5lWT1QXOcq3nBHO7h/eBACbOJtXrIMQ4WX6st46iHSFNwHAfq7mZnKtw5AYy+deruWAdRjpC+scwBFnMZHm1kFILP3AVWG43r8y4U8A0JY3dG2A+O5bLmW1dRBOhfkQoNh6zmKCdRASM8/RN/zdPxojgCKjeYra1kFILGQzlmesg3BHdBIAnMwkjrMOQiJvBZcz3zoIt0ThEKDYt5wa/BVYJOQm0js63T9aCQB2cxnXs986DImobO7gSvZah+GmKB0CFOvGv+hpHYREzmKuYoF1EG4L292AydjOC9SnTySTm1h5iYvZaB2E+6LbSS5hPM2sg5BI2MpPoroUTbTmAEp6kxPCeHumBM67nBzV7h/lBABbGckV7LQOQ0JsDzdzAZutw/BOdA8BirXnec6xDkJCaSbXs9I6CG9FeQRQZC1DGMs+6zAkZPZyOwOj3v3jMAIo0oGn9aRhSdr73Mxa6yD8EP0RQJE1nM8V/GAdhoTALm5mWDy6fzSvA6jIYl6iA92tw5BAm8RFfGIdhH/icghwxIU8zrHWQUggreI23rUOwl9xGgEUWcF48jiTqtaBSKDk8gSXs9g6DL/FbwRQpDtPMdA6CAmMj/kZS62DsBCXScCjLeYsRsRlokcqtZHrGRTP7h/HQ4AjljOePM7QwUCMHeBRrojzEybieghwRBv+i+usgxATUxkbhXX9nFACADiTR+hnHYT4ag53xel0X0XiOgdQ2ucM4ApWWYchPlnH9Zyu7g8aAZRUnRt4UGsIRNxOHuYxsq3DCAolgNLqcSu/pr51GOKJLP7Ow7pBvKQ4nwUoz0Fm8iyF9KaadSjiqoP8g0t5U7/7JRlteJqDFKpEouTwJK2tv1LBpEOAirXjF9xELeswxJGDvMofon9ff7qUACp3DHdyux45FlI5vMj9UVzL1z1KAIkdwy+4WRODIbObp/gLW63DCDolgOTU40Z+QVvrMCQp3/M0f2WXdRgSLdUYzQLzCS2Vyst8xlDT+qsiUZXBUN4h3/xrrlK25DOV8zSmTY2aKx2duIkxNLIOQw7by794LH7LeTinBJCu+tzAz+hqHYawlKd4gT3WYYSTEoAzvRnDtTpNaCSHtxjPRxRaBxJeSgDONeF6btJYwGdLGM8EdliHEXZKAG7pzWiuoal1GDGwiylM0O99dygBuKkG53Edl+hGIo/k829e4jX2WwcSHUoA7mvBKK6kr9rWRQXM4lUmscU6kKjRl9QrbbiMUUoDLljMJCZovSZv6OvprU5cykhO19JraSjgCybzhrq+l5QA/NCUCxjFeVS3DiQk8vmCSUxik3Ug0acE4J86DOIiLqCNdSABto2PmcpbupHHL0oAfsugF8MYRh89kKSEPL7gPd7lG53c85cSgJU6nMkQhtAr5vtgFdOYxof6nW8j3l++IGjBIPozgO6xmigsYBGfMYPpOrFnSwkgKBrTj/70p1ek72Y/wNfMYAYztTh3MCgBBE1VutCb3vTjlAiNCVYxk7nMZQ451qFISUoAwVWPk+jJyfTkhFDeb7ifhXzLPOYxn73WwUj5lADCoAqdOYEu9KArXQKdDPazlKUsZikL+Y5863AkESWAsMmkPcfTkU6H/qtrHM9eVrGSVaxiJctZq9N44aIEEHbNaEMb2tGaNrSjGc1o6tleLWQ729jKejawkXVsYAPbrBtAnFACiJ4qNKMpzWhKQxoc+q8edahFTepSjQaHJhdrU+PQO3IO3WBbwG5y2Uc2B9jHPnaxm13sYjfb2cZ2tmlQHzX/B/9RasVTMxGPAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA1LTE3VDAwOjE4OjE2KzAwOjAwNWpy7gAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNS0xN1QwMDoxODoxNiswMDowMEQ3ylIAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <filter id="Path_1633" x="442.17" y="1415.684" width="346.33" height="453.316" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-29"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="app_bar-8" x="444" y="1382" width="366" height="82.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-30"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-15" x="473.5" y="1824" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-31"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149-16" x="655.5" y="1824" width="117" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-32"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-32"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1597" x="564.5" y="1824" width="92" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-33"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-33"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle" x="430.5" y="1529" width="394" height="388" filterUnits="userSpaceOnUse">
+      <feOffset dy="19" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="19" result="blur-34"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-34"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-ws-lowfi-1230X850">
+      <rect width="1343" height="2190"/>
+    </clipPath>
+    <image id="image" width="13" height="13" xlink:href="data:image/png;base64,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"/>
+    <image id="image-2" width="14" height="14" xlink:href="data:image/png;base64,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"/>
+    <image id="image-3" width="13" height="13" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g id="ws-lowfi-1230X850" clip-path="url(#clip-ws-lowfi-1230X850)">
+    <rect width="1343" height="2190" fill="#fff"/>
+    <g id="Group_703" data-name="Group 703" transform="translate(51 28)">
+      <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(-40 -53)" clip-path="url(#clip-path)">
+        <g transform="matrix(1, 0, 0, 1, -11, 25)" filter="url(#app_bar)">
+          <path id="app_bar-9" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(50.5 28)" fill="#acacae"/>
+        </g>
+      </g>
+      <path id="tab_dropshadow" d="M7.9,4.2h359m.5-.5h0Z" transform="translate(-7.9 -3.7)" opacity="0.12"/>
+      <text id="Page_title" data-name="Page title" transform="translate(91.5 60)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+      <g id="ic_more_vert_white" transform="translate(332 40)" clip-path="url(#clip-path-2)">
+        <path id="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+        <path id="path-2" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="Symbol_94_9" data-name="Symbol 94 – 9" transform="translate(-0.5)">
+        <path id="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+        <g id="time" transform="translate(-7.967 -8.333)" opacity="0.9">
+          <rect id="rectangle-2" data-name="rectangle" width="40" height="16" transform="translate(319.467 12.833)" fill="none"/>
+          <text id="time-2" data-name="time" transform="translate(324.467 24.833)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+        </g>
+        <g id="battery" transform="translate(-7.967 -8.333)">
+          <rect id="rectangle-3" data-name="rectangle" width="16" height="16" transform="translate(303.967 11.833)" fill="none"/>
+          <path id="battery-2" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(0.167 -0.167)" fill="#fff" opacity="0.9"/>
+        </g>
+        <g id="signal_strength" transform="translate(-7.967 -8.333)">
+          <rect id="square" width="16" height="16" transform="translate(283.967 11.833)" fill="none"/>
+          <path id="path-3" data-name="path" d="M284.8,27h14V13Z" transform="translate(-0.333 -0.167)" fill="#fff" opacity="0.9"/>
+        </g>
+        <g id="wifi_signal" transform="translate(-7.967 -8.333)">
+          <rect id="square-2" data-name="square" width="16" height="16" transform="translate(265.967 11.833)" fill="none"/>
+          <path id="wifi_signal-2" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-0.033 -0.167)" fill="#fff" opacity="0.9"/>
+        </g>
+      </g>
+      <g id="ic_arrow_back" transform="translate(11 40)">
+        <rect id="rectangle-4" data-name="rectangle" width="24" height="24" fill="none"/>
+        <path id="path-4" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -51, -28)" filter="url(#Path_1631)">
+        <path id="Path_1631-2" data-name="Path 1631" d="M-7.124-.316,329.89.006A3.082,3.082,0,0,1,333,3.06V456.082a3.082,3.082,0,0,1-3.11,3.054H3.378a3.082,3.082,0,0,1-3.11-3.054L.722,10.023C.722,8.337-8.841-.316-7.124-.316Z" transform="translate(62 126)" fill="#fff" opacity="0.6"/>
+      </g>
+      <text id="_9:00_AM" data-name="9:00 AM" transform="translate(273 502)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+      <text id="Forwarded_10_times" data-name="Forwarded 
+10 times" transform="translate(48 119)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+      <circle id="photo" cx="17" cy="17" r="17" transform="translate(42 35)" fill="#cfcfcf"/>
+      <use id="interface" transform="translate(31 107)" opacity="0.48" xlink:href="#image"/>
+      <rect id="Rectangle_1583" data-name="Rectangle 1583" width="316" height="43" rx="21.5" transform="translate(12 582)" fill="#fff"/>
+      <g id="Component_6_21" data-name="Component 6 – 21" transform="translate(20 520)">
+        <g transform="matrix(1, 0, 0, 1, -71, -548)" filter="url(#Rectangle_149)">
+          <rect id="Rectangle_149-17" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(71 548)" fill="#dbe0dd"/>
+        </g>
+      </g>
+      <g id="Component_6_22" data-name="Component 6 – 22" transform="translate(131 520)">
+        <g transform="matrix(1, 0, 0, 1, -182, -548)" filter="url(#Rectangle_149-2)">
+          <rect id="Rectangle_149-18" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(182 548)" fill="#dbe0dd"/>
+        </g>
+      </g>
+      <text id="Summary_" data-name="Summary " transform="translate(32 537)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Summary </tspan></text>
+      <g id="Group_701" data-name="Group 701" transform="translate(-95 13)">
+        <text id="Check_facts" data-name="Check facts" transform="translate(232 525)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+      </g>
+      <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(33 146)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+      <rect id="Rectangle_1584" data-name="Rectangle 1584" width="47" height="21" rx="4" transform="translate(287 109)" fill="#929592"/>
+      <text id="New" transform="translate(297 124)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">New</tspan></text>
+      <text id="Useful_12_" data-name="Useful (12)" transform="translate(265 538)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.63"><tspan x="0" y="0">Useful (12)</tspan></text>
+      <circle id="Ellipse_2794" data-name="Ellipse 2794" cx="11.5" cy="11.5" r="11.5" transform="translate(234 522)" fill="#dbe0dd"/>
+      <use id="gestures" transform="translate(238 526)" xlink:href="#image-2"/>
+      <rect id="Rectangle_1585" data-name="Rectangle 1585" width="359" height="640" opacity="0.78"/>
+      <g id="Group_702" data-name="Group 702">
+        <g id="Group_10" data-name="Group 10" transform="translate(1933 -287)">
+          <rect id="Rectangle_197" data-name="Rectangle 197" width="286" height="282" transform="translate(-1896 434)" fill="#f4f2f2"/>
+          <text id="Default_light_bg:" data-name="Default light bg:" transform="translate(-1819 538)" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Read a message </tspan></text>
+          <text id="Default_light_bg:-2" data-name="Default light bg:" transform="translate(-1881 557)" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="7.234" y="12">You can read a message within few minutes </tspan><tspan x="59.18" y="27">with our</tspan><tspan y="27" xml:space="preserve" font-family="Roboto-Bold, Roboto" font-weight="700"> summary feature</tspan></text>
+          <g id="Group_9" data-name="Group 9" transform="translate(-654)">
+            <circle id="Ellipse_1" data-name="Ellipse 1" cx="20" cy="20" r="20" transform="translate(-1116 634)" fill="#52626d"/>
+            <g id="ic_arrow_forward" transform="translate(-1104 646)">
+              <rect id="rectangle-5" data-name="rectangle" width="17" height="17" fill="none"/>
+              <path id="path-5" data-name="path" d="M9.55,4l-.971.971,3.885,3.885H4v1.387h8.464L8.579,14.129l.971.971L15.1,9.55Z" transform="translate(-1.225 -1.225)" fill="#faefef" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <path id="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1852.175 599.925)" fill="#52626d" fill-rule="evenodd"/>
+          <path id="disabled_slider_knob-2" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1824.175 599.925)" fill="rgba(0,0,0,0.26)" fill-rule="evenodd"/>
+          <path id="disabled_slider_knob-3" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1796.175 599.925)" fill="rgba(0,0,0,0.26)" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="Icon_feather-image" data-name="Icon feather-image" transform="translate(154 174.167)">
+        <path id="Path_1628" data-name="Path 1628" d="M9.259,4.5H42.574a4.759,4.759,0,0,1,4.759,4.759V42.574a4.759,4.759,0,0,1-4.759,4.759H9.259A4.759,4.759,0,0,1,4.5,42.574V9.259A4.759,4.759,0,0,1,9.259,4.5Z" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_1629" data-name="Path 1629" d="M17.639,14.069A3.569,3.569,0,1,1,14.069,10.5,3.569,3.569,0,0,1,17.639,14.069Z" transform="translate(3.519 3.519)" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_1630" data-name="Path 1630" d="M45.574,26.9,33.676,15,7.5,41.176" transform="translate(1.759 6.157)" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <g id="Group_715" data-name="Group 715" transform="translate(-42.5 -101)">
+      <g id="Group_704" data-name="Group 704">
+        <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(450 75)" clip-path="url(#clip-path)">
+          <g transform="matrix(1, 0, 0, 1, -407.5, 26)" filter="url(#app_bar-2)">
+            <path id="app_bar-10" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(447 27)" fill="#acacae"/>
+          </g>
+        </g>
+        <path id="tab_dropshadow-2" data-name="tab_dropshadow" d="M7.9,4.2h359m.5-.5h0Z" transform="translate(482.1 124.3)" opacity="0.12"/>
+        <text id="Page_title-2" data-name="Page title" transform="translate(581.5 188)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+        <g id="ic_more_vert_white-2" data-name="ic_more_vert_white" transform="translate(822 168)" clip-path="url(#clip-path-2)">
+          <path id="path-6" data-name="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+          <path id="path-7" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Symbol_94_10" data-name="Symbol 94 – 10" transform="translate(489.5 128)">
+          <path id="status_bar-2" data-name="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+          <g id="time-3" data-name="time" transform="translate(-7.967 -8.333)" opacity="0.9">
+            <rect id="rectangle-6" data-name="rectangle" width="40" height="16" transform="translate(319.467 12.833)" fill="none"/>
+            <text id="time-4" data-name="time" transform="translate(324.467 24.833)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="battery-3" data-name="battery" transform="translate(-7.967 -8.333)">
+            <rect id="rectangle-7" data-name="rectangle" width="16" height="16" transform="translate(303.967 11.833)" fill="none"/>
+            <path id="battery-4" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(0.167 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="signal_strength-2" data-name="signal_strength" transform="translate(-7.967 -8.333)">
+            <rect id="square-3" data-name="square" width="16" height="16" transform="translate(283.967 11.833)" fill="none"/>
+            <path id="path-8" data-name="path" d="M284.8,27h14V13Z" transform="translate(-0.333 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="wifi_signal-3" data-name="wifi_signal" transform="translate(-7.967 -8.333)">
+            <rect id="square-4" data-name="square" width="16" height="16" transform="translate(265.967 11.833)" fill="none"/>
+            <path id="wifi_signal-4" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-0.033 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+        </g>
+        <g id="ic_arrow_back-2" data-name="ic_arrow_back" transform="translate(501 168)">
+          <rect id="rectangle-8" data-name="rectangle" width="24" height="24" fill="none"/>
+          <path id="path-9" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 42.5, 101)" filter="url(#Path_1)">
+          <path id="Path_1-6" data-name="Path 1" d="M-7.124-.316,329.89.006A3.082,3.082,0,0,1,333,3.06V456.082a3.082,3.082,0,0,1-3.11,3.054H3.378a3.082,3.082,0,0,1-3.11-3.054L.722,10.023C.722,8.337-8.841-.316-7.124-.316Z" transform="translate(458.5 125)" fill="#fff" opacity="0.6"/>
+        </g>
+        <text id="_9:00_AM-2" data-name="9:00 AM" transform="translate(763 630)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+        <text id="Forwarded_10_times-2" data-name="Forwarded 
+10 times" transform="translate(538 247)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+        <circle id="photo-2" data-name="photo" cx="17" cy="17" r="17" transform="translate(532 163)" fill="#cfcfcf"/>
+        <use id="interface-2" data-name="interface" transform="translate(521 235)" opacity="0.48" xlink:href="#image"/>
+        <rect id="Rectangle_150" data-name="Rectangle 150" width="316" height="43" rx="21.5" transform="translate(502 710)" fill="#fff"/>
+        <g id="Component_6_23" data-name="Component 6 – 23" transform="translate(510 648)">
+          <g transform="matrix(1, 0, 0, 1, -467.5, -547)" filter="url(#Rectangle_149-3)">
+            <rect id="Rectangle_149-19" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(467.5 547)" fill="#dbe0dd"/>
+          </g>
+        </g>
+        <g id="Component_6_24" data-name="Component 6 – 24" transform="translate(621 648)">
+          <g transform="matrix(1, 0, 0, 1, -578.5, -547)" filter="url(#Rectangle_149-4)">
+            <rect id="Rectangle_149-20" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(578.5 547)" fill="#dbe0dd"/>
+          </g>
+        </g>
+        <text id="Summary_2" data-name="Summary " transform="translate(522 665)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Summary </tspan></text>
+        <g id="Group_4" data-name="Group 4" transform="translate(395 141)">
+          <text id="Check_facts-2" data-name="Check facts" transform="translate(232 525)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+        </g>
+        <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of-2" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(523 274)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+        <rect id="Rectangle_198" data-name="Rectangle 198" width="47" height="21" rx="4" transform="translate(777 237)" fill="#929592"/>
+        <text id="New-2" data-name="New" transform="translate(787 252)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">New</tspan></text>
+        <text id="Useful_12_2" data-name="Useful (12)" transform="translate(755 666)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.63"><tspan x="0" y="0">Useful (12)</tspan></text>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="11.5" cy="11.5" r="11.5" transform="translate(724 650)" fill="#dbe0dd"/>
+        <use id="gestures-2" data-name="gestures" transform="translate(728 654)" xlink:href="#image-2"/>
+        <rect id="Rectangle_205" data-name="Rectangle 205" width="359" height="640" transform="translate(490 128)" opacity="0.78"/>
+        <g id="Group_11" data-name="Group 11" transform="translate(2091 -154)">
+          <rect id="Rectangle_196" data-name="Rectangle 196" width="286" height="282" transform="translate(-1564 434)" fill="#f4f2f2"/>
+          <text id="Default_light_bg:-3" data-name="Default light bg:" transform="translate(-1504 538)" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fact check a message </tspan></text>
+          <text id="Default_light_bg:-4" data-name="Default light bg:" transform="translate(-1549 557)" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="51.928" y="12">You can </tspan><tspan y="12" font-family="Roboto-Bold, Roboto" font-weight="700">check a message is</tspan><tspan font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="12.585" y="27">true or misleading</tspan><tspan y="27" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400"> with verified fact-check </tspan></tspan><tspan x="111.021" y="42">sources</tspan></text>
+          <g id="Group_8" data-name="Group 8" transform="translate(-322)">
+            <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="20" cy="20" r="20" transform="translate(-1116 634)" fill="#52626d"/>
+            <g id="ic_arrow_forward-2" data-name="ic_arrow_forward" transform="translate(-1104 646)">
+              <rect id="rectangle-9" data-name="rectangle" width="17" height="17" fill="none"/>
+              <path id="path-10" data-name="path" d="M9.55,4l-.971.971,3.885,3.885H4v1.387h8.464L8.579,14.129l.971.971L15.1,9.55Z" transform="translate(-1.225 -1.225)" fill="#faefef" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <path id="disabled_slider_knob-4" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1520.175 609.925)" fill="#b5b3b3" fill-rule="evenodd"/>
+          <path id="disabled_slider_knob-5" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1492.175 609.925)" fill="#52626d" fill-rule="evenodd"/>
+          <path id="disabled_slider_knob-6" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1464.175 609.925)" fill="rgba(0,0,0,0.26)" fill-rule="evenodd"/>
+        </g>
+        <g id="Icon_feather-image-2" data-name="Icon feather-image" transform="translate(647 302.167)">
+          <path id="Path_1628-2" data-name="Path 1628" d="M9.259,4.5H42.574a4.759,4.759,0,0,1,4.759,4.759V42.574a4.759,4.759,0,0,1-4.759,4.759H9.259A4.759,4.759,0,0,1,4.5,42.574V9.259A4.759,4.759,0,0,1,9.259,4.5Z" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_1629-2" data-name="Path 1629" d="M17.639,14.069A3.569,3.569,0,1,1,14.069,10.5,3.569,3.569,0,0,1,17.639,14.069Z" transform="translate(3.519 3.519)" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_1630-2" data-name="Path 1630" d="M45.574,26.9,33.676,15,7.5,41.176" transform="translate(1.759 6.157)" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_716" data-name="Group 716" transform="translate(-55.5 -104)">
+      <g id="Group_705" data-name="Group 705" transform="translate(899 130)">
+        <g id="Mask_Group_2-2" data-name="Mask Group 2" transform="translate(-40 -53)" clip-path="url(#clip-path)">
+          <g transform="matrix(1, 0, 0, 1, -803.5, 27)" filter="url(#app_bar-3)">
+            <path id="app_bar-11" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(843 26)" fill="#acacae"/>
+          </g>
+        </g>
+        <path id="tab_dropshadow-3" data-name="tab_dropshadow" d="M7.9,4.2h359m.5-.5h0Z" transform="translate(-7.9 -3.7)" opacity="0.12"/>
+        <text id="Page_title-3" data-name="Page title" transform="translate(91.5 60)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+        <g id="ic_more_vert_white-3" data-name="ic_more_vert_white" transform="translate(332 40)" clip-path="url(#clip-path-2)">
+          <path id="path-11" data-name="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+          <path id="path-12" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Symbol_94_11" data-name="Symbol 94 – 11" transform="translate(-0.5)">
+          <path id="status_bar-3" data-name="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+          <g id="time-5" data-name="time" transform="translate(-7.967 -8.333)" opacity="0.9">
+            <rect id="rectangle-10" data-name="rectangle" width="40" height="16" transform="translate(319.467 12.833)" fill="none"/>
+            <text id="time-6" data-name="time" transform="translate(324.467 24.833)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="battery-5" data-name="battery" transform="translate(-7.967 -8.333)">
+            <rect id="rectangle-11" data-name="rectangle" width="16" height="16" transform="translate(303.967 11.833)" fill="none"/>
+            <path id="battery-6" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(0.167 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="signal_strength-3" data-name="signal_strength" transform="translate(-7.967 -8.333)">
+            <rect id="square-5" data-name="square" width="16" height="16" transform="translate(283.967 11.833)" fill="none"/>
+            <path id="path-13" data-name="path" d="M284.8,27h14V13Z" transform="translate(-0.333 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="wifi_signal-5" data-name="wifi_signal" transform="translate(-7.967 -8.333)">
+            <rect id="square-6" data-name="square" width="16" height="16" transform="translate(265.967 11.833)" fill="none"/>
+            <path id="wifi_signal-6" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-0.033 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+        </g>
+        <g id="ic_arrow_back-3" data-name="ic_arrow_back" transform="translate(11 40)">
+          <rect id="rectangle-12" data-name="rectangle" width="24" height="24" fill="none"/>
+          <path id="path-14" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -843.5, -26)" filter="url(#Path_1-2)">
+          <path id="Path_1-7" data-name="Path 1" d="M-7.124-.316,329.89.006A3.082,3.082,0,0,1,333,3.06V456.082a3.082,3.082,0,0,1-3.11,3.054H3.378a3.082,3.082,0,0,1-3.11-3.054L.722,10.023C.722,8.337-8.841-.316-7.124-.316Z" transform="translate(854.5 124)" fill="#fff" opacity="0.6"/>
+        </g>
+        <text id="_9:00_AM-3" data-name="9:00 AM" transform="translate(273 502)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+        <text id="Forwarded_10_times-3" data-name="Forwarded 
+10 times" transform="translate(48 119)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+        <circle id="photo-3" data-name="photo" cx="17" cy="17" r="17" transform="translate(42 35)" fill="#cfcfcf"/>
+        <use id="interface-3" data-name="interface" transform="translate(31 107)" opacity="0.48" xlink:href="#image"/>
+        <rect id="Rectangle_150-2" data-name="Rectangle 150" width="316" height="43" rx="21.5" transform="translate(12 582)" fill="#fff"/>
+        <g id="Component_6_25" data-name="Component 6 – 25" transform="translate(20 520)">
+          <g transform="matrix(1, 0, 0, 1, -863.5, -546)" filter="url(#Rectangle_149-5)">
+            <rect id="Rectangle_149-21" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(863.5 546)" fill="#dbe0dd"/>
+          </g>
+        </g>
+        <g id="Component_6_26" data-name="Component 6 – 26" transform="translate(131 520)">
+          <g transform="matrix(1, 0, 0, 1, -974.5, -546)" filter="url(#Rectangle_149-6)">
+            <rect id="Rectangle_149-22" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(974.5 546)" fill="#dbe0dd"/>
+          </g>
+        </g>
+        <text id="Summary_3" data-name="Summary " transform="translate(32 537)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Summary </tspan></text>
+        <g id="Group_4-2" data-name="Group 4" transform="translate(-95 13)">
+          <text id="Check_facts-3" data-name="Check facts" transform="translate(232 525)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+        </g>
+        <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of-3" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(33 146)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+        <rect id="Rectangle_198-2" data-name="Rectangle 198" width="47" height="21" rx="4" transform="translate(287 109)" fill="#929592"/>
+        <text id="New-3" data-name="New" transform="translate(297 124)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">New</tspan></text>
+        <text id="Useful_12_3" data-name="Useful (12)" transform="translate(265 538)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.63"><tspan x="0" y="0">Useful (12)</tspan></text>
+        <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="11.5" cy="11.5" r="11.5" transform="translate(234 522)" fill="#dbe0dd"/>
+        <use id="gestures-3" data-name="gestures" transform="translate(238 526)" xlink:href="#image-2"/>
+        <rect id="Rectangle_205-2" data-name="Rectangle 205" width="359" height="640" opacity="0.78"/>
+        <g id="Group_12" data-name="Group 12" transform="translate(1279 -284)">
+          <rect id="Rectangle_195" data-name="Rectangle 195" width="286" height="282" transform="translate(-1242 434)" fill="#f4f2f2"/>
+          <text id="Default_light_bg:-5" data-name="Default light bg:" transform="translate(-1213 538)" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Give opinion about message</tspan></text>
+          <text id="Default_light_bg:-6" data-name="Default light bg:" transform="translate(-1093 569)" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="-131.482" y="0">Last, tell you your opinion about the message,</tspan><tspan x="-123.481" y="15">this helps to curate useful content for your </tspan><tspan x="-20.081" y="30">friends</tspan></text>
+          <g id="Group_7" data-name="Group 7">
+            <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="20" cy="20" r="20" transform="translate(-1116 634)" fill="#52626d"/>
+            <g id="ic_check" transform="translate(-1106 640)">
+              <rect id="rectangle-13" data-name="rectangle" width="21" height="23" fill="none"/>
+              <path id="path-15" data-name="path" d="M8.045,15.409,4.561,11.522,3.4,12.818,8.045,18,18,6.9,16.839,5.6Z" transform="translate(0 1)" fill="#fff" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <path id="disabled_slider_knob-7" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1198.175 609.925)" fill="#b5b3b3" fill-rule="evenodd"/>
+          <path id="disabled_slider_knob-8" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1170.175 609.925)" fill="rgba(0,0,0,0.26)" fill-rule="evenodd"/>
+          <path id="disabled_slider_knob-9" data-name="disabled_slider_knob" d="M72.175,2.075a4,4,0,1,0,4,4,4.012,4.012,0,0,0-4-4" transform="translate(-1142.175 609.925)" fill-rule="evenodd"/>
+        </g>
+        <g id="Icon_feather-image-3" data-name="Icon feather-image" transform="translate(155 174.167)">
+          <path id="Path_1628-3" data-name="Path 1628" d="M9.259,4.5H42.574a4.759,4.759,0,0,1,4.759,4.759V42.574a4.759,4.759,0,0,1-4.759,4.759H9.259A4.759,4.759,0,0,1,4.5,42.574V9.259A4.759,4.759,0,0,1,9.259,4.5Z" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_1629-3" data-name="Path 1629" d="M17.639,14.069A3.569,3.569,0,1,1,14.069,10.5,3.569,3.569,0,0,1,17.639,14.069Z" transform="translate(3.519 3.519)" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_1630-3" data-name="Path 1630" d="M45.574,26.9,33.676,15,7.5,41.176" transform="translate(1.759 6.157)" fill="none" stroke="#acacae" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_719" data-name="Group 719" transform="translate(-30 -107)">
+      <rect id="Rectangle_1590" data-name="Rectangle 1590" width="361" height="633" transform="translate(80 816)" fill="#f8f8f8"/>
+      <rect id="Rectangle_150-3" data-name="Rectangle 150" width="330" height="43" rx="21.5" transform="translate(92 1391)" fill="#fff"/>
+      <g id="Group_710" data-name="Group 710" transform="translate(0 16)">
+        <g id="Mask_Group_2-3" data-name="Mask Group 2" transform="translate(40 747)" clip-path="url(#clip-path-7)">
+          <g transform="matrix(1, 0, 0, 1, -10, -656)" filter="url(#app_bar-4)">
+            <path id="app_bar-12" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(49.5 709)" fill="#acacae"/>
+          </g>
+        </g>
+        <text id="Page_title-4" data-name="Page title" transform="translate(171.5 860)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+        <g id="ic_more_vert_white-4" data-name="ic_more_vert_white" transform="translate(412 840)" clip-path="url(#clip-path-2)">
+          <path id="path-16" data-name="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+          <path id="path-17" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Symbol_94_15" data-name="Symbol 94 – 15" transform="translate(79.5 800)">
+          <path id="status_bar-4" data-name="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+          <g id="time-7" data-name="time" transform="translate(-7.967 -8.333)" opacity="0.9">
+            <rect id="rectangle-14" data-name="rectangle" width="40" height="16" transform="translate(319.467 12.833)" fill="none"/>
+            <text id="time-8" data-name="time" transform="translate(324.467 24.833)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="battery-7" data-name="battery" transform="translate(-7.967 -8.333)">
+            <rect id="rectangle-15" data-name="rectangle" width="16" height="16" transform="translate(303.967 11.833)" fill="none"/>
+            <path id="battery-8" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(0.167 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="signal_strength-4" data-name="signal_strength" transform="translate(-7.967 -8.333)">
+            <rect id="square-7" data-name="square" width="16" height="16" transform="translate(283.967 11.833)" fill="none"/>
+            <path id="path-18" data-name="path" d="M284.8,27h14V13Z" transform="translate(-0.333 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="wifi_signal-7" data-name="wifi_signal" transform="translate(-7.967 -8.333)">
+            <rect id="square-8" data-name="square" width="16" height="16" transform="translate(265.967 11.833)" fill="none"/>
+            <path id="wifi_signal-8" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-0.033 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+        </g>
+        <g id="ic_arrow_back-4" data-name="ic_arrow_back" transform="translate(91 840)">
+          <rect id="rectangle-16" data-name="rectangle" width="24" height="24" fill="none"/>
+          <path id="path-19" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 30, 91)" filter="url(#Path_1-3)">
+          <path id="Path_1-8" data-name="Path 1" d="M-7.124-.316,329.89.006A3.082,3.082,0,0,1,333,3.06V456.082a3.082,3.082,0,0,1-3.11,3.054H3.378a3.082,3.082,0,0,1-3.11-3.054L.722,10.023C.722,8.337-8.841-.316-7.124-.316Z" transform="translate(61 807)" fill="#fff" opacity="0.6"/>
+        </g>
+        <text id="_9:00_AM-4" data-name="9:00 AM" transform="translate(353 1302)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+        <text id="Forwarded_10_times-4" data-name="Forwarded 
+10 times" transform="translate(128 919)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+        <circle id="photo-4" data-name="photo" cx="17" cy="17" r="17" transform="translate(122 835)" fill="#cfcfcf"/>
+        <use id="interface-4" data-name="interface" transform="translate(111 907)" opacity="0.48" xlink:href="#image"/>
+        <g id="Group_14" data-name="Group 14" transform="translate(80 800)">
+          <g id="Component_6_35" data-name="Component 6 – 35" transform="translate(20 520)">
+            <g transform="matrix(1, 0, 0, 1, -70, -1229)" filter="url(#Rectangle_149-7)">
+              <rect id="Rectangle_149-23" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(70 1229)" fill="#dbe0dd"/>
+            </g>
+          </g>
+          <text id="Summary_4" data-name="Summary " transform="translate(32 537)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Summary </tspan></text>
+        </g>
+        <g id="Group_15" data-name="Group 15" transform="translate(80 800)">
+          <g id="Component_6_36" data-name="Component 6 – 36" transform="translate(131 520)">
+            <g transform="matrix(1, 0, 0, 1, -181, -1229)" filter="url(#Rectangle_149-8)">
+              <rect id="Rectangle_149-24" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(181 1229)" fill="#dbe0dd"/>
+            </g>
+          </g>
+          <g id="Group_4-3" data-name="Group 4" transform="translate(-95 13)">
+            <text id="Check_facts-4" data-name="Check facts" transform="translate(232 525)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+          </g>
+        </g>
+        <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of-4" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(113 946)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+        <rect id="Rectangle_198-3" data-name="Rectangle 198" width="47" height="21" rx="4" transform="translate(367 909)" fill="#929592"/>
+        <text id="New-4" data-name="New" transform="translate(377 924)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">New</tspan></text>
+        <text id="Useful_12_4" data-name="Useful (12)" transform="translate(345 1338)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.63"><tspan x="0" y="0">Useful (12)</tspan></text>
+        <g id="Group_16" data-name="Group 16" transform="translate(80 800)">
+          <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="11.5" cy="11.5" r="11.5" transform="translate(234 522)" fill="#dbe0dd"/>
+          <use id="gestures-4" data-name="gestures" transform="translate(238 526)" xlink:href="#image-2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_717" data-name="Group 717" transform="translate(-55.5 -107)">
+      <rect id="Rectangle_1593" data-name="Rectangle 1593" width="361" height="633" transform="translate(899 816)" fill="#f8f8f8"/>
+      <g id="Group_709" data-name="Group 709" transform="translate(899 816)">
+        <g transform="matrix(1, 0, 0, 1, -843.5, -709)" filter="url(#Path_1-4)">
+          <path id="Path_1-9" data-name="Path 1" d="M-7.124-.316l337.014.3A3.007,3.007,0,0,1,333,2.882V432.106A3.007,3.007,0,0,1,329.89,435H3.378a3.007,3.007,0,0,1-3.11-2.894L.722,9.48C.722,7.882-8.841-.316-7.124-.316Z" transform="translate(854.5 747)" fill="#fff" opacity="0.6"/>
+        </g>
+        <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of-5" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(31 83)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+        <text id="_9:00_AM-5" data-name="9:00 AM" transform="translate(273 427)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+        <text id="Forwarded_10_times-5" data-name="Forwarded 
+10 times" transform="translate(48 58)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+        <use id="interface-5" data-name="interface" transform="translate(31 46)" opacity="0.48" xlink:href="#image"/>
+        <text id="Started_on_Dec_28_2019" data-name="Started on
+Dec 28 2019" transform="translate(321 58)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.29"><tspan x="-63.39" y="0">Started on</tspan><tspan font-size="10"><tspan x="-54.614" y="14">Dec 28 2019</tspan></tspan></text>
+        <text id="Read_more" data-name="Read more" transform="translate(134 419)" fill="#5c92fb" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Read more</tspan></text>
+        <g id="Mask_Group_2-4" data-name="Mask Group 2" transform="translate(-40 -53)" clip-path="url(#clip-path)">
+          <g transform="matrix(1, 0, 0, 1, -803.5, -656)" filter="url(#app_bar-5)">
+            <path id="app_bar-13" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(843 709)" fill="#acacae"/>
+          </g>
+        </g>
+        <text id="Page_title-5" data-name="Page title" transform="translate(91.5 60)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+        <g id="ic_more_vert_white-5" data-name="ic_more_vert_white" transform="translate(332 40)" clip-path="url(#clip-path-2)">
+          <path id="path-20" data-name="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+          <path id="path-21" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Symbol_94_17" data-name="Symbol 94 – 17" transform="translate(-0.5)">
+          <path id="status_bar-5" data-name="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+          <g id="time-9" data-name="time" transform="translate(-7.967 -8.333)" opacity="0.9">
+            <rect id="rectangle-17" data-name="rectangle" width="40" height="16" transform="translate(319.467 12.833)" fill="none"/>
+            <text id="time-10" data-name="time" transform="translate(324.467 24.833)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="battery-9" data-name="battery" transform="translate(-7.967 -8.333)">
+            <rect id="rectangle-18" data-name="rectangle" width="16" height="16" transform="translate(303.967 11.833)" fill="none"/>
+            <path id="battery-10" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(0.167 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="signal_strength-5" data-name="signal_strength" transform="translate(-7.967 -8.333)">
+            <rect id="square-9" data-name="square" width="16" height="16" transform="translate(283.967 11.833)" fill="none"/>
+            <path id="path-22" data-name="path" d="M284.8,27h14V13Z" transform="translate(-0.333 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="wifi_signal-9" data-name="wifi_signal" transform="translate(-7.967 -8.333)">
+            <rect id="square-10" data-name="square" width="16" height="16" transform="translate(265.967 11.833)" fill="none"/>
+            <path id="wifi_signal-10" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-0.033 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+        </g>
+        <g id="ic_arrow_back-5" data-name="ic_arrow_back" transform="translate(11 40)">
+          <rect id="rectangle-19" data-name="rectangle" width="24" height="24" fill="none"/>
+          <path id="path-23" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <circle id="photo-5" data-name="photo" cx="17" cy="17" r="17" transform="translate(42 35)" fill="#cfcfcf"/>
+        <path id="tab_dropshadow-4" data-name="tab_dropshadow" d="M7.9,4.2h359m.5-.5h0Z" transform="translate(-7.9 -3.7)" opacity="0.12"/>
+        <rect id="Rectangle_192" data-name="Rectangle 192" width="334" height="153" rx="4" transform="translate(10 480)" fill="#acacae"/>
+        <text id="From_verified_fact-check_source" data-name="From verified fact-check source" transform="translate(42 506)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">From verified fact-check source</tspan></text>
+        <text id="False_-_Lack_of_evidence" data-name="False - Lack of evidence" transform="translate(22 529)" fill="#fff" font-size="11" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">False - Lack of evidence</tspan></text>
+        <text id="Take_more_alkaline_foods_that_are_above_can_prevent_coronavirus_infection._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_" data-name="Take more alkaline foods that are above  
+can prevent coronavirus infection. RESEARCH: 
+JOURNAL OF VIROLOGY &amp; ANTIVIRAL RESEARCH,
+" transform="translate(22 551)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" xml:space="preserve">Take more alkaline foods that are above  </tspan><tspan x="0" y="15">can prevent coronavirus infection. RESEARCH: </tspan><tspan x="0" y="30">JOURNAL OF VIROLOGY &amp; ANTIVIRAL RESEARCH,</tspan><tspan x="0" y="45"></tspan></text>
+        <text id="Fact-Checked_by:_Quint_Fit" data-name="Fact-Checked by: Quint Fit" transform="translate(22 599)" fill="#fff" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fact-Checked by: Quint Fit</tspan></text>
+        <text id="Not_convinced_with_the_result_" data-name="Not convinced with the result?" transform="translate(159 621)" fill="#fff" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Not convinced with the result?</tspan></text>
+        <use id="sign" transform="translate(22 493)" xlink:href="#image-3"/>
+        <g id="Group_20" data-name="Group 20">
+          <g id="Component_6_39" data-name="Component 6 – 39" transform="translate(18 444)">
+            <g transform="matrix(1, 0, 0, 1, -861.5, -1153)" filter="url(#Rectangle_149-9)">
+              <rect id="Rectangle_149-25" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(861.5 1153)" fill="#dbe0dd"/>
+            </g>
+          </g>
+          <text id="Summary_5" data-name="Summary " transform="translate(30 461)" fill="#171515" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Summary </tspan></text>
+        </g>
+        <g id="Group_19" data-name="Group 19">
+          <g id="Component_6_40" data-name="Component 6 – 40" transform="translate(124 444)">
+            <g transform="matrix(1, 0, 0, 1, -967.5, -1153)" filter="url(#Rectangle_149-10)">
+              <rect id="Rectangle_149-26" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(967.5 1153)" fill="#1d1f1e"/>
+            </g>
+          </g>
+          <g id="Group_4-4" data-name="Group 4" transform="translate(-102 -63)">
+            <text id="Check_facts-5" data-name="Check facts" transform="translate(232 525)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+          </g>
+        </g>
+        <text id="Useful_12_5" data-name="Useful (12)" transform="translate(263 462)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.63"><tspan x="0" y="0">Useful (12)</tspan></text>
+        <g id="Group_21" data-name="Group 21">
+          <circle id="Ellipse_2-4" data-name="Ellipse 2" cx="11.5" cy="11.5" r="11.5" transform="translate(232 446)" fill="#dbe0dd"/>
+          <use id="gestures-5" data-name="gestures" transform="translate(236 450)" xlink:href="#image-2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_718" data-name="Group 718" transform="translate(-29.5 -107)">
+      <rect id="Rectangle_1591" data-name="Rectangle 1591" width="361" height="633" transform="translate(477 816)" fill="#f8f8f8"/>
+      <g id="Group_711" data-name="Group 711" transform="translate(0 20)">
+        <g transform="matrix(1, 0, 0, 1, 29.5, 87)" filter="url(#Path_1632)">
+          <path id="Path_1632-2" data-name="Path 1632" d="M-7.124-.316,329.89.006A3.082,3.082,0,0,1,333,3.06V456.082a3.082,3.082,0,0,1-3.11,3.054H3.378a3.082,3.082,0,0,1-3.11-3.054L.722,10.023C.722,8.337-8.841-.316-7.124-.316Z" transform="translate(464.5 802)" fill="#fff" opacity="0.6"/>
+        </g>
+        <g id="Mask_Group_11" data-name="Mask Group 11" transform="translate(436.5 748)" clip-path="url(#clip-path-11)">
+          <g transform="matrix(1, 0, 0, 1, -407, -661)" filter="url(#app_bar-6)">
+            <path id="app_bar-14" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(446.5 714)" fill="#acacae"/>
+          </g>
+        </g>
+        <path id="tab_dropshadow-5" data-name="tab_dropshadow" d="M7.9,4.2h359m.5-.5h0Z" transform="translate(469.1 792.3)" opacity="0.12"/>
+        <g id="Symbol_94_16" data-name="Symbol 94 – 16" transform="translate(476.5 796)">
+          <path id="status_bar-6" data-name="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+          <g id="time-11" data-name="time" transform="translate(-7.967 -8.333)" opacity="0.9">
+            <rect id="rectangle-20" data-name="rectangle" width="40" height="16" transform="translate(319.467 12.833)" fill="none"/>
+            <text id="time-12" data-name="time" transform="translate(324.467 24.833)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="battery-11" data-name="battery" transform="translate(-7.967 -8.333)">
+            <rect id="rectangle-21" data-name="rectangle" width="16" height="16" transform="translate(303.967 11.833)" fill="none"/>
+            <path id="battery-12" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(0.167 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="signal_strength-6" data-name="signal_strength" transform="translate(-7.967 -8.333)">
+            <rect id="square-11" data-name="square" width="16" height="16" transform="translate(283.967 11.833)" fill="none"/>
+            <path id="path-24" data-name="path" d="M284.8,27h14V13Z" transform="translate(-0.333 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="wifi_signal-11" data-name="wifi_signal" transform="translate(-7.967 -8.333)">
+            <rect id="square-12" data-name="square" width="16" height="16" transform="translate(265.967 11.833)" fill="none"/>
+            <path id="wifi_signal-12" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-0.033 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+        </g>
+        <text id="Page_title-6" data-name="Page title" transform="translate(568.5 856)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+        <g id="ic_more_vert_white-6" data-name="ic_more_vert_white" transform="translate(809 836)" clip-path="url(#clip-path-2)">
+          <path id="path-25" data-name="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+          <path id="path-26" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="ic_arrow_back-6" data-name="ic_arrow_back" transform="translate(488 836)">
+          <rect id="rectangle-22" data-name="rectangle" width="24" height="24" fill="none"/>
+          <path id="path-27" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <circle id="photo-6" data-name="photo" cx="17" cy="17" r="17" transform="translate(519 831)" fill="#cfcfcf"/>
+        <g id="Group_708" data-name="Group 708">
+          <g id="Component_6_37" data-name="Component 6 – 37" transform="translate(497 1316)">
+            <g transform="matrix(1, 0, 0, 1, -467.5, -1229)" filter="url(#Rectangle_149-11)">
+              <rect id="Rectangle_149-27" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(467.5 1229)" fill="#1d1f1e"/>
+            </g>
+          </g>
+          <text id="Summary_6" data-name="Summary " transform="translate(509 1333)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Summary </tspan></text>
+          <g id="Group_706" data-name="Group 706" transform="translate(477 796)">
+            <g id="Component_6_38" data-name="Component 6 – 38" transform="translate(131 520)">
+              <g transform="matrix(1, 0, 0, 1, -578.5, -1229)" filter="url(#Rectangle_149-12)">
+                <rect id="Rectangle_149-28" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(578.5 1229)" fill="#dbe0dd"/>
+              </g>
+            </g>
+            <g id="Group_4-5" data-name="Group 4" transform="translate(-95 13)">
+              <text id="Check_facts-6" data-name="Check facts" transform="translate(232 525)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+            </g>
+          </g>
+          <text id="Useful_12_6" data-name="Useful (12)" transform="translate(742 1334)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.63"><tspan x="0" y="0">Useful (12)</tspan></text>
+          <g id="Group_707" data-name="Group 707" transform="translate(477 796)">
+            <circle id="Ellipse_2-5" data-name="Ellipse 2" cx="11.5" cy="11.5" r="11.5" transform="translate(234 522)" fill="#dbe0dd"/>
+            <use id="gestures-6" data-name="gestures" transform="translate(238 526)" xlink:href="#image-2"/>
+          </g>
+          <text id="_9:00_AM-6" data-name="9:00 AM" transform="translate(750 1298)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+          <rect id="Rectangle_1589" data-name="Rectangle 1589" width="190" height="17" transform="translate(558 1061)" fill="rgba(177,238,14,0.28)"/>
+          <text id="_take_more_of_an_alkaline_foods_" data-name=" take more of an alkaline foods " transform="translate(556 1074)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" xml:space="preserve"> take more of an alkaline foods </tspan></text>
+          <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of-6" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(510 942)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.42"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+          <text id="New-5" data-name="New" transform="translate(774 920)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">New</tspan></text>
+          <text id="Forwarded_10_times-6" data-name="Forwarded 
+10 times" transform="translate(525 915)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+          <use id="interface-6" data-name="interface" transform="translate(508 903)" opacity="0.48" xlink:href="#image"/>
+          <rect id="Rectangle_1588" data-name="Rectangle 1588" width="47" height="21" rx="4" transform="translate(764 905)" fill="#929592"/>
+          <text id="New-6" data-name="New" transform="translate(776 920)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">New</tspan></text>
+        </g>
+      </g>
+      <rect id="Rectangle_1592" data-name="Rectangle 1592" width="330" height="43" rx="21.5" transform="translate(490 1396)" fill="#fff"/>
+    </g>
+    <g id="Group_720" data-name="Group 720" transform="translate(-30 -101)">
+      <rect id="Rectangle_1594" data-name="Rectangle 1594" width="361" height="640" transform="translate(77 1485)" fill="#f8f8f8"/>
+      <g id="Group_712" data-name="Group 712" transform="translate(80.5 1485)">
+        <g id="Mask_Group_2-5" data-name="Mask Group 2" transform="translate(0.5)" clip-path="url(#clip-path-13)">
+          <g transform="matrix(1, 0, 0, 1, -51, -1384)" filter="url(#app_bar-7)">
+            <path id="app_bar-15" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(50.5 1384)" fill="#acacae"/>
+          </g>
+        </g>
+        <text id="Page_title-7" data-name="Page title" transform="translate(92 60)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+        <g id="ic_more_vert_white-7" data-name="ic_more_vert_white" transform="translate(332.5 40)" clip-path="url(#clip-path-2)">
+          <path id="path-28" data-name="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+          <path id="path-29" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Symbol_94_18" data-name="Symbol 94 – 18">
+          <path id="status_bar-7" data-name="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+          <g id="time-13" data-name="time" transform="translate(311.5 3.5)" opacity="0.9">
+            <rect id="rectangle-23" data-name="rectangle" width="40" height="16" transform="translate(0 1)" fill="none"/>
+            <text id="time-14" data-name="time" transform="translate(5 13)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="battery-13" data-name="battery" transform="translate(296 3.5)">
+            <rect id="rectangle-24" data-name="rectangle" width="16" height="16" fill="none"/>
+            <path id="battery-14" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(-303.8 -12)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="signal_strength-7" data-name="signal_strength" transform="translate(276 3.5)">
+            <rect id="square-13" data-name="square" width="16" height="16" fill="none"/>
+            <path id="path-30" data-name="path" d="M284.8,27h14V13Z" transform="translate(-284.3 -12)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="wifi_signal-13" data-name="wifi_signal" transform="translate(257 3.5)">
+            <rect id="square-14" data-name="square" width="16" height="16" transform="translate(1)" fill="none"/>
+            <path id="wifi_signal-14" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-265 -12)" fill="#fff" opacity="0.9"/>
+          </g>
+        </g>
+        <g id="ic_arrow_back-7" data-name="ic_arrow_back" transform="translate(11.5 40)">
+          <rect id="rectangle-25" data-name="rectangle" width="24" height="24" fill="none"/>
+          <path id="path-31" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -50.5, -1384)" filter="url(#Path_1-5)">
+          <path id="Path_1-10" data-name="Path 1" d="M-7.124-.316,329.89.006A3.082,3.082,0,0,1,333,3.06V456.082a3.082,3.082,0,0,1-3.11,3.054H3.378a3.082,3.082,0,0,1-3.11-3.054L.722,10.023C.722,8.337-8.841-.316-7.124-.316Z" transform="translate(62 1483)" fill="#fff" opacity="0.6"/>
+        </g>
+        <text id="_9:00_AM-7" data-name="9:00 AM" transform="translate(273.5 503)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+        <text id="Forwarded_10_times-7" data-name="Forwarded 
+10 times" transform="translate(48.5 119)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+        <circle id="photo-7" data-name="photo" cx="17" cy="17" r="17" transform="translate(42.5 35)" fill="#cfcfcf"/>
+        <use id="interface-7" data-name="interface" transform="translate(31.5 107)" opacity="0.48" xlink:href="#image"/>
+        <rect id="Rectangle_150-4" data-name="Rectangle 150" width="316" height="43" rx="21.5" transform="translate(12.5 583)" fill="#fff"/>
+        <g id="Component_6_41" data-name="Component 6 – 41" transform="translate(20.5 521)">
+          <g transform="matrix(1, 0, 0, 1, -71, -1905)" filter="url(#Rectangle_149-13)">
+            <rect id="Rectangle_149-29" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(71 1905)" fill="#dbe0dd"/>
+          </g>
+        </g>
+        <g id="Component_6_42" data-name="Component 6 – 42" transform="translate(131.5 521)">
+          <g transform="matrix(1, 0, 0, 1, -182, -1905)" filter="url(#Rectangle_149-14)">
+            <rect id="Rectangle_149-30" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(182 1905)" fill="#dbe0dd"/>
+          </g>
+        </g>
+        <text id="Summary_7" data-name="Summary " transform="translate(32.5 538)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Summary </tspan></text>
+        <g id="Group_4-6" data-name="Group 4" transform="translate(137.5 526)">
+          <text id="Check_facts-7" data-name="Check facts" transform="translate(0 13)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+        </g>
+        <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of-7" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(33.5 147)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+        <rect id="Rectangle_198-4" data-name="Rectangle 198" width="47" height="21" rx="4" transform="translate(287.5 109)" fill="#929592"/>
+        <text id="New-7" data-name="New" transform="translate(297.5 124)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">New</tspan></text>
+        <text id="Useful_12_7" data-name="Useful (12)" transform="translate(265.5 539)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.63"><tspan x="0" y="0">Useful (12)</tspan></text>
+        <circle id="Ellipse_2-6" data-name="Ellipse 2" cx="11.5" cy="11.5" r="11.5" transform="translate(234.5 523)" fill="#dbe0dd"/>
+        <use id="gestures-7" data-name="gestures" transform="translate(238.5 527)" xlink:href="#image-2"/>
+        <rect id="Rectangle_201" data-name="Rectangle 201" width="332" height="423" transform="translate(12.5 88)" opacity="0.85"/>
+        <rect id="Rectangle_203" data-name="Rectangle 203" width="289" height="60" rx="25" transform="translate(36.5 438)" fill="#fff"/>
+        <use id="gestures-8" data-name="gestures" transform="translate(83.5 447) scale(1.786)" opacity="0.41" xlink:href="#image-2"/>
+        <use id="gestures-9" data-name="gestures" transform="translate(193.5 474) rotate(180) scale(1.786)" opacity="0.41" xlink:href="#image-2"/>
+        <rect id="feelings" width="25" height="25" transform="translate(262.5 448)" opacity="0.47" fill="url(#pattern)"/>
+        <g id="Group_22" data-name="Group 22" transform="translate(12.5 511)">
+          <rect id="Rectangle_204" data-name="Rectangle 204" width="332" height="47" fill="#e9e9e9"/>
+          <text id="Cancel" transform="translate(147 29)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Cancel</tspan></text>
+        </g>
+        <text id="Useful" transform="translate(75.5 487)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.37"><tspan x="0" y="0">Useful</tspan></text>
+        <text id="Not_useful" data-name="Not useful" transform="translate(150.5 486)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.37"><tspan x="0" y="0">Not useful</tspan></text>
+        <text id="funny" transform="translate(256.5 487)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.37"><tspan x="0" y="0">funny</tspan></text>
+      </g>
+    </g>
+    <g id="Group_721" data-name="Group 721" transform="translate(-30.5 -101)">
+      <rect id="Rectangle_1595" data-name="Rectangle 1595" width="361" height="633" transform="translate(478 1485)" fill="#f8f8f8"/>
+      <g id="Group_714" data-name="Group 714" transform="translate(478 1485)">
+        <g transform="matrix(1, 0, 0, 1, -447.5, -1384)" filter="url(#Path_1633)">
+          <path id="Path_1633-2" data-name="Path 1633" d="M-7.131-.316,318-.011a2.948,2.948,0,0,1,3,2.894V432.106A2.948,2.948,0,0,1,318,435H3a2.948,2.948,0,0,1-3-2.894L.438,9.48C.438,7.882-8.788-.316-7.131-.316Z" transform="translate(458.5 1422)" fill="#fff" opacity="0.6"/>
+        </g>
+        <text id="This_is_to_inform_us_all_that_the_pH_for_corona_virus_varies_from_5.5_to_8.5._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_All_we_need_to_do_to_beat_corona_virus_we_need_to_take_more_of_an_alkaline_foods_that_are_above_the_above_pH_level_of-8" data-name="This is to inform us all that the pH for 
+corona virus varies from 5.5 to 8.5.
+ 
+RESEARCH: JOURNAL OF VIROLOGY &amp; 
+ANTIVIRAL RESEARCH,
+
+All we need to do, to beat corona virus, we 
+need to take more of an alkaline foods that 
+are above the above pH level of" transform="translate(31 83)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">This is to inform us all that the pH for </tspan><tspan x="0" y="30">corona virus varies from 5.5 to 8.5.</tspan><tspan x="0" y="47"> </tspan><tspan font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="64">RESEARCH: JOURNAL OF VIROLOGY &amp; </tspan><tspan x="0" y="81">ANTIVIRAL RESEARCH,</tspan></tspan><tspan x="0" y="98"></tspan><tspan x="0" y="115">All we need to do, to beat corona virus, we </tspan><tspan x="0" y="132">need to take more of an alkaline foods that </tspan><tspan x="0" y="149">are above the above pH level of the Virus. </tspan><tspan x="0" y="166"></tspan><tspan x="0" y="183">Some of which are:</tspan><tspan x="0" y="200">Lemon - 9.9pH</tspan><tspan x="0" y="217">Lime - 8.2pH</tspan><tspan x="0" y="234">Avocado - 15.6pH</tspan><tspan x="0" y="251">Garlic - 13.2pH</tspan><tspan x="0" y="268">Mango - 8.7pH</tspan><tspan x="0" y="285">Tangerine - 8.5pH</tspan><tspan x="0" y="302">Pineapple - 12.7pH</tspan><tspan x="0" y="319">Dandelion - 22.7pH</tspan><tspan x="0" y="336">Orange - 9.2pH</tspan></text>
+        <text id="_9:00_AM-8" data-name="9:00 AM" transform="translate(273 427)" font-size="14" font-family="Roboto-Regular, Roboto" opacity="0.5"><tspan x="0" y="0">9:00 AM</tspan></text>
+        <text id="Forwarded_10_times-8" data-name="Forwarded 
+10 times" transform="translate(48 58)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.31"><tspan x="0" y="0">Forwarded </tspan><tspan font-size="12"><tspan x="0" y="15">10 times</tspan></tspan></text>
+        <use id="interface-8" data-name="interface" transform="translate(31 46)" opacity="0.48" xlink:href="#image"/>
+        <text id="Started_on_Dec_28_2019-2" data-name="Started on
+Dec 28 2019" transform="translate(321 58)" font-size="14" font-family="Roboto-Italic, Roboto" font-style="italic" opacity="0.29"><tspan x="-63.39" y="0">Started on</tspan><tspan font-size="10"><tspan x="-54.614" y="14">Dec 28 2019</tspan></tspan></text>
+        <text id="Read_more-2" data-name="Read more" transform="translate(134 419)" fill="#5c92fb" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Read more</tspan></text>
+        <g id="Mask_Group_12" data-name="Mask Group 12" transform="translate(-40 -53)" clip-path="url(#clip-path)">
+          <g transform="matrix(1, 0, 0, 1, -407.5, -1331)" filter="url(#app_bar-8)">
+            <path id="app_bar-16" data-name="app_bar" d="M0,0H360V76.634H0Z" transform="translate(447 1384)" fill="#acacae"/>
+          </g>
+        </g>
+        <text id="Page_title-8" data-name="Page title" transform="translate(91.5 60)" fill="#fff" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Pranav </tspan></text>
+        <g id="ic_more_vert_white-8" data-name="ic_more_vert_white" transform="translate(332 40)" clip-path="url(#clip-path-2)">
+          <path id="path-32" data-name="path" d="M12,0H0V-24H12Z" transform="translate(0 24)" fill="none" fill-rule="evenodd"/>
+          <path id="path-33" data-name="path" d="M5-16a2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2,2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2Zm0,2a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2,2.006,2.006,0,0,0-2-2ZM5-8A2.006,2.006,0,0,0,3-6,2.006,2.006,0,0,0,5-4,2.006,2.006,0,0,0,7-6,2.006,2.006,0,0,0,5-8Z" transform="translate(0 24)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Symbol_94_19" data-name="Symbol 94 – 19" transform="translate(-0.5)">
+          <path id="status_bar-8" data-name="status_bar" d="M0,0H360V24H0Z" fill="#acacae"/>
+          <g id="time-15" data-name="time" transform="translate(-7.967 -8.333)" opacity="0.9">
+            <rect id="rectangle-26" data-name="rectangle" width="40" height="16" transform="translate(319.467 12.833)" fill="none"/>
+            <text id="time-16" data-name="time" transform="translate(324.467 24.833)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">12:30</tspan></text>
+          </g>
+          <g id="battery-15" data-name="battery" transform="translate(-7.967 -8.333)">
+            <rect id="rectangle-27" data-name="rectangle" width="16" height="16" transform="translate(303.967 11.833)" fill="none"/>
+            <path id="battery-16" data-name="battery" d="M313.8,14V13h-3v1h-3V27h9V14Z" transform="translate(0.167 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="signal_strength-8" data-name="signal_strength" transform="translate(-7.967 -8.333)">
+            <rect id="square-15" data-name="square" width="16" height="16" transform="translate(283.967 11.833)" fill="none"/>
+            <path id="path-34" data-name="path" d="M284.8,27h14V13Z" transform="translate(-0.333 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+          <g id="wifi_signal-15" data-name="wifi_signal" transform="translate(-7.967 -8.333)">
+            <rect id="square-16" data-name="square" width="16" height="16" transform="translate(265.967 11.833)" fill="none"/>
+            <path id="wifi_signal-16" data-name="wifi_signal" d="M273.8,27l8.8-10.9a14.04,14.04,0,0,0-17.6,0L273.8,27Z" transform="translate(-0.033 -0.167)" fill="#fff" opacity="0.9"/>
+          </g>
+        </g>
+        <g id="ic_arrow_back-8" data-name="ic_arrow_back" transform="translate(11 40)">
+          <rect id="rectangle-28" data-name="rectangle" width="24" height="24" fill="none"/>
+          <path id="path-35" data-name="path" d="M20,11H7.8l5.6-5.6L12,4,4,12l8,8,1.4-1.4L7.8,13H20V11Z" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <circle id="photo-8" data-name="photo" cx="17" cy="17" r="17" transform="translate(42 35)" fill="#cfcfcf"/>
+        <path id="tab_dropshadow-6" data-name="tab_dropshadow" d="M7.9,4.2h359m.5-.5h0Z" transform="translate(-7.9 -3.7)" opacity="0.12"/>
+        <path id="Path_1634" data-name="Path 1634" d="M4,0H319a4,4,0,0,1,4,4V149a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(10 480)" fill="#acacae"/>
+        <text id="From_Verified_fact-check_source-2" data-name="From Verified fact-check source" transform="translate(42 506)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">From Verified fact-check source</tspan></text>
+        <text id="False_-_Lack_of_evidence-2" data-name="False - Lack of evidence" transform="translate(22 529)" fill="#fff" font-size="11" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">False - Lack of evidence</tspan></text>
+        <text id="Take_more_alkaline_foods_that_are_above_can_prevent_coronavirus_infection._RESEARCH:_JOURNAL_OF_VIROLOGY_ANTIVIRAL_RESEARCH_2" data-name="Take more alkaline foods that are above  
+can prevent coronavirus infection. RESEARCH: 
+JOURNAL OF VIROLOGY &amp; ANTIVIRAL RESEARCH,
+" transform="translate(22 551)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" xml:space="preserve">Take more alkaline foods that are above  </tspan><tspan x="0" y="15">can prevent coronavirus infection. RESEARCH: </tspan><tspan x="0" y="30">JOURNAL OF VIROLOGY &amp; ANTIVIRAL RESEARCH,</tspan><tspan x="0" y="45"></tspan></text>
+        <text id="Fact-Checked_by:_Quint_Fit-2" data-name="Fact-Checked by: Quint Fit" transform="translate(22 599)" fill="#fff" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fact-Checked by: Quint Fit</tspan></text>
+        <text id="Not_convinced_with_the_result_2" data-name="Not convinced with the result?" transform="translate(159 621)" fill="#fff" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Not convinced with the result?</tspan></text>
+        <use id="sign-2" data-name="sign" transform="translate(21 496)" xlink:href="#image-3"/>
+        <g id="Component_6_43" data-name="Component 6 – 43" transform="translate(29 442)">
+          <g transform="matrix(1, 0, 0, 1, -476.5, -1826)" filter="url(#Rectangle_149-15)">
+            <rect id="Rectangle_149-31" data-name="Rectangle 149" width="86" height="25" rx="12.5" transform="translate(476.5 1826)" fill="#dbe0dd"/>
+          </g>
+        </g>
+        <text id="Useful_12_8" data-name="Useful (12)" transform="translate(39 459)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Useful (12)</tspan></text>
+        <g id="Group_713" data-name="Group 713" transform="translate(-2 -66)">
+          <g transform="matrix(1, 0, 0, 1, -445.5, -1318)" filter="url(#Rectangle_149-16)">
+            <rect id="Rectangle_149-32" data-name="Rectangle 149" width="111" height="25" rx="12.5" transform="translate(658.5 1826)" fill="#d6d6d6"/>
+          </g>
+          <text id="Check_facts-8" data-name="Check facts" transform="translate(232 525)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Check facts</tspan></text>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -447.5, -1384)" filter="url(#Rectangle_1597)">
+          <rect id="Rectangle_1597-2" data-name="Rectangle 1597" width="86" height="25" rx="12.5" transform="translate(567.5 1826)" fill="#c6cdc9" opacity="0.85"/>
+        </g>
+        <text id="Not_Useful-2" data-name="Not Useful" transform="translate(130 459)" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Not Useful</tspan></text>
+        <rect id="Rectangle_1598" data-name="Rectangle 1598" width="360" height="640" fill="rgba(0,0,0,0.47)"/>
+        <g transform="matrix(1, 0, 0, 1, -447.5, -1384)" filter="url(#rectangle)">
+          <rect id="rectangle-29" data-name="rectangle" width="280" height="274" rx="2" transform="translate(487.5 1567)" fill="#fff"/>
+        </g>
+        <text id="Lorem_ipsum_dol" data-name="Lorem ipsum dol" transform="translate(57 220)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Add a verified WhatsApp </tspan><tspan x="0" y="24">fact- check agent to your contacts </tspan><tspan x="0" y="48">and share the message for </tspan><tspan x="0" y="72">verification</tspan><tspan x="0" y="96"></tspan><tspan x="0" y="120">International Fact-Checking </tspan><tspan x="0" y="144">Network chat bot</tspan><tspan x="0" y="168">+1 (727) 2912606 </tspan><tspan x="0" y="192"></tspan></text>
+        <g id="Button" transform="translate(133 405)">
+          <rect id="Rectangle_190" data-name="Rectangle 190" width="86" height="36" rx="2" fill="none"/>
+          <g id="more_info" data-name="more info" transform="translate(-155 -428)">
+            <text id="button_1_light" data-name="button 1 light" transform="translate(171 452)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">CANCEL</tspan></text>
+          </g>
+        </g>
+        <g id="Button-2" data-name="Button" transform="translate(199 405)">
+          <rect id="Rectangle_190-2" data-name="Rectangle 190" width="86" height="36" rx="2" fill="none"/>
+          <g id="more_info-2" data-name="more info" transform="translate(-155 -428)">
+            <text id="button_1_light-2" data-name="button 1 light" transform="translate(171 452)" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ADD CONTACT</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
