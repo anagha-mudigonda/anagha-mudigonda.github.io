@@ -3954,6 +3954,14 @@ font-family: 'Poppins', sans-serif;
   background: #101010;
 }
 
+.bg_color--8 {
+  background: #000000;
+}
+
+.bg_color--9 {
+  background: #dddddd;
+}
+
 /*===========================
     Background Image 
 =============================*/
@@ -4090,6 +4098,10 @@ font-family: 'Poppins', sans-serif;
 
 .bg_image--30 {
   background-image: url(../images/bg/bg-image-30.jpg);
+}
+
+.bg_image--31 {
+  background-image: url(../images/bg/bg-image-31.jpg);
 }
 
 .font--1 {
