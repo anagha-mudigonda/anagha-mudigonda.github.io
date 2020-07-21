@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2763" height="704" viewBox="0 0 2763 704">
+  <defs>
+    <clipPath id="clip-yupp-research-process">
+      <rect width="2763" height="704"/>
+    </clipPath>
+  </defs>
+  <g id="yupp-research-process" clip-path="url(#clip-yupp-research-process)">
+    <rect width="2763" height="704" fill="#f8f9fd"/>
+    <g id="Group_6" data-name="Group 6">
+      <line id="Line_1" data-name="Line 1" x2="2215.831" y2="0.118" transform="translate(297.587 336.273)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+      <text id="Start" transform="translate(43 313)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">&quot;the goal of the project </tspan><tspan x="0" y="25">is to develop a design system </tspan><tspan x="0" y="50">that seamlessly accessed and </tspan><tspan x="0" y="75">will provide a voice for </tspan><tspan x="0" y="100">YuppTV ecosystem.&quot;</tspan></text>
+      <line id="Line_2" data-name="Line 2" y2="111.39" transform="translate(310.39 223.72)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <line id="Line_2-2" data-name="Line 2" y2="174.416" transform="translate(650.859 151.105)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="6.5" cy="6.5" r="6.5" transform="translate(645 145)" fill="#f8004c"/>
+      <text id="Start-2" data-name="Start" transform="translate(673 151)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Adopt design principles</tspan></text>
+      <text id="Start-3" data-name="Start" transform="translate(673 180)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Empathize with user needs,</tspan><tspan x="0" y="27">Design with evidence (data),</tspan><tspan x="0" y="54">Think with holistic </tspan><tspan x="0" y="81">product approach</tspan></text>
+      <text id="Start-4" data-name="Start" transform="translate(495 487)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Plan a visual design system</tspan></text>
+      <text id="Start-5" data-name="Start" transform="translate(495 515)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Atomic elements</tspan><tspan x="0" y="27">Branding</tspan><tspan x="0" y="54">Visual style</tspan><tspan x="0" y="81">Guidelines</tspan></text>
+      <text id="Start-6" data-name="Start" transform="translate(495 402)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Audit UX Workflows</tspan></text>
+      <text id="Start-7" data-name="Start" transform="translate(495 429)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Plan desired features</tspan></text>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="6.5" cy="6.5" r="6.5" transform="translate(464 393)" fill="#f8004c"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="6.5" cy="6.5" r="6.5" transform="translate(464 474)" fill="#f8004c"/>
+      <line id="Line_3" data-name="Line 3" y2="137.371" transform="translate(470.471 343.698)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(304 217)" fill="#f8004c"/>
+      <text id="Start-8" data-name="Start" transform="translate(329 228)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Identify stakeholder needs</tspan></text>
+      <text id="Start-9" data-name="Start" transform="translate(329 258)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Prioritize the needs of</tspan><tspan x="0" y="27">users and product</tspan></text>
+      <g id="Group_1" data-name="Group 1" transform="translate(391.253 299.901)">
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(-0.253 0.099)" fill="#f8f9fd" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+          <rect width="411" height="69" rx="26" stroke="none"/>
+          <rect x="0.5" y="0.5" width="410" height="68" rx="25.5" fill="none"/>
+        </g>
+        <g id="Start-10" data-name="Start" transform="translate(85.783 20.485)">
+          <text id="Start-11" data-name="Start" transform="translate(-0.036 21.614)" fill="#f8004c" font-size="23" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Research &amp; Analysis</tspan></text>
+        </g>
+      </g>
+      <line id="Line_3-2" data-name="Line 3" y2="198.453" transform="translate(943.843 346.633)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <text id="Start-12" data-name="Start" transform="translate(969 537)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Plan a product road map</tspan></text>
+      <text id="Start-13" data-name="Start" transform="translate(969 566)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Set milestone and sprint agendas</tspan><tspan x="0" y="27">Establish a MVP test plan for design</tspan></text>
+      <text id="Start-14" data-name="Start" transform="translate(969 402)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Design thinking culture</tspan></text>
+      <text id="Start-15" data-name="Start" transform="translate(969 430)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Work closely with other teams</tspan><tspan x="0" y="27">to design system is flourished</tspan><tspan x="0" y="54"> </tspan></text>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(937 392)" fill="#f8004c"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="6" cy="6" r="6" transform="translate(937 532)" fill="#f8004c"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(922.594 294.779)">
+        <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(0.406 0.221)" fill="#f8f9fd" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+          <rect width="274" height="69" rx="26" stroke="none"/>
+          <rect x="0.5" y="0.5" width="273" height="68" rx="25.5" fill="none"/>
+        </g>
+        <g id="Start-16" data-name="Start" transform="translate(33.289 20.485)">
+          <text id="Start-17" data-name="Start" transform="translate(0.117 21.735)" fill="#f8004c" font-size="23" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Strategy &amp; Vision</tspan></text>
+        </g>
+      </g>
+      <line id="Line_4" data-name="Line 4" y2="215.097" transform="translate(1439.335 85.444)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <text id="Start-18" data-name="Start" transform="translate(1462 227)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Feedback</tspan></text>
+      <text id="Start-19" data-name="Start" transform="translate(1462 91)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Design system IA &amp; sitemap</tspan></text>
+      <text id="Start-20" data-name="Start" transform="translate(1462 119)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Components</tspan><tspan x="0" y="27">Guidelines</tspan><tspan x="0" y="54">UX Workflows</tspan></text>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="6.5" cy="6.5" r="6.5" transform="translate(1432 72)" fill="#f8004c"/>
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(1432 212)" fill="#f8004c"/>
+      <text id="Start-21" data-name="Start" transform="translate(1462 254)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Usability test to identify </tspan><tspan x="0" y="27">issues</tspan></text>
+      <line id="Line_8" data-name="Line 8" y2="58.896" transform="translate(1485.304 364.558)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <text id="Start-22" data-name="Start" transform="translate(1510 422)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Product performance</tspan></text>
+      <text id="Start-23" data-name="Start" transform="translate(1510 450)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Define performance </tspan><tspan x="0" y="27">metrics</tspan><tspan x="0" y="54">Document the flows</tspan><tspan x="0" y="81">to capture in performance</tspan><tspan x="0" y="108">data</tspan></text>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="6.5" cy="6.5" r="6.5" transform="translate(1478 410)" fill="#f8004c"/>
+      <g id="Group_3" data-name="Group 3" transform="translate(1315.659 299.901)">
+        <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(0.341 0.099)" fill="#f8f9fd" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+          <rect width="362" height="69" rx="26" stroke="none"/>
+          <rect x="0.5" y="0.5" width="361" height="68" rx="25.5" fill="none"/>
+        </g>
+        <g id="Start-24" data-name="Start" transform="translate(35.85 20.485)">
+          <text id="Start-25" data-name="Start" transform="translate(0.491 21.614)" fill="#f8004c" font-size="23" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Planning &amp; Architecture</tspan></text>
+        </g>
+      </g>
+      <line id="Line_5" data-name="Line 5" y2="224.06" transform="translate(1823.438 363.278)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <text id="Start-26" data-name="Start" transform="translate(1848 592)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Establish a UI pattern library</tspan></text>
+      <text id="Start-27" data-name="Start" transform="translate(1848 622)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">UI components </tspan><tspan x="0" y="27">Visual design UI kit</tspan></text>
+      <text id="Start-28" data-name="Start" transform="translate(1848 405)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Create visual design language</tspan></text>
+      <text id="Start-29" data-name="Start" transform="translate(1848 434)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Color</tspan><tspan x="0" y="27">Typography</tspan><tspan x="0" y="54">Font icon library</tspan><tspan x="0" y="81">Size and spacing</tspan><tspan x="0" y="108">Mood board</tspan></text>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="6.5" cy="6.5" r="6.5" transform="translate(1816 396)" fill="#f8004c"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="6.5" cy="6.5" r="6.5" transform="translate(1816 587)" fill="#f8004c"/>
+      <g id="Group_4" data-name="Group 4" transform="translate(1767.62 301.181)">
+        <g id="Rectangle_7-3" data-name="Rectangle 7" transform="translate(0.38 -0.181)" fill="#f8f9fd" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+          <rect width="362" height="69" rx="26" stroke="none"/>
+          <rect x="0.5" y="0.5" width="361" height="68" rx="25.5" fill="none"/>
+        </g>
+        <g id="Start-30" data-name="Start" transform="translate(23.046 20.485)">
+          <text id="Start-31" data-name="Start" transform="translate(0.334 22.333)" fill="#f8004c" font-size="23" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Design &amp; Implementation</tspan></text>
+        </g>
+      </g>
+      <text id="Start-32" data-name="Start" transform="translate(2392 678)" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">inspired from Jonathan Zargarian design process</tspan></text>
+      <line id="Line_6" data-name="Line 6" y2="112.67" transform="translate(2346.974 187.871)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <text id="Start-33" data-name="Start" transform="translate(2369 192)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Design meet</tspan></text>
+      <text id="Start-34" data-name="Start" transform="translate(2369 221)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Inform stakeholders on design language</tspan><tspan x="0" y="27">Provide adequate documentation</tspan><tspan x="0" y="54">Support to clarify any issues</tspan></text>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="6.5" cy="6.5" r="6.5" transform="translate(2340 183)" fill="#f8004c"/>
+      <line id="Line_7" data-name="Line 7" y2="52.494" transform="translate(2427.635 363.278)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <text id="Start-35" data-name="Start" transform="translate(2453 418)" fill="#101010" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Feedback from users</tspan></text>
+      <text id="Start-36" data-name="Start" transform="translate(2453 446)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Hotjar, App see analytics</tspan><tspan x="0" y="27">User interviews </tspan><tspan x="0" y="54">Surveys</tspan></text>
+      <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(2421 409)" fill="#f8004c"/>
+      <g id="Group_5" data-name="Group 5" transform="translate(2227.262 301.181)">
+        <g id="Rectangle_7-4" data-name="Rectangle 7" transform="translate(-0.262 -0.181)" fill="#f8f9fd" stroke="rgba(112,112,112,0.4)" stroke-width="1">
+          <rect width="363" height="69" rx="26" stroke="none"/>
+          <rect x="0.5" y="0.5" width="362" height="68" rx="25.5" fill="none"/>
+        </g>
+        <g id="Start-37" data-name="Start" transform="translate(23.046 20.485)">
+          <text id="Start-38" data-name="Start" transform="translate(-0.308 22.333)" fill="#f8004c" font-size="23" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Support &amp; Maintenance</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

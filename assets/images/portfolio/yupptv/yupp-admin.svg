@@ -1,0 +1,1580 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1473" viewBox="0 0 1920 1473">
+  <defs>
+    <filter id="Window_shadow" x="21" y="175" width="1543" height="943" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3a3a3d"/>
+      <stop offset="1" stop-color="#2e2e31"/>
+    </linearGradient>
+    <filter id="Background" x="1410" y="234" width="37" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-2" x="1365" y="234" width="37" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Url_background" x="591" y="234" width="504" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-3" x="244" y="234" width="37" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-4" x="209" y="234" width="25" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-5" x="183" y="234" width="25" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-7"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1512" x="338.5" y="254.5" width="1155" height="148" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="20" height="21.996" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 242 242">
+      <image width="242" height="242" xlink:href="data:image/jpeg;base64,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"/>
+    </pattern>
+    <clipPath id="clip-path-2">
+      <rect width="20" height="22" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_1490" x="95" y="254" width="263" height="786" filterUnits="userSpaceOnUse">
+      <feOffset dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect width="14" height="18" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1041 222">
+      <image width="1041" height="222" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABBEAAADeCAYAAABrCpgZAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH4gcMEik7hUFyUAAALmFJREFUeNrt3XmcnFWd7/HPqe4s0N1JkAFRBJKAOnMd5o6XO6Nel2EZQQQcZ0aQXbk6uI2QhAQCiaRZJIEs3TGyuoEgIBl1rjgsghJQBJe4DCKCSbqzgGxCkk5n6e6qc/+o9AyBJHSnq6vO89Tn/XrxIoTuqlO/c2o533qe3wOSJEmSJEmSJEmSJEmVEiyBJEmSlKDW1sK73vTQkcTQYjEkDX63HzaXYlgdRxRXPXTC3S9U7GatrCRJkpSWd99y1DHEcBnwV1ZDUgV0AUsJ4UeU4oPNe4Qld77/zi27ckOGCJIkSVIi3n3T0e+MhTg7wLuthqRh9CIxfLMQ41fvP/Wunw/mFw0RJEmSpBp7z63H/AWxeFGMfMjP6JKq7N5iLEz7ySl3/HogP+wLlCRJklQj77nlyP2gMDNGPgY0WBFJNVIMIc7rXv/855Z+Ymnvzn7QEEGSJEmqsnffdvResY8ZgfhJYJQVkZSCCPf1lsIHf3rqnet39DOGCJIkSVKVvPMrH2gJu/dMCZFzAK+6IClFP2vYMvqoJWf8+9rt/U9DBEmSJGmYHXLtISN2a977jBDiRcA+VkRSyiLhntc1Nh+9+ITFxZf/P8+7kiRJkoZLa2vhXZ8YderIkU3fDoHTgGaLIil1AQ7sLvVsWvmtZT/ezv+TJEmSVGnvuunIY0OhcBlwsNWQlDmRjUUK/+Mnp9yx8qV/3WhlJEmSpMp5501Hv71QiLOBQ62GpMwK7N5AcQZw5rZ/LUmSJGnIDr31yL8slQqXRTjOakjKic19jXHfh064+4X+v/BIBEmSJGkI3nPLkftBYWaxxMew55ikfBnd2Mc/AV/u/wtDBEmSJGkXHHHDEXv2jmycFmM4GxhtRSTlUuTvMUSQJEmSds2RXz+yaWNDw7/2hHg+kbFWRFKuFcIhL/1PeyJIkiRJA/CW244fuUex65MhMgPY24pIqhOxpxTG/fTUO9eDRyJIkiRJO9faWnjXGx/+59DXNRs40IJIqjOhoZG9AEMESZIkaWfedfPRxwUe/jxwsNWQVLeKoaX/j4YIkiRJ0na88ysfaCFufirCGVZDUq2FUPgk8PFa3HdDKJX6/2yIIEmSJG3Hgx/7bhew1EpISsG7bz7qqVq1NSwRi/1/LjgVkiRJkiRpRwqlQvyvP1sOSZIkSZK0I6HREEGSJEmSJA1AodRriCBJkiRJkl5dX6HxvxorGiJIMA44kVp1KZEkSZKkhBWKHokgvdRo4BbgYeDtlkOSJEmS/puNFaXt+1vgJ8DXgX0shyRJkiRBzwhDBGlHAnAasAxoBUZZEkmSJEn1rLGnaE8E6VU0AbOA3wLHWw5JkiRJ9argkQjSgB0E3Ab8ADjYckiSJEmqNz32RJAG7XDgl8C1wF6WQ5IkSVK9aCz0eTqDtCvPHeBM4HHg7K3/LUmSJEm5Vig2eCSCNAR7AO3AI8DRlkOSJElSnm0ZaYggVcKfA3cAtwMHWg5JkiRJeVQobjFEkCroWOAxYCEwxnJIkiRJypMRDSPsiSBV+nkFnAX8nnLfhAZLIkmSJCkPNvV5JII0XF5H+QoOPwXeZTkkSZIkZV1Dnz0RpOF2CPAAcBtwgOWQJEmSlFUNow0RpGoIwPHA74A5QLMlkSRJkpQ1Izf12BNBqqLdgfMoN188nXK4IEmSJEmZsHG3Ro9EkGrgDcANwEPA2yyHJEmSpCxo6DVEkGrpbcBPgK8Dr7UckiRJklI2esQWT2eQaqwAnAYsA1qBUZZEkiRJUoq6ekZ4JIKUiGZgFvAI5SaMkiRJkpSUxi2GCFJq3kj5cpD3An9pOSRJkiSlYkTLekMEKVFHAL8CrgX+zHJIkiRJqrWu3Vr+qydC40v+fg9gAdCUscfzKHAxEJ3aXTZ2aw1HZ2zc3wR+mMP5aATOBP6R8ikO92f0cfwTcFSC4yoCnx7G2/8C9rjIixIwA3gh4TFejV8I5NktwJJBfcibNOFDBN5r6ZS0wKrmMR2zQyulgfz4+ikT3xRiPCfNh8K6praO84J7kZpYP2XCB0LkmCQHF3mupb1jZl5qPXLT6Li9EOFF4CvAHUBLhh7P8cC+wCcMEnbJGOBusnfJwRsG+8Eqg/YC3prhEOFvKYchqekZ5hDh/5K9MFY7th9wXMLvL/8CNDhNufVB4K+BPw70F5qLDbd3NxY/Gkn0Q7UEa4oNDYcONEAAaFmw4g8bJk84BDgkvX0ibJg8/pe0dd7q1FbXs59+S3OIG68F9kl0iGflqd6jup/b4ekMPwbeD3Rl7DH9C3ANEHw61UWAcCvwMRj4m48k7aJjgM9YBtXI3sDNDCIoCouWbWnqa/jnAP9h+ZRigFCicNi4ucuWD+aXAkRCaVqqDyoQZsfPHuRRiFW22+hNU1MNEAJ0NBcbrstVvV+72057ImQ1SDgTaDNIGLAm4Hbg7Rkb9zcpXxqx6BRKqpJ5lI8KkmrhUODcQX14XbRsSxO9x1Nu1iul4mli6cixbcuX7covtyxYeR+Re1J8YBHGdzeWPu0UV0/X1AP3JsYpqY4vhnh+WLRsS55q/uzqZ0s7CxGyHCScTbmvg149QLgDeE/Gxn0bcCrQ5xRKqqJRW19/WiyFauRi4J2DChLa1mxqpvcDwA8snxLwDLF0eEv7yseGciOhwDQSPRI1Ej+3bvIbXuNUV0mxdEmq78sRftG8oPO2vJW85U0tA7o6Q1aDhEmUj0jQjgOE/8hogHCKAYKkGjkIWGQZVCONlJss7jnoIKF7ywcg/tASqqYBQqE45AABoHlBx28I3JLo49yjIYw8z+kefuvPnvBmyj2oklQIYXoeG23u9dxeA77EY5aDBI9I2H6A8D3g7zI27sUGCJIS8BHKp1NJtbAfcD2DPG0zXPfUxubunuMMElQjz1IoHt4yf9XvKnWDfaU4E0jyMPEY41mbzplwgNM+zJv0AnPZ9gIB6awBwp3NC1bk8giwxccvftXTGfIQJEwG5vs0e0WAcGgGA4STDRAkJeJq4M8tg2rkWHbh6jL/HSSE+yyhqhog0FDRAAFgj/bOzki8KtHHPLq3xCVO/fDpOnvCe2L5qkkpKjWE4ozcFj8w4CMRsh4kTDFIAGD3jAYI/2aAICkxTZRPr9rNUqhG5rMLjT7LQcLmY8n/5ZGVSoBQLBzR0rbs0WHZqY0qXUL58vQJ7rM4pfucAw9xCVRehECBOQmP78amBSt/VQ9zURjEz2Y5SJhngJDJAOEkAwRJCToY0v0Qo9wbRflKRYNuKBaue2pjd8NGgwQNt+coFo5o+cLy3w7XHYybs+rFGMLcVPdXpVKc6zKovA1Txp8AvCPR4W0eUWBWjstf2tUQIctBwjlAPT6Z+wOEwzI27m/hEQiS0vZZ4IOWQTXyRuALu/KL+8x7pntrkHC/ZdRwBAiBMKwBQr+W2NMOrE6zDPGwDWePP8rlUMGKtr5lJDFcmuz4Al/cbX7HyjxPwVBChCwHCVOBK+osQLg9gwHCtykfgdDry6WkhAXgq4ANtFQrH2UXG31uDRKOIfCAZVSlA4TmthWPVOVFuG3NpggXJbvjKoS58XgaXBaV0b2++9OUr5SUorVs6cn7EYpDDhGyHCRMq5MgoT9AODyDAcKJBgiSMmIP4CYS7RCturDLjT73mfdMd3dh4/sNElQhLxYKhaOrFSD0a1nTcT3ERxOtycFd+433ij6VWFyTxo+LMSTbsDDCZWOufPJPOZ+GIZ3OkJcg4fKcBwjfzWCA8B+UT2EwQJCUJe8CLrQMqpH+Rp+jdzVI6OltOA542FJqCNYWCoX3Ns1fvrTadxwWU4yE81MtTIiFS+OZr9/dJTI0I0JhOvBnic7yky3dW66sg2moyJEIWQ8SzgVaczi5u20NEI7I2LjvAP6ZRK/5K0mvYgbw95ZBNXIwQ/hyZM9Fy9b3jgzvC/BTS6ldChAINQkQ+o1p67g93cuXxn27mkaf5TLZdRsnv2HfSPxsquMLlGaE657aaIhQP0HCrK3/GCDU1p3APxkgqFYvglIFFCif1rCPpVCNDKnR52suX7GuZ2Q4KsDPLKUGFSCUwpFNbSt+UeuBlIjTU31/D8QLuqYeuLfLZdf0xRGXUT7SOkWPNK3pvKkePz8XKnSjWQ0SWsnHYaijgMVk75uwO4F/NECQlAOvBb5GueGiVP19yhAbfW4NEo40SNAArSuUwpFNC1f8PIXBjG3r+BnE7yRaqxaK8QKXzOBtOHvCX4XAqamOrxDC9LCYYp1MR8V6IuQlSLgI+FzGA4RvAcdkbNx3GSBIypn3Ub6ksFQLQ270+ZrLV6zrjfGoGPi55dTOAoQSJBMg9IuhcD7J9taKn1531sQ3unQGWbUCcyu8X62cwANNC1bcUU/TMVwhQpaDhIuBmQYIBgiSNESXAe+wDKqRITf63KO9c22xFI80SNAOA4RSPKr8zX9axixY8QSEryRatxGFhnipy2fguiYdeDhwZKob6lgqTa+zKRnWECHLQcIlGQsSRgL/lsEA4e6tAcJmXx4l5dAIyt8Gj7UUqpEhN/r8ryABfmE59RLrS6V41NiFnek24WwIsxLegxy/fsqB/8dlNIDdaisFQpyb8BAXj2lf+ZAhgkHCS4OEGRkY50jKRyAcm8EA4YMGCJJybiLwJcugGqlIo8892jvXFmN8L7DUkgpYXwqJBwhAy7zlz0JoS3R4IcTSHJfSq+teN/40iP8r0eH1lophZv3NShy2ngh5CRIuBVJuftJ/BELWAoTvGyBIqiPHAx+3DKqRijT63KO9c21xVNEgoc4F6KbEcWMXdD6chfFu2rLbXODpRIf37vWTx/+Dq2onW9XW8aMj4eKEh3jt2C+s+EMdvhJU5UiErAcJnwfOTzhAOM4AQZKStwj4K8ugGqlIo89xc1a9GAsj3gc8YknrM0CIxGNaFnY8kJUx733Voxu2fpZPtKbh8th6aKOra/u61hUmAfsnOrwNoUS99raoaoiQ5SDhssSChJGUL+OYtQDhnq0BwiZfFiXVmdHAzaR7fWvl32wq0OhzzPwnnqev4QiDhDoMEGI8tqWt8/6sjb25+zXXAql+W/zmDes7P+YKe6W10/ffIxCnJbyPntu8sOOZOp2eqp3OkJcgIYXOm/0BwgcyGCD8gwGCpDr2FmCBZVCNNAK3Aq8Z6g21LFr2HH0NRxD5rWWtCxtjjMe2tHcuyeLgw3VLe0m5YXoMFz937ptbXGbbatjSOKsSr1fD5NnNI0a11fH0VP1IhKwHCbOB82ocINyWwQDhAcpXYTBAkFTvPgGcZBlUI/sD11bihloWLXuOxoJBQh0ECIRSZgOEfs1tHYuBVDvo7z26r/ccl9p/Wzv1gAkQP5nwHnrWXlc83lXHU1SzECHLQcIc4Nwa3O8I4JuUv83Pkh9tneduXxIlCYCrgQmWQTXyIeDMigQJ85Y/S2PhCIiPWtacBgixcFzLgpX3Zf2BBIiUkjiieAdbsnhO96QDXueSK2voK8wGRiU6vCeau/f8Sj3PT6xyY8W8BQlnVTlAuI1yPwEDBEnKtrGUQ+GRlkI1shD4nxULEhoaDjdIyGmA0L78h3l5QC0LOx6IxDsSHV5ziYZZLjtYN3nC3xI4Id0ddDh/6ykydSu87BKPteoM2h8k3AG0ZKZ20E75UI5FBgg7ndcNvhxKydlM/k8vaqnh+9pA/A3lywif63rLpVGk3USzv9Hn3wAbKxEkdE864L2lEO4ADkjw8TaRZmhXAtYlOK4eYuHkPAUI/QoUpkfiUUBDeruL+PGuyQctamlbVteBXIE4G0JIcWwBftbUvuI7fozc9nSGWn7YymqQsHBrEb84TPfRAHw9owHC0QYIytqLYB1pJ81L11bSSVs3SSmbSrlnzPdyPhdtwAV19hzbB/jV1n+n6n9s/RzzLxXZpbev/CPw1hQf6IZJE78WQ/xogkN7qqWtYz/fiqunuW3FIxsmTbwx0fXQAMXPZ/Bzf8WsnzLhA0QOT/ZDYyhND/X72fGlm+Can86wvSChK1s15AvAZ4YpQLgJONEAQZIG7Rbgyxl4D/kq8HqnK3eeBk4BiomP8+NbxynVjULomUkFjsAZJv/QNenAw+txXuLxNIQYL0v4Dfv2PPQHqchcJRYiZDlIWFThIKEBuDGDAcKDeAqDpHR8lvK3wSnbi/IREw1OV+78kPJVnVJ3DfAmp0v1Yve2NU8GuDLZjUUozY7l/UVd2bDf+I9DeEuiwytGGs732dOfIoRSaiFC1oOET1cwQMjaJcAepHwEQpfPLEmJ2AycAKxPfJx/Bwl3DddQzALuSXyMzcA3sNGn6khv+RvvPyW5P4O/3TB5wvH1NB9PT31tEzEk21gywPX13qti24LE5I5EyHqQ8MUhBgn9PRCyFiD8xABBUqKWUaFzvodZK/BOpyt3SsBpwB8TH+f/Bi5zulQv9mjvXBsicxLeVMyJnz1oVL3MR1PfblOBVC9xuakQChf5rNlGsiFC1oOET+1igHADcHIGA4T3GSBISthtwFWJj7ERuBXY0+nKnWe2vren3h9hCvABp0t1s3EdF78YYWWiO7QJ3Y19n6yHeeiaeuDehHBOspu7GNt3X7B8tc+YbSR5OkMegoQrgcE88fsDhKw1N3oIj0CQlA1TgKWJj/ENwPXU4bmwdWAJkPo3WQH4CrCv06V6EFo7NxcCF6Y6vkiYtXb6/nvkfiKK8SLSvTrfi32jS3N9tmxneSYeImQ5SLgK+MQAA4TrMxogvI/0zzWWJIAtwD8DLyQ+zmMZniv+qPY+D9yd+Bj/DBt9qo40jem4iXQb8O7RuLkwLc/1X3/2hDdD/Fi6G7pwybg5q170mfKKwmQiRMhykHD1qwQJ/QHCqRlbOkuBYwwQJGXMSuCjpH+N53nAW52u3Onvj/Bk4uN8DzDD6VJd7IVaKRViKdn1HkOYvOnsifvntv4FLgdGJLqR62zqK1zls2S7CzMzIUKWg4SrgI/sIED4WgYDhF8C7wVM5SRl0e3AwsTHOIpyH4cWpyt3ngM+BPQmPs5ZwOFOl+pBU/vKO4EfJDq80cVALpv6rZ90wDtIuQ9LDDPDomVbfIZstzjJ90TIQ5BQAL4KnL6dAOE0AwRJqrpzgYcTH+NBwBVOVS49DMzMwGeXG4DdnS7VgwJhOokepRZDPL17ygG5OjotQgghzCPdHkC/aRq34hafGTucv0wdiZCHIOG0l/05S361NUB4waeOpIzrBU4Ank/7PZq7nKrcmgv8v8TH+CCw0alSPWhqW/ELIreluo8oUZidp3pvmDzheAj/J9XxhQLTQuu2VyDQS+pDzGSI0B8kHAd0Z2jM/Ucf3Me2RyVkwS8oH9ZogCApL1ZTPtUs1f4I7RnYZGrXReAMoCPR8S0DznSaVE+KjaXzKTfhTfEV46gN50x4by5e/M48ZARwacJb5Pua53fc4zNipzXKbIgAcD/lqwNk6YiEBsoNi7Lk18BRwFqfMJJy5odbw4TU/AKY7vTk3ovAfyQ4rs3A8dg8WXVm3LyVHQSuS3bzXWJubM3cfu0VNjT/6VPAG1Mtc6EQpvlseJUiETLXE+HlsnhqQ9YChL/HIxCU59dB1bP5QGpdrzdQvuRvj9OTe+8GPpXguKZuff+X6u9DQRhxMekGaP+ze+2EU7Jc3+fOfXMLMaR79ZfAzU3zly/1mfBqZYqZPhLBIKE6AcKfLIWkHHp/ohu4TwBPOD25Nw64kfIRiin5HuWrSkl1acz8J54nMi/V8cUQZsczX5/Zhqe79Ww5H9g70eH1FBsaZvksGNhSzEOIYJBQeb8xQJCUY/tS7jyfWlfoa4GbnZ66cA1wQGJjSr1PiFQVzaF3HrAm0b3bvl27j/zXLNZ14+Q37BtDODvdbXG4atzcZct9Bry6kMFLPBokGCBI0lD0X7ruzxIb16PAFKenLpwJfDixMfUBJ+LpixKhbc0mQky28V8I4fz1n9l3z6zVtRRHXkq6l43tojHMdvUPTMx4Y0WDhMr7z60BwvOWQlJOTQeOSGxM3ZQvOenl9PLvjZR7caRmBvATp0cqa17d+WUIv0t0eOMYOWJGluq5YfLEg2OIyV7ePoYwu2Xe8mdd+QNOEXIXIhgkDC1AOMIAQVKO/Q3QmuC4Pgv8zunJvVHAN4HmxMZ1F6R7DrhUC2ExxUhxZrLjI3xm7bSDDszMnjPEuaTXA6Z/Q/xUy4bNC131g1mAIZchgkHC4P2e8mUcDRAk5VUz8A1gRGLj+ibwNaenLswG3prYmJ4BzgBKTo+0rTFtK78DPJjo8EY2FPsuyUIdu6YccBiRo1IdX4RZ4bqnPBJwUEXLV08Eg4RdDxAOA562FJJy7BrSuy71Msrnxyv/jgImJTamEnCq7//STp4kIU4l1WajMZy4ftIB70h6r9lKgViYm/AQH28Zd8D1rvRBCuT2SASDBAMESer3ESC1a2tvodxcb73Tk3t7AdeT3tVALgXudXqkHRu7oPNhIrenupULhcKclOvXvXbCKcAhqY4vBs4NrUv6XOmDrlzuQwSDhB17HDjcAEFSzh0IfCHBcU0Ffun05F4Avgrsk9i4HgAudnqkAW2XzqV8BZMEB8d71k+ZeGySQ2sdP7oUSPmUi4dbFnTc7grfhTe2HPdEMEh49QDhMOCPlkJSjo2g3AdhTGLj+h5wpdNTF84GUvuA/wJwGlB0eqRXN2Zhx+MErk92Qxfj3Nh6aGNq4+pay1kBDki1bjEWpoZUT1VJXIzkuieCQcKOA4TDDRAk1YHLgLclNqbVwEfxg0s9+MutazCpz36UGymucnqkgSs09s0K5cvxpujPu9avPCOlAa2dvv8eIYTzEt4Gf3tM+/IHXdm7qA56IhgkbOuJrQHCU65+STl3JDAlsTH1AScBf3J6cm80cDOwW2LjWgB81+mRBqfpitVPRUj2MoAhctHTU1/blMp4ClsKnwNek2i5isQ401U9BHHbEKGxTh52f5BwB9BSZwHCYQYIkoBDgTk5f4wfIb1wfCbpXi5sOB1WB+vt5f4aODixMf0MuMCXP2nXbB4xcs7o3p6PA3snOLzXNfXtPgVq34PgxUnjxwfCp9OdyfCllvaVj7mih5QilOoxRKjHIOEPBgjS9l8F6/Rxv33rP6qeu4G5rjfVyDrKR8H0WApp1+x1xeNdG6aMnx1jaEtzb8y5G6aN/1Lz3M6aNk1vDIXZEEelWSK6QyzaVHbolay70xm2FyTk/dQGAwRJqq1nKPdBKFkK1cingBWWQRqapjFNVxHj8kSH1xz7wudqOYDuKQe8FeIJqc5fDCxoal9pX7gKlLKeQ4R6CBL6A4QnXeuSVBMl4FS8nK5q5xrgFssgDV1ofbQnhMKFCQ/xzK5JB/xFzd7wYmFuwnvK53p6G+a5iiuSINR9iJDnIGGZAYIk1dylwL2WQTXyW9JrMCplWlPbiluApYkOr5HQ8Pla3PH6KROPBY5IeOou3nPRsvWu4KELdXaJx53JW5CwEnivAYIk1dQDgOdeqla6gROATZZCquAGCiIxTk13hPEf158z8V1VvcfjaQixNCfhOetoHrv7da7eihXUIxFyGCSspNx5vdMVLkk18wJwGlC0FKqRzwB2IJeGQUt75xLg+6mOr1CK8yKEat1f134T/i+Et6RajwjTQ+ujNpatWD2DIULOggQDBElK4vMKZwCrLIVq5JvADZZBGj6hxDQSbZgb4W0bpkz8p6rc1+Q37BYiyfaJiPCL5raOxa7YCq79GA0RchQkrKLcA8EAQZJqawHwXcugGlkGnGkZpOHVvLDjPwkJNy2N8YrY+paRw303G2icBrwh1TIUQpge6veS3sOUItgTIS9BwirKRyB0OHWSVFM/By6wDKqRLZT7INg8TKqCvlKcufV5l6KJG9ZtHNZAseuzB+0F4ZxU5ycS7mxesOIHrtQKZwgeiZCLIKH/CAQDBEmqrXXAhwHPu1StnAP8yjJI1bFHe2dnJF6V8BAvfOG8iWOH7dYb+i4CxiT62EsNoTjDVVp5MdgTYSBBwnGk29l4NfB3wAqnSpJq7lMY6Kp2vgdcZRmkKu9UR5UuodxMN0V7jdgSpw3HDa+fMvFNhPDxZDe6cGPTgpWGqsMhBE9nGID7KTcsTNE92ANBklJwNSR8bqzybjXwETzvV6q6cXNWvRgJc9Pd8DFl45QD96v4zUbmACMSfdSbR5TCha7OYVpSns4gSdKQ/ZbyYeRSLfQBJ5LuN6FS7rWMLbVTDvNStFsplmZV8gbXTRn/dogfTHaTC4t2W7jCKyQNk/iywNoQQZKkwemm3Mhuk6VQjcwAfmIZpBpuWls7N0e4KOFN30c3TJ54cKVurxDDvPJePUlri/TOcVUO54I3RJBU3zz0V0P1GeAxy6AauQuYZxmk2mtZ03E9xEcTHV5DiVJFNtZdkyZ8CHhnwh/sLhvbtsYjs4ZRiF7iUZKkXXUrcINlUI08A5wB236Yk1SjjdViipFwfrLjI7x/w+SJfz+kDfqZh4wgcFnCs/BkS/eWK12Nw6vkkQiSJO2SZcCZlkG1+gwHnAo8bSmkdIxp67gdwn2pji8S58bWXd/zbdj9hU8Cb0z18QVKM8J1T210JQ5znaOXeJQkabC2UO6D0GUpVCOXAvdaBik9JeJ00j1d8q+71048aVd+8blz39xCYEbCpX+kaU3nTa7A4RdC9HQGSZIGaTLgtadVKw8AF1sGKU1j2zp+Bnw73R1gvDR+9qBRg/210b0904HXpvqwCrF0XlhM0RU4/ErR0xkkSRqMbwFXWwbVyAvAaeAHZSllMYQLgN4kxwbjuxuL/zqY3+k+d7/XA5MSLvn9Te0r73TlVUeI0RBBkqQBWo19EFTTz/6cAXjtcylxYxaseIIYv5zwi8nM9Z/Zd88B/3xvw6XA7qk+nFKI0111VRTsiSBJ0kD0ASdS/iZYqoUFwHctg5QRjQ2tpNs7ZxyjRg5o471h8sSDI+H0hCu9eOyCzoddcNUTY7AngiRJA3A+8BPLoBr5OXCBZZCyo2Xe8mchtKU6vhA5a+3k/Se+2s+V4HKgIdGH0VsqhpmutiqvneDpDJIkvZq7gPmWQTWyDvgw0GMppGzZtGW3uaR7KdaRDaFhp01auyaNPzQQj064xNeO/cKKP7jSqs4QQZKknXiG8nno0VKoRj4FdFgGKXv2vurRDUQuTXgreHL3OQcesoNdYiCEeQmXd0MoJVzbPPPqDJIk7VAJOIV0v0VS/l0D3GIZpOxq3via64BUvy0PpVJpu0FB95QJpwCHJLyRvaJ5YcczrrBarBrsiSBJ0g5cDPzAMqhGfgtMsQxSxvdb1y3tJTAj4SEe2j3pgG1OWYitbxkZIxclPOZnN48c2e7qqtWi9kgESZK2537wMEnVTDdwArDJUkjZ17yg49+Ah1IdXykU5sfWQxv7/7tr3cazgYnpVjTO2uuKx7tcWbUq/7aXeGy0IpLq7WWwTh/3EsrNArVjNwJFy+B6q5GlwGOWQcqHALGrxHQK3J/oEP+ia+2q04Gvrp2+/x5hC9MTLucTzd17fgU6XVi1yxBKhgiSVH8epnzJJqkaHnK9Sap3LQs7Hlg/efwdgfD+FMcXiJc8PfW13yxsbphJ4DUJ72DPD9ct7XVF1XCt2FhRkiRJkoZfgcJ0Uj3KLfD6pr6m+SHwmYRL+HBz+4rvuJJqLRoiSJIkSdJwa25b8UiI4cZkBxjiJ4BR6Y6vdEHwksu1n4YQDBEkSZIkqRoKoWcmsNFKDFLkuy0LVt5nIRKYilLwEo+SJEmSVA27t615MoTwRSsxKEVCwwWWIRGFkkciSJIkSVK19JZKs4E/WYkBCnytpW3ZoxYikemIns4gSZIkSVWzR3vn2hCZYyUGZFMDhYstQzpKXp1BkiRJkqqradzuXwBWWImdCzG2775g+WorkdCcBOyJIEmSJElV3Yi1PtoTAhdZiZ16sW90aa5lSGzteiSCJEmSJFVf05iOm4BfWYkdbFZDvHjcnFUvWom0lLzEoyRJkiTVYJPcSikQverA9moDnU29jVdbiQTnJkZPZ5AkSZKkWmhu67wLuNdKvGKrOiMsWrbFOqQ4NZ7OIEmSJEm125PFOA22bVZX537TNHbFrZYhTZFtT2dotCQSzwE3AycnOLYjgFEZrevbEx3XbJe8JEmqpeb2zl93TZqwmMCHrQaEAtNCq6FKsvMToyGC9DJF4HTKafCpiY3t2K3/qDIuBC6zDJIkqeYfQBtL5zcUCx8ku18YVWqLel/z/BX3uCJSnqJgTwRpe6/jwEeBmyxFbl0IXGIZJElSCsbNW9lB4Lo6L0MsFMI0V0PaQijZE0HaAYOE/DJAkCRJ6e2gw4iLgfX1uzvl5qb5y5e6EtJWil7iUdoZg4T8MUCQJElJGjP/ieeBuXX68HuKDQ2zXAXpC3h1BunVGCTkxywMECRJUsKa6Z0PrKm3xx2JV46bu2y5KyB9gWhPBGkADBKybxZwsWWQJElJb9Da1mwixEvr7GGvozDSZtcZ4ekM0sD1BwnfsBSZY4AgSZIyo3l155ch/K5eHm8M4fKtp3IoA0LBEEEajCLwEQwSssQAQZIkZWuTtphipDizLh5s5KmWDZsXOusZWp8lT2eQBssgITtaMUCQJEkZNKZt5XeAB/P+OGPgwnDdUxud8ewoFWysKO0Kg4T0tQIXWQZJkpTZzVqIU3lZJ/yc+X3L2ANucKazJdgTQdpl/UHCzZYiOa0YIEiSpIwbu6DzYeC7eX18Ec4NrUv6nOmsTVzJEEEagiJwOgYJKWnFAEGSJOVmv8Z5QP422pEfj2nruN0Zzh4bK0pDZ5CQjssxQJAkSTkyZmHH4wSuz9vjihSmO7sZnTsbK0oVYZBQe5cDvhlJkqTcKTT2zQrQnaNt6LfHtC9/0JnNqOCRCFKl9AcJt1iKqjNAkCRJudV0xeqnIuTlMohFYpzprGZXwKszSJV9UYTTMEiopiswQJAkSTm3ecTIOcCzOdiCfqmlfeVjzmh2lbw6g1RxBgnVcwVwnmWQJEl5t9cVj3cF4mVZfgwBuguxeLGzmW0h2BNBGg4GCcPPAEGSJNWVprFNVxPj8qyOPxLmN7Wv/KMzmW3BngjSsOkPEm61FBVngCBJkupv89b6aE8IhQszOvznevoK853FHIglQwRpGBWBUzFIqKS5GCBIkqQ61dS24hZgaQaHfvGei5atdwazL0a2vPS/DRGkyjNIqJy5wLmWQZIk1asAkRinZmzMHc1jd7/O2cuFF0b29W1zyrYhgjQ8DBKGzgBBkiQJaGnvXAJ8PyvjjTA9tD7a48xlX4TP/eAjP/jTS//OEEEaPkXgdOA7lmLQDBAkSZJeIpSYBpSS33QGft7c1rHYGcuF3zW+bvMrjigxRJCGVy/wYQwSBmMeBgiSJEnbaF7Y8Z8Rbk59nAXC+QGiM5Z9oRAmLzlsSd8r51jScOsPEv7dUryqecA0yyBJkvRKIwrMhG2b3KUkEu9oXrDiB85U9gX4zgMn3rndU2gMEaTq6AVOwCBhZwwQJEmSdmK3+R0rY+TKRIdXKkRmOEu50EMs7vDqaIYIUvUYJOyYAYIkSdJAduqji5cCL6Q2rgg3Nrd3/toZyoX5D5xyzx929D8NEaTqMkjYzosUBgiSJEkDMm7OqhcjYW5iw9o8ohQudHayLxKe6SmFOTv7mUbLlCn3bN1wKdt6gQ8BYywFAC9agmG3GLjGMqiK6+1ayyC9whMxhHMsgyqhZc2KuesO3D+Z19pi98hiy6Jl652Z7CsQz/vpqXetN0TIvj8AM7Z+MFM+FN08qwp+BUwCHrAUqoJfApNdb9IrrI0hzmnpbWwPi5ZtsRyqhLCYIqzys6QqvbKWPvDE226EuzBEyK4NlI88mE3CXVglJed54FLgi5QDK8n1JlVfKcI3QkNh6ph5y5+1HJISFyNxEq2tpVf7QUOERN90gG9QPk/8GcshaYB6gauBzwEeUqjh1kP5NBnXm/TKz+I/DKUwuWVhx39aC0kZ8Y0fn3zXjwfyg4YI6bmP8uGgv7EUkgbhe5RPXVhuKVSl9XY2sMJSSNtYRuCClgWdnoIqKTsiG+OIvgFfntMQIaU3HbgA+x5IGpzHKAePd1sKVcGvtq63+y2FtI0NhDC/ubcw274HkrImFJj9oxPuXTXQnzdEqL1uYB4wB9hsOSQN0J+AS/A8dLnepFoqRfhGocS05oUrPAVVUhat7m4esWAwv2CIUMM3Hex7IGnw+vseXAissxxyvUm1Eu4LIU5uWdDhKaiSMvxSFqYsPe72jYP5FUOE2lhC+XDQX1sKSYNwL+Xz0H9nKVQF9tmQtm9VCHyuecGKr1sKSZkWePBHJ975LU4a3K8ZIlTXamAmcCMQLYekAfo9MAW401KoCh7but7ushTSSz9r0x1DmNc8pjQntHZ6CqqkrCvFUulswuD3pYYI1WHfA0m74gXgYuBKoM9yaJjZ90Da0Qdt+EZojOe2zO142nJIyoMIX/rxKd9fuiu/a4gw7HPDTcC5gG86kgaq/zz0WcBay6EqrTf7HkivtCTEOLmlvfPXlkJSjqxvbCy07uovGyIMn59SPpf0YUshaRDu3fra8ailUBXY90DavtUhMLN5QYd9DyTlT6B1yQl37PKX3AUrWHFrgI8A78AAQdLA/R44BngvBggafo8B7weOwwBBesnnaroJ4aLmsfFNBgiScvpCt+yFhpYrh3ITHolQORuBucDlwCbLIWmA7HugWqw3+x5I27LvgaT6eLEL4axHT1jcM5TbMEQYugj8GzAVWGU5JA1QL/A1YAbwvOVQFdabfTak7Qjw02KIk8Yu6PQIUkl5d8eDJ9455Kt9GSIMzc8on0v6kKWQNAj2PVC119vZwO8shbSN1SEws2lBx43BS29Lyr/eUpEplbgheyLsmv6+B2/HAEHSwD0OHIt9D1QdL+2zYYAgbfXyvgcGCJLqxKIHT7vr8UrckEciDM5GYBFwKbDBckgaoBcp90tpA3osh4aZfTak7YsRbirE0nnNbSv/aDkk1ZHnGraMvqRSN2aIMMA3Hcp9D6YBKy2HpAHqA74KzASesxwaZvbZkHYgwE9LsTR5TPtKjyCVVH+b2RhmLjnj39dW6vYMEV7dz4HJwIOWQtIg3AtMAR6xFKrSepuEp8lIL7cmBGbY90BSvQrEX+8zouUrlbxNQ4Qde5LyocdfBkqWQ9IAPQHMBhZbClXB45SPkrvDUkj/LYa4kRAuao49l4cFa7z0tqT6fT2kMGnxCYsrellnQ4QdOwqvoS1p8P7G1w5V0V+53qRXal7TcVZY7HNDUn0LgcUPnHTn/ZW+Xa/OsGO+8UjytUOuNymLH5wNECRpcwHOHY4bNkSQJEmSJClPQpi75KS7Oofjpj2dQZIkSZKknAjw5Oje4uXDdfseiSBJkiRJUl7EcN73T/9+93DdvCGCJEmSJEn58NADJ99583DegSGCJEmSJEnZF4lxEoE4nHdiTwRJkiRJkrIucMOPTr77Z8N9Nx6JIEmSJElStm0oUZxRjTsyRJAkSZIkKcMCfP7Bk+55qhr3ZYggSZIkSVJ2rShs2dxerTszRJAkSZIkKbPCOUvOWLK5WvdmiCBJkiRJUjb98Ecn3/nv1bxDQwRJkiRJkrKnGEqFSdW+Uy/xKEmSJElSxsTINT869Y5Hqn2/HokgSZIkSVK2vNgYRrTW4o4NESRJkiRJypQwa8nJtz9fi3v2dAZJkiRJkjIjPrax67lranXvHokgSZIkSVJWxDB56SeW9tbq7j0SQZIkSZKkLAj8vx+dfNfdtRyCRyJIkiRJkpS4EEJvDIVzrYQkSZIkSdqpd9941OusgiRJkiRJkiRJkiRJypf/D/aPA5spu5nwAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA3LTEyVDE4OjQxOjU5KzAwOjAwzG19tAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNy0xMlQxODo0MTo1OSswMDowML0wxQgAAAAASUVORK5CYII="/>
+    </pattern>
+    <filter id="Rectangle_1513" x="355" y="399" width="1118" height="611" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <rect width="9" height="5" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_1498" x="1268" y="419" width="170" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-14">
+      <rect width="1099" height="399" fill="none"/>
+    </clipPath>
+    <filter id="Ellipse_369" x="1386" y="543" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-15">
+      <rect width="4" height="18" fill="none"/>
+    </clipPath>
+    <filter id="Ellipse_356" x="1297" y="550" width="31" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_369-2" x="1386" y="618" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-17">
+      <rect width="21" height="104.167" fill="none"/>
+    </clipPath>
+    <filter id="Ellipse_369-3" x="1386" y="713" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_356-2" x="1297" y="720" width="31" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-16"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_369-4" x="1386" y="788" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-17"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_369-5" x="1386" y="883" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-18"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_356-3" x="1297" y="890" width="31" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-19"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_369-6" x="1386" y="958" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-20"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-24">
+      <rect width="8" height="14" fill="none"/>
+    </clipPath>
+    <filter id="Ellipse_369-7" x="1207" y="941" width="53" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-21"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Window_shadow-2" x="337" y="540" width="1534" height="946" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="28" result="blur-22"/>
+      <feFlood flood-opacity="0.22"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-6" x="1717" y="599" width="37" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-23"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-7" x="1672" y="599" width="37" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-24"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Url_background-2" x="852" y="599" width="504" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-25"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-8" x="560" y="599" width="37" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-26"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-9" x="525" y="599" width="25" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-27"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-10" x="499" y="599" width="25" height="23" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-28"/>
+      <feFlood flood-color="#fff" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1520" x="652.5" y="618.5" width="1148" height="275" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-29"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495" x="693" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-30"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495-2" x="963" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-31"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495-3" x="1233" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-32"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-32"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495-4" x="1503" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-33"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-33"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497" x="716" y="901" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-34"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-34"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-29">
+      <circle id="Ellipse_380" data-name="Ellipse 380" cx="22.5" cy="22.5" r="22.5" transform="translate(470 294)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Rectangle_1497-2" x="1061" y="901" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-35"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-35"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-30">
+      <circle id="Ellipse_380-2" data-name="Ellipse 380" cx="31.5" cy="31.5" r="31.5" transform="translate(470 294)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Rectangle_1497-3" x="1394" y="901" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-36"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-36"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-31">
+      <path id="Path_492" data-name="Path 492" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(470 294)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_1521" x="716" y="1098" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-37"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-37"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497-4" x="1061" y="1098" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-38"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-38"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497-5" x="1394" y="1098" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-39"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-39"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1522" x="716" y="1295" width="315" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-40"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-40"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-35">
+      <ellipse id="Ellipse_385" data-name="Ellipse 385" cx="25" cy="26" rx="25" ry="26" transform="translate(393 275)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Rectangle_1523" x="1061" y="1295" width="315" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-41"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-41"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1524" x="1394" y="1295" width="315" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-42"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-42"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1525" x="652.5" y="618.5" width="1148" height="275" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-43"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-43"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495-5" x="693" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-44"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-44"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495-6" x="963" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-45"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-45"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495-7" x="1233" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-46"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-46"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1495-8" x="1503" y="732" width="258" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-47"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-47"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497-6" x="716" y="901" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-48"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-48"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497-7" x="1061" y="901" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-49"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-49"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497-8" x="1394" y="901" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-50"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-50"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1526" x="716" y="1098" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-51"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-51"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497-9" x="1061" y="1098" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-52"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-52"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1497-10" x="1394" y="1098" width="315" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-53"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-53"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1527" x="716" y="1295" width="315" height="119" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-54"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-54"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1528" x="1061" y="1299" width="315" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-55"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-55"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1529" x="1394" y="1299" width="315" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-56"/>
+      <feFlood flood-color="#2c2828" flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur-56"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-yupp-admin">
+      <rect width="1920" height="1473"/>
+    </clipPath>
+  </defs>
+  <g id="yupp-admin" clip-path="url(#clip-yupp-admin)">
+    <g id="Group_359" data-name="Group 359">
+      <g id="Group_338" data-name="Group 338" transform="translate(-215 47)">
+        <g transform="matrix(1, 0, 0, 1, 215, -47)" filter="url(#Window_shadow)">
+          <rect id="Window_shadow-3" data-name="Window shadow" width="1375" height="775" rx="8" transform="translate(105 259)" fill="#fff"/>
+        </g>
+        <rect id="Window" width="1375" height="807" rx="6" transform="translate(320 180)" fill="#2c2d30"/>
+        <path id="Mockup" d="M0,0H1375a0,0,0,0,1,0,0V763a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(320 218)" fill="#2c2d30"/>
+        <g id="Toolbar" transform="translate(320 180)">
+          <path id="Toolbar_background" data-name="Toolbar background" d="M6,0H1369a6,6,0,0,1,6,6V38a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" fill="url(#linear-gradient)"/>
+          <rect id="Line" width="1375" height="1" transform="translate(0 37)"/>
+          <g id="Button_new_tab" data-name="Button new tab" transform="translate(1350 12)">
+            <rect id="Background-11" data-name="Background" width="24" height="24" transform="translate(1 1)" fill="#232326"/>
+            <path id="Icon_new_tab" data-name="Icon new tab" d="M5,11V6H0V5H5V0H6V5h5V6H6v5Z" transform="translate(7 8)" fill="#9a9a9b"/>
+            <path id="Border" d="M0,25V0H25V1H1V25Z" fill="#58585a"/>
+          </g>
+          <g id="Button_tabs_preview" data-name="Button tabs preview" transform="translate(1305 8)">
+            <g transform="matrix(1, 0, 0, 1, -1410, -235)" filter="url(#Background)">
+              <rect id="Background-12" data-name="Background" width="37" height="22" rx="4" transform="translate(1410 235)" fill="#626263"/>
+            </g>
+            <g id="Icon_tabs_preview" data-name="Icon tabs preview" transform="translate(13 5)">
+              <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(0 3)" fill="none" stroke="#e8e8ea" stroke-width="1">
+                <rect width="9" height="9" rx="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="8" height="8" rx="0.5" fill="none"/>
+              </g>
+              <path id="Subtraction_2" data-name="Subtraction 2" d="M8,9H7V8H8V1H1V2H0V1A1,1,0,0,1,1,0H8A1,1,0,0,1,9,1V8A1,1,0,0,1,8,9Z" transform="translate(3)" fill="#e8e8ea"/>
+            </g>
+          </g>
+          <g id="Button_share" data-name="Button share" transform="translate(1260 8)">
+            <g transform="matrix(1, 0, 0, 1, -1365, -235)" filter="url(#Background-2)">
+              <rect id="Background-13" data-name="Background" width="37" height="22" rx="4" transform="translate(1365 235)" fill="#626263"/>
+            </g>
+            <g id="Icon_share" data-name="Icon share" transform="translate(13 4.003)">
+              <path id="Subtraction_4" data-name="Subtraction 4" d="M10,10H1A1,1,0,0,1,0,9V1A1,1,0,0,1,1,0H4V1H1V9h9V1H7V0h3a1,1,0,0,1,1,1V9A1,1,0,0,1,10,10Z" transform="translate(0 4.997)" fill="#848485"/>
+              <path id="Union_3" data-name="Union 3" d="M2.5,10V1.937L.888,3.923a.5.5,0,1,1-.777-.629L2.549.284A.5.5,0,0,1,2.686.112a.524.524,0,0,1,.646,0,.5.5,0,0,1,.136.171L5.906,3.294a.5.5,0,0,1-.778.629L3.5,1.908V10Z" transform="translate(2.503 0)" fill="#848485"/>
+            </g>
+          </g>
+          <g id="Url" transform="translate(485.5 8)">
+            <g transform="matrix(1, 0, 0, 1, -590.5, -235)" filter="url(#Url_background)">
+              <rect id="Url_background-3" data-name="Url background" width="504" height="22" rx="4" transform="translate(591 235)" fill="#626263"/>
+            </g>
+            <path id="Icon_lock" data-name="Icon lock" d="M0,10V4H1V3A3,3,0,0,1,7,3V4H8v6ZM6,4V3A2,2,0,0,0,2,3V4Z" transform="translate(218.5 6)" fill="#e9e9e9"/>
+          </g>
+          <g id="Button_side_menu" data-name="Button side menu" transform="translate(139 8)">
+            <g transform="matrix(1, 0, 0, 1, -244, -235)" filter="url(#Background-3)">
+              <rect id="Background-14" data-name="Background" width="37" height="22" rx="4" transform="translate(244 235)" fill="#626263"/>
+            </g>
+            <g id="Icon_side_menu" data-name="Icon side menu" transform="translate(11 5)">
+              <path id="Subtraction_6" data-name="Subtraction 6" d="M14,12H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H14a1,1,0,0,1,1,1V11A1,1,0,0,1,14,12ZM6,1V11h8V1ZM1,1V11H5V1Z" fill="#e9e9eb"/>
+              <rect id="Rectangle_29" data-name="Rectangle 29" width="2" height="1" transform="translate(2 2)" fill="#b5b5b6"/>
+              <rect id="Rectangle_30" data-name="Rectangle 30" width="2" height="1" transform="translate(2 4)" fill="#b5b5b6"/>
+              <rect id="Rectangle_31" data-name="Rectangle 31" width="2" height="1" transform="translate(2 6)" fill="#b5b5b6"/>
+            </g>
+          </g>
+          <g id="Button_forward" data-name="Button forward" transform="translate(104 8)">
+            <g transform="matrix(1, 0, 0, 1, -209, -235)" filter="url(#Background-4)">
+              <rect id="Background-15" data-name="Background" width="25" height="22" rx="4" transform="translate(209 235)" fill="#626263"/>
+            </g>
+            <g id="Icon_forward" data-name="Icon forward" transform="translate(3.5 4.6)">
+              <path id="Union_6" data-name="Union 6" d="M.75,9A.75.75,0,0,1,0,8.25V.75a.75.75,0,0,1,1.5,0V7.5H8.25a.75.75,0,0,1,0,1.5Z" transform="translate(6.364 12.728) rotate(-135)" fill="#848486"/>
+            </g>
+          </g>
+          <g id="Button_back" data-name="Button back" transform="translate(78 8)">
+            <g transform="matrix(1, 0, 0, 1, -183, -235)" filter="url(#Background-5)">
+              <rect id="Background-16" data-name="Background" width="25" height="22" rx="4" transform="translate(183 235)" fill="#626263"/>
+            </g>
+            <g id="Icon_back" data-name="Icon back" transform="translate(8.8 4.6)">
+              <path id="Union_6-2" data-name="Union 6" d="M0,8.25V.75A.75.75,0,0,1,.75,0h7.5a.75.75,0,0,1,0,1.5H1.5V8.25a.75.75,0,0,1-1.5,0Z" transform="translate(0 6.364) rotate(-45)" fill="#848486"/>
+            </g>
+          </g>
+          <g id="Window_controls" data-name="Window controls" transform="translate(13 13)">
+            <circle id="Close" cx="6" cy="6" r="6" fill="#ff5f57"/>
+            <circle id="Minimize" cx="6" cy="6" r="6" transform="translate(20)" fill="#ffbd2e"/>
+            <circle id="Maximize" cx="6" cy="6" r="6" transform="translate(40)" fill="#27c940"/>
+          </g>
+        </g>
+        <g id="Group_328" data-name="Group 328" transform="translate(329 219)">
+          <g transform="matrix(1, 0, 0, 1, -114, -266)" filter="url(#Rectangle_1512)">
+            <rect id="Rectangle_1512-2" data-name="Rectangle 1512" width="1128" height="121" transform="translate(352 266)" fill="#2d2d2d"/>
+          </g>
+          <g id="bell" transform="translate(1163 27)" clip-path="url(#clip-path)">
+            <path id="Path_447" data-name="Path 447" d="M18,8A6,6,0,0,0,6,8c0,7-3,9-3,9H21s-3-2-3-9" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_448" data-name="Path 448" d="M13.73,21a2,2,0,0,1-3.46,0" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_318" data-name="Group 318" transform="translate(22)">
+            <text id="Abhishek" transform="translate(1246 40)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Abhishek</tspan></text>
+          </g>
+          <text id="Banners" transform="translate(284 45)" fill="#fff" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Banners</tspan></text>
+          <g id="Ellipse_379" data-name="Ellipse 379" transform="translate(1212 15)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+            <circle cx="23.5" cy="23.5" r="23.5" stroke="none"/>
+            <circle cx="23.5" cy="23.5" r="23" fill="none"/>
+          </g>
+          <g id="Group_319" data-name="Group 319" transform="translate(-106 -41)">
+            <g id="home" transform="translate(390 113)" clip-path="url(#clip-path-2)">
+              <path id="Path_435" data-name="Path 435" d="M3,9l9-7,9,7V20a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2Z" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <path id="Path_436" data-name="Path 436" d="M9,22V12h6V22" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <text id="Home-2" data-name="Home" transform="translate(425 128)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Home</tspan></text>
+            <text id="_-" data-name="-" transform="translate(467 128)" fill="#f6f9fc" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">-</tspan></text>
+            <text id="Banners-2" data-name="Banners" transform="translate(481 128)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Banners</tspan></text>
+          </g>
+          <g id="Group_320" data-name="Group 320" transform="translate(-10)">
+            <g transform="matrix(1, 0, 0, 1, -104, -266)" filter="url(#Rectangle_1490)">
+              <g id="Rectangle_1490-2" data-name="Rectangle 1490" transform="translate(104 266)" fill="#fff" stroke="#fff" stroke-width="1">
+                <path d="M0,0H245a0,0,0,0,1,0,0V768a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                <path d="M1,.5H244a.5.5,0,0,1,.5.5V767a.5.5,0,0,1-.5.5H5A4.5,4.5,0,0,1,.5,763V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+              </g>
+            </g>
+            <g id="Group_7" data-name="Group 7" transform="translate(216 27)">
+              <g id="bar-chart-2" transform="translate(0 14) rotate(-90)" clip-path="url(#clip-path-3)">
+                <line id="Line_1" data-name="Line 1" y1="10" transform="translate(13 7)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_2" data-name="Line 2" y1="16" transform="translate(7 1)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_3" data-name="Line 3" y1="6" transform="translate(1 11)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_5" data-name="Group 5" transform="translate(10 83)">
+              <rect id="Rectangle_1491" data-name="Rectangle 1491" width="225" height="55" rx="5" fill="#f2f2f2"/>
+              <text id="Home-3" data-name="Home" transform="translate(50 33)" fill="#ef7111" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Home</tspan></text>
+              <g id="home-4" data-name="home" transform="translate(21 18)">
+                <path id="Path_435-2" data-name="Path 435" d="M3,9l9-7,9,7V20a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2Z" transform="translate(-3 -2)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_436-2" data-name="Path 436" d="M9,22V12h6V22" transform="translate(-3 -2)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_6" data-name="Group 6" transform="translate(10 143.905)">
+              <rect id="Rectangle_1492" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(0 0.095)" fill="#fff"/>
+              <text id="Tasks" transform="translate(50 33.095)" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Tasks</tspan></text>
+              <path id="Icon_awesome-calendar-check" data-name="Icon awesome-calendar-check" d="M19.464,6.812H.536A.524.524,0,0,1,0,6.3V4.769A2.1,2.1,0,0,1,2.143,2.725H4.286V.511A.524.524,0,0,1,4.821,0H6.607a.524.524,0,0,1,.536.511V2.725h5.714V.511A.524.524,0,0,1,13.393,0h1.786a.524.524,0,0,1,.536.511V2.725h2.143A2.1,2.1,0,0,1,20,4.769V6.3A.524.524,0,0,1,19.464,6.812ZM.536,8.175H19.464A.524.524,0,0,1,20,8.686v11.07A2.1,2.1,0,0,1,17.857,21.8H2.143A2.1,2.1,0,0,1,0,19.756V8.686A.524.524,0,0,1,.536,8.175ZM15.415,12.26l-1.258-1.209a.554.554,0,0,0-.758,0L8.666,15.527,6.613,13.553a.554.554,0,0,0-.758,0l-1.268,1.2a.494.494,0,0,0,0,.723l3.688,3.545a.554.554,0,0,0,.758,0l6.382-6.038a.494.494,0,0,0,0-.723Z" transform="translate(23.2 15.2)" fill="none" stroke="#ef7111" stroke-width="1"/>
+            </g>
+            <g id="Group_8" data-name="Group 8" transform="translate(10 204.865)">
+              <rect id="Rectangle_1492-2" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(0 0.135)" fill="#fff"/>
+              <text id="Products" transform="translate(50 33.135)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Products</tspan></text>
+              <g id="package" transform="translate(21 17.032)" opacity="0.8">
+                <line id="Line_4" data-name="Line 4" x1="9" y1="5.19" transform="translate(4.5 2.208)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_439" data-name="Path 439" d="M21,16V8a2,2,0,0,0-1-1.73l-7-4a2,2,0,0,0-2,0l-7,4A2,2,0,0,0,3,8v8a2,2,0,0,0,1,1.73l7,4a2,2,0,0,0,2,0l7-4A2,2,0,0,0,21,16Z" transform="translate(-3 -2.002)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_440" data-name="Path 440" d="M3.27,6.96,12,12.01l8.73-5.05" transform="translate(-3 -2.002)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_5" data-name="Line 5" y1="10.08" transform="translate(9 9.998)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_12" data-name="Group 12" transform="translate(10 264.825)">
+              <rect id="Rectangle_1492-3" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(0 0.174)" fill="#fff"/>
+              <text id="Customers" transform="translate(50 33.175)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Customers</tspan></text>
+              <g id="user" transform="translate(22 19.174)" opacity="0.8">
+                <path id="Path_444" data-name="Path 444" d="M20,21V19a4,4,0,0,0-4-4H8a4,4,0,0,0-4,4v2" transform="translate(-4 -3)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <circle id="Ellipse_340" data-name="Ellipse 340" cx="4" cy="4" r="4" transform="translate(4)" stroke-width="2" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+              </g>
+            </g>
+            <g id="Group_13" data-name="Group 13" transform="translate(10 325.785)">
+              <rect id="Rectangle_1492-4" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(0 0.215)" fill="#fff"/>
+              <text id="Settings" transform="translate(50 33.215)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Settings</tspan></text>
+              <g id="settings-2" data-name="settings" transform="translate(19 17.215)" opacity="0.8">
+                <circle id="Ellipse_341" data-name="Ellipse 341" cx="3" cy="3" r="3" transform="translate(8 8)" stroke-width="2" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                <path id="Path_445" data-name="Path 445" d="M19.4,15a1.65,1.65,0,0,0,.33,1.82l.06.06a2,2,0,1,1-2.83,2.83l-.06-.06a1.663,1.663,0,0,0-2.82,1.18V21a2,2,0,0,1-4,0v-.09A1.65,1.65,0,0,0,9,19.4a1.65,1.65,0,0,0-1.82.33l-.06.06a2,2,0,1,1-2.83-2.83l.06-.06a1.663,1.663,0,0,0-1.18-2.82H3a2,2,0,1,1,0-4h.09A1.65,1.65,0,0,0,4.6,9a1.65,1.65,0,0,0-.33-1.82l-.06-.06A2,2,0,1,1,7.04,4.29l.06.06a1.65,1.65,0,0,0,1.82.33H9a1.65,1.65,0,0,0,1-1.51V3a2,2,0,0,1,4,0v.09a1.663,1.663,0,0,0,2.82,1.18l.06-.06a2,2,0,1,1,2.83,2.83l-.06.06a1.65,1.65,0,0,0-.33,1.82V9a1.65,1.65,0,0,0,1.51,1H21a2,2,0,0,1,0,4h-.09A1.65,1.65,0,0,0,19.4,15Z" transform="translate(-1 -1)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <rect id="_1041px-YuppTV_logo.svg" data-name="1041px-YuppTV_logo.svg" width="98" height="21" transform="translate(11 26)" fill="url(#pattern-2)"/>
+          <g transform="matrix(1, 0, 0, 1, -114, -266)" filter="url(#Rectangle_1513)">
+            <rect id="Rectangle_1513-2" data-name="Rectangle 1513" width="1100" height="593" rx="10" transform="translate(364 405)" fill="#fff"/>
+          </g>
+          <text id="List_of_Banners" data-name="List of Banners" transform="translate(292 186)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">List of Banners</tspan></text>
+          <rect id="Rectangle_1514" data-name="Rectangle 1514" width="1090" height="40" transform="translate(252 219)" fill="#f8f8f8"/>
+          <text id="COUNTRY_" data-name="COUNTRY  " transform="translate(625 243)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">COUNTRY  </tspan></text>
+          <g id="Group_321" data-name="Group 321" transform="translate(198 36)">
+            <text id="BANNER_TITLE_" data-name="BANNER TITLE " transform="translate(197 207)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">BANNER TITLE </tspan></text>
+            <g id="Group_129" data-name="Group 129" transform="translate(14)">
+              <g id="chevron-down" transform="translate(261 206)" clip-path="url(#clip-path-4)">
+                <path id="chevron-down-2" data-name="chevron-down" d="M6,9l3.5,3L13,9" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="chevron-up" transform="translate(261 196)" clip-path="url(#clip-path-4)">
+                <path id="chevron-up-2" data-name="chevron-up" d="M13,12,9.5,9,6,12" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_322" data-name="Group 322" transform="translate(164 36)">
+            <text id="LANGUAGE" transform="translate(606 207)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LANGUAGE</tspan></text>
+            <g id="Group_130" data-name="Group 130" transform="translate(410)">
+              <g id="chevron-down-3" data-name="chevron-down" transform="translate(261 206)" clip-path="url(#clip-path-4)">
+                <path id="chevron-down-4" data-name="chevron-down" d="M6,9l3.5,3L13,9" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="chevron-up-3" data-name="chevron-up" transform="translate(261 196)" clip-path="url(#clip-path-4)">
+                <path id="chevron-up-4" data-name="chevron-up" d="M13,12,9.5,9,6,12" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_323" data-name="Group 323" transform="translate(-51 36)">
+            <text id="PLATFORM" transform="translate(980 207)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PLATFORM</tspan></text>
+            <g id="Group_132" data-name="Group 132" transform="translate(787)">
+              <g id="chevron-down-5" data-name="chevron-down" transform="translate(261 206)" clip-path="url(#clip-path-4)">
+                <path id="chevron-down-6" data-name="chevron-down" d="M6,9l3.5,3L13,9" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="chevron-up-5" data-name="chevron-up" transform="translate(261 196)" clip-path="url(#clip-path-4)">
+                <path id="chevron-up-6" data-name="chevron-up" d="M13,12,9.5,9,6,12" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_324" data-name="Group 324" transform="translate(345 -2480)">
+            <g transform="matrix(1, 0, 0, 1, -459, 2214)" filter="url(#Rectangle_1498)">
+              <g id="Rectangle_1498-2" data-name="Rectangle 1498" transform="translate(1277 425)" fill="#fff" stroke="#ef7111" stroke-width="1">
+                <rect width="152" height="40" rx="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="151" height="39" rx="4.5" fill="none"/>
+              </g>
+            </g>
+            <text id="Upload_new_banner" data-name="Upload new banner" transform="translate(839 2664)" fill="#ef7111" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Upload new banner</tspan></text>
+          </g>
+          <g id="Group_325" data-name="Group 325" transform="translate(422 36)">
+            <g id="chevron-down-7" data-name="chevron-down" transform="translate(261 206)" clip-path="url(#clip-path-4)">
+              <path id="chevron-down-8" data-name="chevron-down" d="M6,9l3.5,3L13,9" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="chevron-up-7" data-name="chevron-up" transform="translate(261 196)" clip-path="url(#clip-path-4)">
+              <path id="chevron-up-8" data-name="chevron-up" d="M13,12,9.5,9,6,12" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Group_326" data-name="Group 326" transform="translate(84 36)">
+            <text id="STATUS" transform="translate(980 207)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">STATUS</tspan></text>
+            <g id="Group_132-2" data-name="Group 132" transform="translate(787)">
+              <g id="chevron-down-9" data-name="chevron-down" transform="translate(261 206)" clip-path="url(#clip-path-4)">
+                <path id="chevron-down-10" data-name="chevron-down" d="M6,9l3.5,3L13,9" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+              <g id="chevron-up-9" data-name="chevron-up" transform="translate(261 196)" clip-path="url(#clip-path-4)">
+                <path id="chevron-up-10" data-name="chevron-up" d="M13,12,9.5,9,6,12" transform="translate(-5 -8)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+          <g id="Repeat_Grid_6" data-name="Repeat Grid 6" transform="translate(251 259)" clip-path="url(#clip-path-14)">
+            <g transform="translate(-252 -259)">
+              <rect id="Rectangle_1511" data-name="Rectangle 1511" width="1100" height="75" transform="translate(252 259)" fill="#fff"/>
+              <text id="Labour_Day_Sale" data-name="Labour Day Sale" transform="translate(397 302)" fill="#172b4d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Labour Day Sale</tspan></text>
+              <text id="UK_USA" data-name="UK, USA" transform="translate(630 301)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">UK, USA</tspan></text>
+              <g id="Group_33" data-name="Group 33" transform="translate(614 113)">
+                <text id="Telugu_Hindi" data-name="Telugu, Hindi" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Telugu, Hindi</tspan></text>
+              </g>
+              <text id="TV_Mobile" data-name="TV, Mobile" transform="translate(927 301)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TV, Mobile</tspan></text>
+              <g id="Group_134" data-name="Group 134" transform="translate(107 36)">
+                <g transform="matrix(1, 0, 0, 1, -220, -302)" filter="url(#Ellipse_369)">
+                  <circle id="Ellipse_369-8" data-name="Ellipse 369" cx="15" cy="15" r="15" transform="translate(1395 549)" fill="#f7fafc"/>
+                </g>
+                <g id="more-vertical" transform="translate(1188 253)" clip-path="url(#clip-path-15)">
+                  <circle id="Ellipse_348" data-name="Ellipse 348" cx="1" cy="1" r="1" transform="translate(1 8)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_349" data-name="Ellipse 349" cx="1" cy="1" r="1" transform="translate(1 1)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_350" data-name="Ellipse 350" cx="1" cy="1" r="1" transform="translate(1 15)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_73" data-name="Group 73" transform="translate(190 -44)">
+                <g id="Rectangle_1502" data-name="Rectangle 1502" transform="translate(983 331)" fill="#fff" stroke="#f37426" stroke-width="1">
+                  <rect width="36" height="19" rx="9.5" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="35" height="18" rx="9" fill="none"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -303, -222)" filter="url(#Ellipse_356)">
+                  <circle id="Ellipse_356-4" data-name="Ellipse 356" cx="6.5" cy="6.5" r="6.5" transform="translate(1306 556)" fill="#f37426"/>
+                </g>
+              </g>
+              <rect id="Rectangle_1511-2" data-name="Rectangle 1511" width="1100" height="75" transform="translate(252 334)" fill="#f9f9f9"/>
+              <text id="Independence_Day_Sale" data-name="Independence Day Sale" transform="translate(397 377)" fill="#172b4d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Independence Day Sale</tspan></text>
+              <text id="AUS_USA" data-name="AUS, USA" transform="translate(625 377)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">AUS, USA</tspan></text>
+              <g id="Group_134-2" data-name="Group 134" transform="translate(107 111)">
+                <g transform="matrix(1, 0, 0, 1, -220, -377)" filter="url(#Ellipse_369-2)">
+                  <circle id="Ellipse_369-9" data-name="Ellipse 369" cx="15" cy="15" r="15" transform="translate(1395 624)" fill="#fff"/>
+                </g>
+                <g id="more-vertical-2" data-name="more-vertical" transform="translate(1188 253)" clip-path="url(#clip-path-15)">
+                  <circle id="Ellipse_348-2" data-name="Ellipse 348" cx="1" cy="1" r="1" transform="translate(1 8)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_349-2" data-name="Ellipse 349" cx="1" cy="1" r="1" transform="translate(1 1)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_350-2" data-name="Ellipse 350" cx="1" cy="1" r="1" transform="translate(1 15)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_166" data-name="Group 166" transform="translate(190 31.439)">
+                <g id="Rectangle_1502-2" data-name="Rectangle 1502" transform="translate(983 330.561)" fill="#f6f9fc" stroke="#172b4d" stroke-width="1">
+                  <rect width="36" height="19" rx="9.5" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="35" height="18" rx="9" fill="none"/>
+                </g>
+                <circle id="Ellipse_356-5" data-name="Ellipse 356" cx="6.5" cy="6.5" r="6.5" transform="translate(987 333.561)" fill="#8898aa"/>
+              </g>
+              <g id="Group_314" data-name="Group 314" transform="translate(922 113)">
+                <text id="Pending" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Pending</tspan></text>
+                <circle id="Ellipse_355" data-name="Ellipse 355" cx="5" cy="5" r="5" transform="translate(140 178)" fill="#f53c56"/>
+              </g>
+              <g id="Group_315" data-name="Group 315" transform="translate(922 188)">
+                <text id="Completed" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Completed</tspan></text>
+                <circle id="Ellipse_355-2" data-name="Ellipse 355" cx="5" cy="5" r="5" transform="translate(140 178)" fill="#2dce98"/>
+              </g>
+              <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(273 287)" clip-path="url(#clip-path-17)">
+                <g transform="translate(-273 -287)">
+                  <g id="Icon_feather-menu" data-name="Icon feather-menu" transform="translate(265.5 310.167) rotate(-90)" opacity="0.63">
+                    <path id="Path_498" data-name="Path 498" d="M4.5,18H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_499" data-name="Path 499" d="M4.5,9H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_500" data-name="Path 500" d="M4.5,27H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+                <g transform="translate(-273 -214)">
+                  <g id="Icon_feather-menu-2" data-name="Icon feather-menu" transform="translate(265.5 310.167) rotate(-90)" opacity="0.63">
+                    <path id="Path_498-2" data-name="Path 498" d="M4.5,18H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_499-2" data-name="Path 499" d="M4.5,9H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_500-2" data-name="Path 500" d="M4.5,27H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_317" data-name="Group 317" transform="translate(614 188)">
+                <text id="Telugu_Hindi-2" data-name="Telugu, Hindi" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Telugu, Hindi</tspan></text>
+              </g>
+              <text id="Web_TV" data-name="Web,TV" transform="translate(927 376)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Web,TV</tspan></text>
+            </g>
+            <g transform="translate(-252 -89)">
+              <rect id="Rectangle_1511-3" data-name="Rectangle 1511" width="1100" height="75" transform="translate(252 259)" fill="#fff"/>
+              <text id="Labour_Day_Sale-2" data-name="Labour Day Sale" transform="translate(397 302)" fill="#172b4d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Labour Day Sale</tspan></text>
+              <text id="UK_USA-2" data-name="UK, USA" transform="translate(630 301)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">UK, USA</tspan></text>
+              <g id="Group_33-2" data-name="Group 33" transform="translate(614 113)">
+                <text id="Telugu_Hindi-3" data-name="Telugu, Hindi" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Telugu, Hindi</tspan></text>
+              </g>
+              <text id="TV_Mobile-2" data-name="TV, Mobile" transform="translate(927 301)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TV, Mobile</tspan></text>
+              <g id="Group_134-3" data-name="Group 134" transform="translate(107 36)">
+                <g transform="matrix(1, 0, 0, 1, -220, -472)" filter="url(#Ellipse_369-3)">
+                  <circle id="Ellipse_369-10" data-name="Ellipse 369" cx="15" cy="15" r="15" transform="translate(1395 719)" fill="#f7fafc"/>
+                </g>
+                <g id="more-vertical-3" data-name="more-vertical" transform="translate(1188 253)" clip-path="url(#clip-path-15)">
+                  <circle id="Ellipse_348-3" data-name="Ellipse 348" cx="1" cy="1" r="1" transform="translate(1 8)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_349-3" data-name="Ellipse 349" cx="1" cy="1" r="1" transform="translate(1 1)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_350-3" data-name="Ellipse 350" cx="1" cy="1" r="1" transform="translate(1 15)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_73-2" data-name="Group 73" transform="translate(190 -44)">
+                <g id="Rectangle_1502-3" data-name="Rectangle 1502" transform="translate(983 331)" fill="#fff" stroke="#f37426" stroke-width="1">
+                  <rect width="36" height="19" rx="9.5" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="35" height="18" rx="9" fill="none"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -303, -392)" filter="url(#Ellipse_356-2)">
+                  <circle id="Ellipse_356-6" data-name="Ellipse 356" cx="6.5" cy="6.5" r="6.5" transform="translate(1306 726)" fill="#f37426"/>
+                </g>
+              </g>
+              <rect id="Rectangle_1511-4" data-name="Rectangle 1511" width="1100" height="75" transform="translate(252 334)" fill="#f9f9f9"/>
+              <text id="Independence_Day_Sale-2" data-name="Independence Day Sale" transform="translate(397 377)" fill="#172b4d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Independence Day Sale</tspan></text>
+              <text id="AUS_USA-2" data-name="AUS, USA" transform="translate(625 377)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">AUS, USA</tspan></text>
+              <g id="Group_134-4" data-name="Group 134" transform="translate(107 111)">
+                <g transform="matrix(1, 0, 0, 1, -220, -547)" filter="url(#Ellipse_369-4)">
+                  <circle id="Ellipse_369-11" data-name="Ellipse 369" cx="15" cy="15" r="15" transform="translate(1395 794)" fill="#fff"/>
+                </g>
+                <g id="more-vertical-4" data-name="more-vertical" transform="translate(1188 253)" clip-path="url(#clip-path-15)">
+                  <circle id="Ellipse_348-4" data-name="Ellipse 348" cx="1" cy="1" r="1" transform="translate(1 8)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_349-4" data-name="Ellipse 349" cx="1" cy="1" r="1" transform="translate(1 1)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_350-4" data-name="Ellipse 350" cx="1" cy="1" r="1" transform="translate(1 15)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_166-2" data-name="Group 166" transform="translate(190 31.439)">
+                <g id="Rectangle_1502-4" data-name="Rectangle 1502" transform="translate(983 330.561)" fill="#f6f9fc" stroke="#172b4d" stroke-width="1">
+                  <rect width="36" height="19" rx="9.5" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="35" height="18" rx="9" fill="none"/>
+                </g>
+                <circle id="Ellipse_356-7" data-name="Ellipse 356" cx="6.5" cy="6.5" r="6.5" transform="translate(987 333.561)" fill="#8898aa"/>
+              </g>
+              <g id="Group_314-2" data-name="Group 314" transform="translate(922 113)">
+                <text id="Pending-2" data-name="Pending" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Pending</tspan></text>
+                <circle id="Ellipse_355-3" data-name="Ellipse 355" cx="5" cy="5" r="5" transform="translate(140 178)" fill="#f53c56"/>
+              </g>
+              <g id="Group_315-2" data-name="Group 315" transform="translate(922 188)">
+                <text id="Completed-2" data-name="Completed" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Completed</tspan></text>
+                <circle id="Ellipse_355-4" data-name="Ellipse 355" cx="5" cy="5" r="5" transform="translate(140 178)" fill="#2dce98"/>
+              </g>
+              <g id="Repeat_Grid_4-2" data-name="Repeat Grid 4" transform="translate(273 287)" clip-path="url(#clip-path-17)">
+                <g transform="translate(-273 -287)">
+                  <g id="Icon_feather-menu-3" data-name="Icon feather-menu" transform="translate(265.5 310.167) rotate(-90)" opacity="0.63">
+                    <path id="Path_498-3" data-name="Path 498" d="M4.5,18H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_499-3" data-name="Path 499" d="M4.5,9H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_500-3" data-name="Path 500" d="M4.5,27H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+                <g transform="translate(-273 -214)">
+                  <g id="Icon_feather-menu-4" data-name="Icon feather-menu" transform="translate(265.5 310.167) rotate(-90)" opacity="0.63">
+                    <path id="Path_498-4" data-name="Path 498" d="M4.5,18H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_499-4" data-name="Path 499" d="M4.5,9H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_500-4" data-name="Path 500" d="M4.5,27H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_317-2" data-name="Group 317" transform="translate(614 188)">
+                <text id="Telugu_Hindi-4" data-name="Telugu, Hindi" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Telugu, Hindi</tspan></text>
+              </g>
+              <text id="Web_TV-2" data-name="Web,TV" transform="translate(927 376)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Web,TV</tspan></text>
+            </g>
+            <g transform="translate(-252 81)">
+              <rect id="Rectangle_1511-5" data-name="Rectangle 1511" width="1100" height="75" transform="translate(252 259)" fill="#fff"/>
+              <text id="Labour_Day_Sale-3" data-name="Labour Day Sale" transform="translate(397 302)" fill="#172b4d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Labour Day Sale</tspan></text>
+              <text id="UK_USA-3" data-name="UK, USA" transform="translate(630 301)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">UK, USA</tspan></text>
+              <g id="Group_33-3" data-name="Group 33" transform="translate(614 113)">
+                <text id="Telugu_Hindi-5" data-name="Telugu, Hindi" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Telugu, Hindi</tspan></text>
+              </g>
+              <text id="TV_Mobile-3" data-name="TV, Mobile" transform="translate(927 301)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TV, Mobile</tspan></text>
+              <g id="Group_134-5" data-name="Group 134" transform="translate(107 36)">
+                <g transform="matrix(1, 0, 0, 1, -220, -642)" filter="url(#Ellipse_369-5)">
+                  <circle id="Ellipse_369-12" data-name="Ellipse 369" cx="15" cy="15" r="15" transform="translate(1395 889)" fill="#f7fafc"/>
+                </g>
+                <g id="more-vertical-5" data-name="more-vertical" transform="translate(1188 253)" clip-path="url(#clip-path-15)">
+                  <circle id="Ellipse_348-5" data-name="Ellipse 348" cx="1" cy="1" r="1" transform="translate(1 8)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_349-5" data-name="Ellipse 349" cx="1" cy="1" r="1" transform="translate(1 1)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_350-5" data-name="Ellipse 350" cx="1" cy="1" r="1" transform="translate(1 15)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_73-3" data-name="Group 73" transform="translate(190 -44)">
+                <g id="Rectangle_1502-5" data-name="Rectangle 1502" transform="translate(983 331)" fill="#fff" stroke="#f37426" stroke-width="1">
+                  <rect width="36" height="19" rx="9.5" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="35" height="18" rx="9" fill="none"/>
+                </g>
+                <g transform="matrix(1, 0, 0, 1, -303, -562)" filter="url(#Ellipse_356-3)">
+                  <circle id="Ellipse_356-8" data-name="Ellipse 356" cx="6.5" cy="6.5" r="6.5" transform="translate(1306 896)" fill="#f37426"/>
+                </g>
+              </g>
+              <rect id="Rectangle_1511-6" data-name="Rectangle 1511" width="1100" height="75" transform="translate(252 334)" fill="#f9f9f9"/>
+              <text id="Independence_Day_Sale-3" data-name="Independence Day Sale" transform="translate(397 377)" fill="#172b4d" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Independence Day Sale</tspan></text>
+              <text id="AUS_USA-3" data-name="AUS, USA" transform="translate(625 377)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">AUS, USA</tspan></text>
+              <g id="Group_134-6" data-name="Group 134" transform="translate(107 111)">
+                <g transform="matrix(1, 0, 0, 1, -220, -717)" filter="url(#Ellipse_369-6)">
+                  <circle id="Ellipse_369-13" data-name="Ellipse 369" cx="15" cy="15" r="15" transform="translate(1395 964)" fill="#fff"/>
+                </g>
+                <g id="more-vertical-6" data-name="more-vertical" transform="translate(1188 253)" clip-path="url(#clip-path-15)">
+                  <circle id="Ellipse_348-6" data-name="Ellipse 348" cx="1" cy="1" r="1" transform="translate(1 8)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_349-6" data-name="Ellipse 349" cx="1" cy="1" r="1" transform="translate(1 1)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                  <circle id="Ellipse_350-6" data-name="Ellipse 350" cx="1" cy="1" r="1" transform="translate(1 15)" stroke-width="2" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_166-3" data-name="Group 166" transform="translate(190 31.439)">
+                <g id="Rectangle_1502-6" data-name="Rectangle 1502" transform="translate(983 330.561)" fill="#f6f9fc" stroke="#172b4d" stroke-width="1">
+                  <rect width="36" height="19" rx="9.5" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="35" height="18" rx="9" fill="none"/>
+                </g>
+                <circle id="Ellipse_356-9" data-name="Ellipse 356" cx="6.5" cy="6.5" r="6.5" transform="translate(987 333.561)" fill="#8898aa"/>
+              </g>
+              <g id="Group_314-3" data-name="Group 314" transform="translate(922 113)">
+                <text id="Pending-3" data-name="Pending" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Pending</tspan></text>
+                <circle id="Ellipse_355-5" data-name="Ellipse 355" cx="5" cy="5" r="5" transform="translate(140 178)" fill="#f53c56"/>
+              </g>
+              <g id="Group_315-3" data-name="Group 315" transform="translate(922 188)">
+                <text id="Completed-3" data-name="Completed" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Completed</tspan></text>
+                <circle id="Ellipse_355-6" data-name="Ellipse 355" cx="5" cy="5" r="5" transform="translate(140 178)" fill="#2dce98"/>
+              </g>
+              <g id="Repeat_Grid_4-3" data-name="Repeat Grid 4" transform="translate(273 287)" clip-path="url(#clip-path-17)">
+                <g transform="translate(-273 -287)">
+                  <g id="Icon_feather-menu-5" data-name="Icon feather-menu" transform="translate(265.5 310.167) rotate(-90)" opacity="0.63">
+                    <path id="Path_498-5" data-name="Path 498" d="M4.5,18H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_499-5" data-name="Path 499" d="M4.5,9H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_500-5" data-name="Path 500" d="M4.5,27H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+                <g transform="translate(-273 -214)">
+                  <g id="Icon_feather-menu-6" data-name="Icon feather-menu" transform="translate(265.5 310.167) rotate(-90)" opacity="0.63">
+                    <path id="Path_498-6" data-name="Path 498" d="M4.5,18H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_499-6" data-name="Path 499" d="M4.5,9H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_500-6" data-name="Path 500" d="M4.5,27H21.667" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_317-3" data-name="Group 317" transform="translate(614 188)">
+                <text id="Telugu_Hindi-6" data-name="Telugu, Hindi" transform="translate(158 188)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Telugu, Hindi</tspan></text>
+              </g>
+              <text id="Web_TV-3" data-name="Web,TV" transform="translate(927 376)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Web,TV</tspan></text>
+            </g>
+          </g>
+          <g id="Group_327" data-name="Group 327" transform="translate(136 122)">
+            <g id="Group_149" data-name="Group 149">
+              <g id="Group_139" data-name="Group 139" transform="translate(-254 312)">
+                <g id="Ellipse_369-14" data-name="Ellipse 369" transform="translate(1175 247)" fill="#fff" stroke="rgba(136,152,170,0.5)" stroke-width="1">
+                  <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                  <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+                </g>
+              </g>
+              <g id="chevron-left" transform="translate(935 570)" clip-path="url(#clip-path-24)">
+                <path id="chevron-left-2" data-name="chevron-left" d="M15,18,9,12l6-6" transform="translate(-8 -5)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_148" data-name="Group 148">
+              <g id="Group_140" data-name="Group 140" transform="translate(-29 312)">
+                <g id="Ellipse_369-15" data-name="Ellipse 369" transform="translate(1175 247)" fill="#fff" stroke="rgba(136,152,170,0.5)" stroke-width="1">
+                  <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                  <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+                </g>
+              </g>
+              <g id="chevron-right" transform="translate(1160 570)" clip-path="url(#clip-path-24)">
+                <path id="chevron-right-2" data-name="chevron-right" d="M9,18l6-6L9,6" transform="translate(-8 -5)" fill="none" stroke="#8898aa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_143" data-name="Group 143">
+              <g id="Group_141" data-name="Group 141" transform="translate(-209 312)">
+                <g transform="matrix(1, 0, 0, 1, -41, -700)" filter="url(#Ellipse_369-7)">
+                  <circle id="Ellipse_369-16" data-name="Ellipse 369" cx="17.5" cy="17.5" r="17.5" transform="translate(1216 947)" fill="#ef7111"/>
+                </g>
+              </g>
+              <text id="_1" data-name="1" transform="translate(981 582)" fill="#fff" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+            </g>
+            <g id="Group_146" data-name="Group 146">
+              <g id="Group_142" data-name="Group 142" transform="translate(-164 312)">
+                <g id="Ellipse_369-17" data-name="Ellipse 369" transform="translate(1175 247)" fill="#fff" stroke="rgba(136,152,170,0.5)" stroke-width="1">
+                  <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                  <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+                </g>
+              </g>
+              <text id="_2" data-name="2" transform="translate(1025 582)" fill="#ef7111" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+            </g>
+            <g id="Group_145" data-name="Group 145">
+              <g id="Group_144" data-name="Group 144" transform="translate(-119 312)">
+                <g id="Ellipse_369-18" data-name="Ellipse 369" transform="translate(1175 247)" fill="#fff" stroke="rgba(136,152,170,0.5)" stroke-width="1">
+                  <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                  <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+                </g>
+              </g>
+              <text id="_3" data-name="3" transform="translate(1070 582)" fill="#ef7111" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+            </g>
+            <g id="Group_147" data-name="Group 147" transform="translate(45)">
+              <g id="Group_144-2" data-name="Group 144" transform="translate(-119 312)">
+                <g id="Ellipse_369-19" data-name="Ellipse 369" transform="translate(1175 247)" fill="#fff" stroke="rgba(136,152,170,0.5)" stroke-width="1">
+                  <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+                  <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+                </g>
+              </g>
+              <text id="_4" data-name="4" transform="translate(1069 582)" fill="#ef7111" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+            </g>
+          </g>
+        </g>
+        <text id="Yupptv__admin.com" data-name="Yupptv_ admin.com" transform="translate(1042 204)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Yupptv_ admin.com</tspan></text>
+      </g>
+      <g id="Group_358" data-name="Group 358" transform="translate(101 412)">
+        <g id="Browser">
+          <g transform="matrix(1, 0, 0, 1, -101, -412)" filter="url(#Window_shadow-2)">
+            <rect id="Window_shadow-4" data-name="Window shadow" width="1366" height="778" rx="8" transform="translate(421 624)" fill="#fff"/>
+          </g>
+          <rect id="Window-2" data-name="Window" width="1366" height="810" rx="6" transform="translate(320 180)" fill="#2c2d30"/>
+          <path id="Mockup-2" data-name="Mockup" d="M0,0H1366a0,0,0,0,1,0,0V760a6,6,0,0,1-6,6H6a6,6,0,0,1-6-6V0A0,0,0,0,1,0,0Z" transform="translate(320 218)" fill="#2c2d30"/>
+          <g id="Toolbar-2" data-name="Toolbar" transform="translate(320 180)">
+            <path id="Toolbar_background-2" data-name="Toolbar background" d="M6,0H1360a6,6,0,0,1,6,6V38a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" fill="url(#linear-gradient)"/>
+            <rect id="Line-2" data-name="Line" width="1366" height="1" transform="translate(0 37)"/>
+            <g id="Button_new_tab-2" data-name="Button new tab" transform="translate(1341 12)">
+              <rect id="Background-17" data-name="Background" width="24" height="24" transform="translate(1 1)" fill="#232326"/>
+              <path id="Icon_new_tab-2" data-name="Icon new tab" d="M5,11V6H0V5H5V0H6V5h5V6H6v5Z" transform="translate(7 8)" fill="#9a9a9b"/>
+              <path id="Border-2" data-name="Border" d="M0,25V0H25V1H1V25Z" fill="#58585a"/>
+            </g>
+            <g id="Button_tabs_preview-2" data-name="Button tabs preview" transform="translate(1296 8)">
+              <g transform="matrix(1, 0, 0, 1, -1717, -600)" filter="url(#Background-6)">
+                <rect id="Background-18" data-name="Background" width="37" height="22" rx="4" transform="translate(1717 600)" fill="#626263"/>
+              </g>
+              <g id="Icon_tabs_preview-2" data-name="Icon tabs preview" transform="translate(13 5)">
+                <g id="Rectangle_12-2" data-name="Rectangle 12" transform="translate(0 3)" fill="none" stroke="#e8e8ea" stroke-width="1">
+                  <rect width="9" height="9" rx="1" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="8" height="8" rx="0.5" fill="none"/>
+                </g>
+                <path id="Subtraction_2-2" data-name="Subtraction 2" d="M8,9H7V8H8V1H1V2H0V1A1,1,0,0,1,1,0H8A1,1,0,0,1,9,1V8A1,1,0,0,1,8,9Z" transform="translate(3)" fill="#e8e8ea"/>
+              </g>
+            </g>
+            <g id="Button_share-2" data-name="Button share" transform="translate(1251 8)">
+              <g transform="matrix(1, 0, 0, 1, -1672, -600)" filter="url(#Background-7)">
+                <rect id="Background-19" data-name="Background" width="37" height="22" rx="4" transform="translate(1672 600)" fill="#626263"/>
+              </g>
+              <g id="Icon_share-2" data-name="Icon share" transform="translate(13 4.003)">
+                <path id="Subtraction_4-2" data-name="Subtraction 4" d="M10,10H1A1,1,0,0,1,0,9V1A1,1,0,0,1,1,0H4V1H1V9h9V1H7V0h3a1,1,0,0,1,1,1V9A1,1,0,0,1,10,10Z" transform="translate(0 4.997)" fill="#848485"/>
+                <path id="Union_3-2" data-name="Union 3" d="M2.5,10V1.937L.888,3.923a.5.5,0,1,1-.777-.629L2.549.284a.511.511,0,0,1,.919,0L5.906,3.294a.5.5,0,0,1-.778.629L3.5,1.908V10Z" transform="translate(2.503)" fill="#848485"/>
+              </g>
+            </g>
+            <g id="Url-2" data-name="Url" transform="translate(431 8)">
+              <g transform="matrix(1, 0, 0, 1, -852, -600)" filter="url(#Url_background-2)">
+                <rect id="Url_background-4" data-name="Url background" width="504" height="22" rx="4" transform="translate(852 600)" fill="#626263"/>
+              </g>
+              <path id="Icon_lock-2" data-name="Icon lock" d="M0,10V4H1V3A3,3,0,0,1,7,3V4H8v6ZM6,4V3A2,2,0,0,0,2,3V4Z" transform="translate(218 6)" fill="#e9e9e9"/>
+            </g>
+            <g id="Button_side_menu-2" data-name="Button side menu" transform="translate(139 8)">
+              <g transform="matrix(1, 0, 0, 1, -560, -600)" filter="url(#Background-8)">
+                <rect id="Background-20" data-name="Background" width="37" height="22" rx="4" transform="translate(560 600)" fill="#626263"/>
+              </g>
+              <g id="Icon_side_menu-2" data-name="Icon side menu" transform="translate(11 5)">
+                <path id="Subtraction_6-2" data-name="Subtraction 6" d="M14,12H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H14a1,1,0,0,1,1,1V11A1,1,0,0,1,14,12ZM6,1V11h8V1ZM1,1V11H5V1Z" fill="#e9e9eb"/>
+                <rect id="Rectangle_29-2" data-name="Rectangle 29" width="2" height="1" transform="translate(2 2)" fill="#b5b5b6"/>
+                <rect id="Rectangle_30-2" data-name="Rectangle 30" width="2" height="1" transform="translate(2 4)" fill="#b5b5b6"/>
+                <rect id="Rectangle_31-2" data-name="Rectangle 31" width="2" height="1" transform="translate(2 6)" fill="#b5b5b6"/>
+              </g>
+            </g>
+            <g id="Button_forward-2" data-name="Button forward" transform="translate(104 8)">
+              <g transform="matrix(1, 0, 0, 1, -525, -600)" filter="url(#Background-9)">
+                <rect id="Background-21" data-name="Background" width="25" height="22" rx="4" transform="translate(525 600)" fill="#626263"/>
+              </g>
+              <g id="Icon_forward-2" data-name="Icon forward" transform="translate(3.5 4.6)">
+                <path id="Union_6-3" data-name="Union 6" d="M.75,9A.75.75,0,0,1,0,8.25V.75a.75.75,0,0,1,1.5,0V7.5H8.25a.75.75,0,0,1,0,1.5Z" transform="translate(6.364 12.728) rotate(-135)" fill="#848486"/>
+              </g>
+            </g>
+            <g id="Button_back-2" data-name="Button back" transform="translate(78 8)">
+              <g transform="matrix(1, 0, 0, 1, -499, -600)" filter="url(#Background-10)">
+                <rect id="Background-22" data-name="Background" width="25" height="22" rx="4" transform="translate(499 600)" fill="#626263"/>
+              </g>
+              <g id="Icon_back-2" data-name="Icon back" transform="translate(8.8 4.6)">
+                <path id="Union_6-4" data-name="Union 6" d="M0,8.25V.75A.75.75,0,0,1,.75,0h7.5a.75.75,0,0,1,0,1.5H1.5V8.25a.75.75,0,0,1-1.5,0Z" transform="translate(0 6.364) rotate(-45)" fill="#848486"/>
+              </g>
+            </g>
+            <g id="Window_controls-2" data-name="Window controls" transform="translate(13 13)">
+              <circle id="Close-2" data-name="Close" cx="6" cy="6" r="6" fill="#ff5f57"/>
+              <circle id="Minimize-2" data-name="Minimize" cx="6" cy="6" r="6" transform="translate(20)" fill="#ffbd2e"/>
+              <circle id="Maximize-2" data-name="Maximize" cx="6" cy="6" r="6" transform="translate(40)" fill="#27c940"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_357" data-name="Group 357" transform="translate(320 218)">
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1520)">
+            <rect id="Rectangle_1520-2" data-name="Rectangle 1520" width="1121" height="248" transform="translate(666 630)" fill="#2d2d2d"/>
+          </g>
+          <g id="Group_339" data-name="Group 339">
+            <rect id="Rectangle_1490-3" data-name="Rectangle 1490" width="245" height="768" fill="#fff"/>
+            <g id="Group_7-2" data-name="Group 7">
+              <g id="bar-chart-2-2" data-name="bar-chart-2" transform="translate(216 41) rotate(-90)" clip-path="url(#clip-path-3)">
+                <line id="Line_1-2" data-name="Line 1" y1="10" transform="translate(13 7)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_2-2" data-name="Line 2" y1="16" transform="translate(7 1)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_3-2" data-name="Line 3" y1="6" transform="translate(1 11)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_5-2" data-name="Group 5">
+              <rect id="Rectangle_1491-2" data-name="Rectangle 1491" width="225" height="55" rx="5" transform="translate(10 83)" fill="#f2f2f2"/>
+              <text id="Home-5" data-name="Home" transform="translate(60 116)" fill="#ef7111" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Home</tspan></text>
+              <g id="home-6" data-name="home" transform="translate(31 101)">
+                <path id="Path_435-3" data-name="Path 435" d="M3,9l9-7,9,7V20a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2Z" transform="translate(-3 -2)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_436-3" data-name="Path 436" d="M9,22V12h6V22" transform="translate(-3 -2)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_6-2" data-name="Group 6" transform="translate(0 6)">
+              <rect id="Rectangle_1492-5" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(10 138)" fill="#fff"/>
+              <text id="Tasks-2" data-name="Tasks" transform="translate(60 171)" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Tasks</tspan></text>
+              <path id="Icon_awesome-calendar-check-2" data-name="Icon awesome-calendar-check" d="M19.464,6.812H.536A.524.524,0,0,1,0,6.3V4.769A2.1,2.1,0,0,1,2.143,2.725H4.286V.511A.524.524,0,0,1,4.821,0H6.607a.524.524,0,0,1,.536.511V2.725h5.714V.511A.524.524,0,0,1,13.393,0h1.786a.524.524,0,0,1,.536.511V2.725h2.143A2.1,2.1,0,0,1,20,4.769V6.3A.524.524,0,0,1,19.464,6.812ZM.536,8.175H19.464A.524.524,0,0,1,20,8.686v11.07A2.1,2.1,0,0,1,17.857,21.8H2.143A2.1,2.1,0,0,1,0,19.756V8.686A.524.524,0,0,1,.536,8.175ZM15.415,12.26l-1.258-1.209a.554.554,0,0,0-.758,0L8.666,15.527,6.613,13.553a.554.554,0,0,0-.758,0l-1.268,1.2a.494.494,0,0,0,0,.723l3.688,3.545a.554.554,0,0,0,.758,0l6.382-6.038a.494.494,0,0,0,0-.723Z" transform="translate(33.2 153.2)" fill="none" stroke="#ef7111" stroke-width="1"/>
+            </g>
+            <g id="Group_8-2" data-name="Group 8" transform="translate(0 67)">
+              <rect id="Rectangle_1492-6" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(10 138)" fill="#fff"/>
+              <text id="Products-2" data-name="Products" transform="translate(60 171)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Products</tspan></text>
+              <g id="package-2" data-name="package" transform="translate(31 155.032)" opacity="0.8">
+                <line id="Line_4-2" data-name="Line 4" x1="9" y1="5.19" transform="translate(4.5 2.208)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_439-2" data-name="Path 439" d="M21,16V8a2,2,0,0,0-1-1.73l-7-4a2,2,0,0,0-2,0l-7,4A2,2,0,0,0,3,8v8a2,2,0,0,0,1,1.73l7,4a2,2,0,0,0,2,0l7-4A2,2,0,0,0,21,16Z" transform="translate(-3 -2.002)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_440-2" data-name="Path 440" d="M3.27,6.96,12,12.01l8.73-5.05" transform="translate(-3 -2.002)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_5-2" data-name="Line 5" y1="10.08" transform="translate(9 9.998)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_12-2" data-name="Group 12" transform="translate(0 127)">
+              <rect id="Rectangle_1492-7" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(10 138)" fill="#fff"/>
+              <text id="Customers-2" data-name="Customers" transform="translate(60 171)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Customers</tspan></text>
+              <g id="user-2" data-name="user" transform="translate(32 157)" opacity="0.8">
+                <path id="Path_444-2" data-name="Path 444" d="M20,21V19a4,4,0,0,0-4-4H8a4,4,0,0,0-4,4v2" transform="translate(-4 -3)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <circle id="Ellipse_340-2" data-name="Ellipse 340" cx="4" cy="4" r="4" transform="translate(4)" stroke-width="2" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+              </g>
+            </g>
+            <g id="Group_13-2" data-name="Group 13" transform="translate(0 188)">
+              <rect id="Rectangle_1492-8" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(10 138)" fill="#fff"/>
+              <text id="Settings-3" data-name="Settings" transform="translate(60 171)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Settings</tspan></text>
+              <g id="settings-4" data-name="settings" transform="translate(29 155)" opacity="0.8">
+                <circle id="Ellipse_341-2" data-name="Ellipse 341" cx="3" cy="3" r="3" transform="translate(8 8)" stroke-width="2" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                <path id="Path_445-2" data-name="Path 445" d="M19.4,15a1.65,1.65,0,0,0,.33,1.82l.06.06a2,2,0,1,1-2.83,2.83l-.06-.06a1.663,1.663,0,0,0-2.82,1.18V21a2,2,0,0,1-4,0v-.09A1.65,1.65,0,0,0,9,19.4a1.65,1.65,0,0,0-1.82.33l-.06.06a2,2,0,1,1-2.83-2.83l.06-.06a1.663,1.663,0,0,0-1.18-2.82H3a2,2,0,1,1,0-4h.09A1.65,1.65,0,0,0,4.6,9a1.65,1.65,0,0,0-.33-1.82l-.06-.06A2,2,0,1,1,7.04,4.29l.06.06a1.65,1.65,0,0,0,1.82.33H9a1.65,1.65,0,0,0,1-1.51V3a2,2,0,0,1,4,0v.09a1.663,1.663,0,0,0,2.82,1.18l.06-.06a2,2,0,1,1,2.83,2.83l-.06.06a1.65,1.65,0,0,0-.33,1.82V9a1.65,1.65,0,0,0,1.51,1H21a2,2,0,0,1,0,4h-.09A1.65,1.65,0,0,0,19.4,15Z" transform="translate(-1 -1)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="bell-2" data-name="bell" transform="translate(1163 37)" clip-path="url(#clip-path)">
+            <path id="Path_447-2" data-name="Path 447" d="M18,8A6,6,0,0,0,6,8c0,7-3,9-3,9H21s-3-2-3-9" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_448-2" data-name="Path 448" d="M13.73,21a2,2,0,0,1-3.46,0" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_340" data-name="Group 340" transform="translate(22 10)">
+            <text id="Abhishek-2" data-name="Abhishek" transform="translate(1246 40)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Abhishek</tspan></text>
+          </g>
+          <text id="Home-7" data-name="Home" transform="translate(289 62)" fill="#fff" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Home</tspan></text>
+          <g id="Group_341" data-name="Group 341" transform="translate(6 -67)">
+            <g transform="matrix(1, 0, 0, 1, -427, -563)" filter="url(#Rectangle_1495)">
+              <rect id="Rectangle_1495-9" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(702 738)" fill="#171717"/>
+            </g>
+            <text id="TOTAL_TRAFFIC" data-name="TOTAL TRAFFIC" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TOTAL TRAFFIC</tspan></text>
+            <text id="_123_456" data-name="123,456" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">123,456</tspan></text>
+            <text id="_3.48_" data-name="+3.48%" transform="translate(295 274)" fill="#2dce98" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+3.48%</tspan></text>
+            <text id="Since_last_month" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17" data-name="Group 17">
+              <path id="Path_496" data-name="Path 496" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(445 195)" fill="#f37426"/>
+              <g id="trending-up" transform="translate(459 214)">
+                <path id="Path_473" data-name="Path 473" d="M23,6l-9.5,9.5-5-5L1,18" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_474" data-name="Path 474" d="M17,6h6v6" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_342" data-name="Group 342" transform="translate(276 -67)">
+            <g transform="matrix(1, 0, 0, 1, -697, -563)" filter="url(#Rectangle_1495-2)">
+              <rect id="Rectangle_1495-10" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(972 738)" fill="#171717"/>
+            </g>
+            <text id="NEW_USERS" data-name="NEW USERS" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">NEW USERS</tspan></text>
+            <text id="_2_345" data-name="2,345" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2,345</tspan></text>
+            <text id="_-3.48_" data-name="-3.48%" transform="translate(295 274)" fill="#f53c56" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">-3.48%</tspan></text>
+            <text id="Since_last_month-2" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17-2" data-name="Group 17">
+              <path id="Path_497" data-name="Path 497" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(445 195)" fill="#f37426"/>
+              <g id="trending-down" transform="translate(459 214)">
+                <path id="Path_471" data-name="Path 471" d="M23,18,13.5,8.5l-5,5L1,6" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_472" data-name="Path 472" d="M17,18h6V12" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_343" data-name="Group 343" transform="translate(546 -67)">
+            <g transform="matrix(1, 0, 0, 1, -967, -563)" filter="url(#Rectangle_1495-3)">
+              <rect id="Rectangle_1495-11" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(1242 738)" fill="#171717"/>
+            </g>
+            <text id="SALES" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SALES</tspan></text>
+            <text id="_924" data-name="924" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">924</tspan></text>
+            <text id="_3.48_2" data-name="+3.48%" transform="translate(295 274)" fill="#2dce98" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+3.48%</tspan></text>
+            <text id="Since_last_month-3" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17-3" data-name="Group 17">
+              <circle id="Ellipse_353" data-name="Ellipse 353" cx="25" cy="25" r="25" transform="translate(445 195)" fill="#f37426"/>
+              <g id="dollar-sign" transform="translate(464 209)">
+                <line id="Line_26" data-name="Line 26" y2="22" transform="translate(6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_470" data-name="Path 470" d="M17,5H9.5a3.5,3.5,0,0,0,0,7h5a3.5,3.5,0,1,1,0,7H6" transform="translate(-6 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_344" data-name="Group 344" transform="translate(816 -67)">
+            <g transform="matrix(1, 0, 0, 1, -1237, -563)" filter="url(#Rectangle_1495-4)">
+              <rect id="Rectangle_1495-12" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(1512 738)"/>
+            </g>
+            <text id="PERFORMANCE" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PERFORMANCE</tspan></text>
+            <text id="_48.65_" data-name="48.65%" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">48.65%</tspan></text>
+            <text id="_3.48_3" data-name="+3.48%" transform="translate(295 274)" fill="#2dce98" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+3.48%</tspan></text>
+            <text id="Since_last_month-4" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17-4" data-name="Group 17">
+              <circle id="Ellipse_353-2" data-name="Ellipse 353" cx="25" cy="25" r="25" transform="translate(445 195)" fill="#f37426"/>
+              <g id="bar-chart-2-3" data-name="bar-chart-2" transform="translate(463 211)" clip-path="url(#clip-path-3)">
+                <line id="Line_1-3" data-name="Line 1" y1="10" transform="translate(13 7)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_2-3" data-name="Line 2" y1="16" transform="translate(7 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_3-3" data-name="Line 3" y1="6" transform="translate(1 11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Ellipse_379-2" data-name="Ellipse 379" transform="translate(1212 25)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+            <circle cx="23.5" cy="23.5" r="23.5" stroke="none"/>
+            <circle cx="23.5" cy="23.5" r="23" fill="none"/>
+          </g>
+          <rect id="_1041px-YuppTV_logo.svg-2" data-name="1041px-YuppTV_logo.svg" width="98" height="21" transform="translate(18 26)" fill="url(#pattern-2)"/>
+          <g id="Group_345" data-name="Group 345">
+            <g id="Group_306" data-name="Group 306" transform="translate(23 17)">
+              <g id="Group_288" data-name="Group 288">
+                <g transform="matrix(1, 0, 0, 1, -444, -647)" filter="url(#Rectangle_1497)">
+                  <rect id="Rectangle_1497-11" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(725 907)" fill="#fff"/>
+                </g>
+                <text id="BANNERS-3" data-name="BANNERS" transform="translate(311 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">BANNERS</tspan></text>
+                <text id="Promotional" transform="translate(311 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Promotional</tspan></text>
+                <text id="_3_new" data-name="3 new" transform="translate(311 398)" fill="#b6a438" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3 new</tspan></text>
+                <text id="_banners_went_live" data-name=" banners went live" transform="translate(345 398)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve"> banners went live</tspan></text>
+                <g id="Mask_Group_8" data-name="Mask Group 8" transform="translate(41 -6)" clip-path="url(#clip-path-29)">
+                  <path id="Icon_material-view-carousel" data-name="Icon material-view-carousel" d="M12.9,35.705h19.8V6H12.9ZM3,31.744h7.921V9.961H3ZM34.685,9.961V31.744h7.921V9.961Z" transform="translate(469.275 295.205)" fill="#f3d126"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_305" data-name="Group 305" transform="translate(33 17)">
+              <g transform="matrix(1, 0, 0, 1, -454, -647)" filter="url(#Rectangle_1497-2)">
+                <rect id="Rectangle_1497-12" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1070 907)" fill="#fff"/>
+              </g>
+              <text id="VIDEO" transform="translate(646 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">VIDEO</tspan></text>
+              <text id="Home_Page_Dock" data-name="Home Page Dock" transform="translate(646 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Home Page Dock</tspan></text>
+              <text id="_1_video_" data-name="1 video " transform="translate(646 398)" fill="#7764e4" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1 video </tspan></text>
+              <text id="duration_expires_at_12:00_IST" data-name="duration expires at 12:00 IST" transform="translate(692 398)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">duration expires at 12:00 IST</tspan></text>
+              <g id="Mask_Group_8-2" data-name="Mask Group 8" transform="translate(365 -11)" clip-path="url(#clip-path-30)">
+                <path id="Icon_awesome-video" data-name="Icon awesome-video" d="M21.479,4.5H3.054A3.054,3.054,0,0,0,0,7.554V25.979a3.054,3.054,0,0,0,3.054,3.054H21.479a3.054,3.054,0,0,0,3.054-3.054V7.554A3.054,3.054,0,0,0,21.479,4.5Zm12.1,2.409-7,4.83V21.794l7,4.823a2.048,2.048,0,0,0,3.22-1.648V8.557A2.049,2.049,0,0,0,33.579,6.909Z" transform="translate(487.848 308.671)" fill="#7764e4"/>
+              </g>
+            </g>
+            <g id="Group_304" data-name="Group 304" transform="translate(31 17)">
+              <g transform="matrix(1, 0, 0, 1, -452, -647)" filter="url(#Rectangle_1497-3)">
+                <rect id="Rectangle_1497-13" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1403 907)" fill="#fff"/>
+              </g>
+              <text id="PROGRAM_GUIDE" data-name="PROGRAM GUIDE" transform="translate(981 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PROGRAM GUIDE</tspan></text>
+              <text id="Catchup_" data-name="Catchup " transform="translate(981 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Catchup </tspan></text>
+              <text id="_12_-_19_June_" data-name="12 - 19 June " transform="translate(970 404)" fill="#d42e60" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12 - 19 June </tspan></text>
+              <text id="programs_added_for_ETV_channel" data-name="programs added for ETV channel" transform="translate(1045 404)" fill="#d42e60" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">programs added</tspan><tspan y="0" xml:space="preserve" fill="#4d4f5c"> for ETV channel</tspan></text>
+              <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(713 -10)" clip-path="url(#clip-path-31)">
+                <g id="Group_303" data-name="Group 303" transform="translate(478.064 302.041)">
+                  <g id="playlist">
+                    <g id="Group_298" data-name="Group 298" transform="translate(0 8.322)">
+                      <g id="Group_297" data-name="Group 297">
+                        <path id="Path_489" data-name="Path 489" d="M32.18,15.943H.971A.971.971,0,0,0,0,16.914V39.8a.971.971,0,0,0,.971.971H32.18a.971.971,0,0,0,.971-.971V16.914A.971.971,0,0,0,32.18,15.943ZM22.055,29.165l-7.8,5.2a.971.971,0,0,1-1.51-.808v-10.4a.971.971,0,0,1,1.51-.808l7.8,5.2a.971.971,0,0,1,0,1.616Z" transform="translate(0 -15.943)" fill="#d42e60" stroke="#d42e60" stroke-width="0.124"/>
+                      </g>
+                    </g>
+                    <g id="Group_300" data-name="Group 300" transform="translate(3.121 4.161)">
+                      <g id="Group_299" data-name="Group 299">
+                        <path id="Path_490" data-name="Path 490" d="M31.917,7.972H6.95a.971.971,0,0,0,0,1.942H31.917a.971.971,0,0,0,0-1.942Z" transform="translate(-5.979 -7.972)" fill="#d42e60" stroke="#d42e60" stroke-width="0.124"/>
+                      </g>
+                    </g>
+                    <g id="Group_302" data-name="Group 302" transform="translate(6.242)">
+                      <g id="Group_301" data-name="Group 301">
+                        <path id="Path_491" data-name="Path 491" d="M31.653,0H12.928a.971.971,0,1,0,0,1.942H31.653a.971.971,0,1,0,0-1.942Z" transform="translate(-11.957)" fill="#d42e60" stroke="#d42e60" stroke-width="0.124"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1521)">
+            <rect id="Rectangle_1521-2" data-name="Rectangle 1521" width="297" height="159" rx="10" transform="translate(725 1104)" fill="#fff"/>
+          </g>
+          <text id="SECTIONS" transform="translate(334 514)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SECTIONS</tspan></text>
+          <text id="Page_Rows" data-name="Page Rows" transform="translate(334 542)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Page Rows</tspan></text>
+          <text id="Live_TV_CatchupTV" data-name="Live TV, CatchupTV" transform="translate(334 612)" fill="#e420c3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Live TV, CatchupTV</tspan></text>
+          <text id="_rows_updated" data-name=" rows updated" transform="translate(446 612)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve"> rows updated</tspan></text>
+          <g id="Mask_Group_14" data-name="Mask Group 14" transform="translate(64 208)" clip-path="url(#clip-path-29)">
+            <path id="Icon_ionic-md-browsers" data-name="Icon ionic-md-browsers" d="M29.813,4.5H6.188A3.376,3.376,0,0,0,2.813,7.875v20.25A3.376,3.376,0,0,0,6.188,31.5H29.813a3.385,3.385,0,0,0,3.375-3.375V7.875A3.376,3.376,0,0,0,29.813,4.5Zm0,23.625H6.188V12.375H29.813Z" transform="translate(475 300.5)" fill="#e420c3"/>
+          </g>
+          <g id="Group_346" data-name="Group 346" transform="translate(33 214)">
+            <g transform="matrix(1, 0, 0, 1, -454, -844)" filter="url(#Rectangle_1497-4)">
+              <rect id="Rectangle_1497-14" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1070 1104)" fill="#fff"/>
+            </g>
+            <text id="MARKETING" transform="translate(646 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">MARKETING</tspan></text>
+            <text id="SEO" transform="translate(646 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SEO</tspan></text>
+            <text id="USA" transform="translate(646 398)" fill="#1f5578" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">USA</tspan></text>
+            <text id="region_data_changed" data-name="region data changed" transform="translate(678 398)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">region data changed</tspan></text>
+            <g id="Mask_Group_8-3" data-name="Mask Group 8" transform="translate(365 -11)" clip-path="url(#clip-path-30)">
+              <path id="Icon_awesome-searchengin" data-name="Icon awesome-searchengin" d="M20.42,11.342l-6.22,2.61V3.28L9.136,20.9l5.063-2.24V30.716Zm-7.7-8.951-.12.435-1.407,4.9a9.952,9.952,0,0,0-6.378,9.284,9.712,9.712,0,0,0,7.72,9.766v4.961A14.649,14.649,0,0,1,0,17.017,14.781,14.781,0,0,1,12.718,2.391ZM41.543,43.786a2.832,2.832,0,0,1-2.647.972c-.5-.167-2.509-1.842-5.591-4.11s-3.11-3.3-3.98-5.248A9.6,9.6,0,0,0,24,30.55l-.9-1.361a15.122,15.122,0,0,1-7.526,2.657l.194-.611,1.472-4.582a9.961,9.961,0,0,0,7.488-9.645,9.723,9.723,0,0,0-8.886-9.914V2.271A14.679,14.679,0,0,1,26.936,25.385l1.351.889a9.583,9.583,0,0,0,4.85,5.313c1.935.87,2.981.9,5.258,3.98s3.953,5.082,4.119,5.582A2.822,2.822,0,0,1,41.543,43.786Zm-.916-1.657a.741.741,0,1,0-.741.741A.743.743,0,0,0,40.627,42.129Z" transform="translate(480.534 302.229)" fill="#1f5578"/>
+            </g>
+          </g>
+          <g id="Group_347" data-name="Group 347" transform="translate(31 214)">
+            <g transform="matrix(1, 0, 0, 1, -452, -844)" filter="url(#Rectangle_1497-5)">
+              <rect id="Rectangle_1497-15" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1403 1104)" fill="#fff"/>
+            </g>
+            <text id="NAVIGATION" transform="translate(981 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">NAVIGATION</tspan></text>
+            <text id="Header" transform="translate(981 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Header</tspan></text>
+            <text id="MALAYSIA" transform="translate(979 404)" fill="#2e7bd4" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">MALAYSIA</tspan></text>
+            <text id="region_header_updated_" data-name="region header updated " transform="translate(1045 404)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">region header updated </tspan></text>
+            <g id="Mask_Group_9-2" data-name="Mask Group 9" transform="translate(713 -10)" clip-path="url(#clip-path-31)">
+              <g id="Group_303-2" data-name="Group 303" transform="translate(478.064 302.041)">
+                <g id="playlist-2" data-name="playlist">
+                  <g id="Group_298-2" data-name="Group 298" transform="translate(0 8.322)">
+                    <g id="Group_297-2" data-name="Group 297">
+                      <path id="Path_489-2" data-name="Path 489" d="M32.18,15.943H.971A.971.971,0,0,0,0,16.914V39.8a.971.971,0,0,0,.971.971H32.18a.971.971,0,0,0,.971-.971V16.914A.971.971,0,0,0,32.18,15.943ZM22.055,29.165l-7.8,5.2a.971.971,0,0,1-1.51-.808v-10.4a.971.971,0,0,1,1.51-.808l7.8,5.2a.971.971,0,0,1,0,1.616Z" transform="translate(0 -15.943)" fill="#2e7bd4"/>
+                    </g>
+                  </g>
+                  <g id="Group_300-2" data-name="Group 300" transform="translate(3.121 4.161)">
+                    <g id="Group_299-2" data-name="Group 299">
+                      <path id="Path_490-2" data-name="Path 490" d="M31.917,7.972H6.95a.971.971,0,0,0,0,1.942H31.917a.971.971,0,0,0,0-1.942Z" transform="translate(-5.979 -7.972)" fill="#2e7bd4"/>
+                    </g>
+                  </g>
+                  <g id="Group_302-2" data-name="Group 302" transform="translate(6.242)">
+                    <g id="Group_301-2" data-name="Group 301">
+                      <path id="Path_491-2" data-name="Path 491" d="M31.653,0H12.928a.971.971,0,1,0,0,1.942H31.653a.971.971,0,1,0,0-1.942Z" transform="translate(-11.957)" fill="#2e7bd4"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1522)">
+            <rect id="Rectangle_1522-2" data-name="Rectangle 1522" width="297" height="97" rx="10" transform="translate(725 1301)" fill="#fff"/>
+          </g>
+          <text id="COUPONS" transform="translate(334 711)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">COUPONS</tspan></text>
+          <text id="Voucher_Management" data-name="Voucher Management" transform="translate(334 739)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Voucher Management</tspan></text>
+          <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(136 417)" clip-path="url(#clip-path-35)">
+            <path id="coupon" d="M36.376,82H12.5a.633.633,0,0,0-.65.616v1.9a.644.644,0,0,1-.606.636.636.636,0,0,1-.693-.615v-1.92A.633.633,0,0,0,9.905,82H2.6A2.534,2.534,0,0,0,0,84.464v3.393a2.426,2.426,0,0,0,1.355,2.164,4.59,4.59,0,0,1,0,8.292A2.426,2.426,0,0,0,0,100.476v3.393a2.534,2.534,0,0,0,2.6,2.464H9.906a.633.633,0,0,0,.65-.616v-1.9a.644.644,0,0,1,.606-.636.636.636,0,0,1,.693.615v1.92a.633.633,0,0,0,.65.616H36.376a2.534,2.534,0,0,0,2.6-2.464V84.464A2.534,2.534,0,0,0,36.376,82ZM11.855,99.142a.65.65,0,0,1-1.3,0V96.731a.65.65,0,0,1,1.3,0Zm0-7.54a.65.65,0,0,1-1.3,0V89.191a.65.65,0,0,1,1.3,0Zm7.389-.452a1.287,1.287,0,1,1,1.286,1.219,1.255,1.255,0,0,1-1.286-1.219Zm.614,6.669a.594.594,0,0,1,0-.871l6.36-6.032a.675.675,0,0,1,.919,0,.594.594,0,0,1,0,.871l-6.36,6.032A.675.675,0,0,1,19.858,97.819Zm7.032.583a1.221,1.221,0,1,1,1.286-1.219A1.255,1.255,0,0,1,26.889,98.4Z" transform="translate(399 207)" fill="#14b7b1"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1523)">
+            <rect id="Rectangle_1523-2" data-name="Rectangle 1523" width="297" height="97" rx="10" transform="translate(1070 1301)" fill="#fff"/>
+          </g>
+          <text id="DATA" transform="translate(679 711)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DATA</tspan></text>
+          <text id="Analytics" transform="translate(679 739)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Analytics</tspan></text>
+          <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(398 400)" clip-path="url(#clip-path-30)">
+            <g id="Icon_feather-bar-chart-2" data-name="Icon feather-bar-chart-2" transform="translate(482.1 304.5)">
+              <path id="Path_505" data-name="Path 505" d="M27,30V15" fill="none" stroke="#92970b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_506" data-name="Path 506" d="M18,30V6" fill="none" stroke="#92970b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_507" data-name="Path 507" d="M9,30V21" fill="none" stroke="#92970b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1524)">
+            <rect id="Rectangle_1524-2" data-name="Rectangle 1524" width="297" height="97" rx="10" transform="translate(1403 1301)" fill="#fff"/>
+          </g>
+          <text id="SALES-2" data-name="SALES" transform="translate(1012 711)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SALES</tspan></text>
+          <text id="Packages" transform="translate(1012 739)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Packages</tspan></text>
+          <path id="Icon_awesome-box" data-name="Icon awesome-box" d="M28.858,10.456l-2.866-8.6A2.711,2.711,0,0,0,23.415,0H15.406V10.875h13.52A2.587,2.587,0,0,0,28.858,10.456ZM13.594,0H5.585A2.711,2.711,0,0,0,3.008,1.858l-2.866,8.6a2.587,2.587,0,0,0-.068.419h13.52ZM0,12.688V26.281A2.719,2.719,0,0,0,2.719,29H26.281A2.719,2.719,0,0,0,29,26.281V12.688Z" transform="translate(1225.215 717)" fill="#0e7b4c"/>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1525)">
+            <rect id="Rectangle_1525-2" data-name="Rectangle 1525" width="1121" height="248" transform="translate(666 630)" fill="#2d2d2d"/>
+          </g>
+          <g id="Group_348" data-name="Group 348">
+            <g id="Rectangle_1490-4" data-name="Rectangle 1490" fill="#fff" stroke="#fff" stroke-width="1">
+              <path d="M0,0H245a0,0,0,0,1,0,0V772a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+              <path d="M1,.5H244a.5.5,0,0,1,.5.5V771a.5.5,0,0,1-.5.5H5A4.5,4.5,0,0,1,.5,767V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+            </g>
+            <g id="Group_7-3" data-name="Group 7">
+              <g id="bar-chart-2-4" data-name="bar-chart-2" transform="translate(216 41) rotate(-90)" clip-path="url(#clip-path-3)">
+                <line id="Line_1-4" data-name="Line 1" y1="10" transform="translate(13 7)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_2-4" data-name="Line 2" y1="16" transform="translate(7 1)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_3-4" data-name="Line 3" y1="6" transform="translate(1 11)" fill="none" stroke="#172b4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_5-3" data-name="Group 5">
+              <rect id="Rectangle_1491-3" data-name="Rectangle 1491" width="225" height="55" rx="5" transform="translate(10 83)" fill="#f2f2f2"/>
+              <text id="Home-8" data-name="Home" transform="translate(60 116)" fill="#ef7111" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Home</tspan></text>
+              <g id="home-9" data-name="home" transform="translate(31 101)">
+                <path id="Path_435-4" data-name="Path 435" d="M3,9l9-7,9,7V20a2,2,0,0,1-2,2H5a2,2,0,0,1-2-2Z" transform="translate(-3 -2)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_436-4" data-name="Path 436" d="M9,22V12h6V22" transform="translate(-3 -2)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_6-3" data-name="Group 6" transform="translate(0 6)">
+              <rect id="Rectangle_1492-9" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(10 138)" fill="#fff"/>
+              <text id="Tasks-3" data-name="Tasks" transform="translate(60 171)" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Tasks</tspan></text>
+              <path id="Icon_awesome-calendar-check-3" data-name="Icon awesome-calendar-check" d="M19.464,6.812H.536A.524.524,0,0,1,0,6.3V4.769A2.1,2.1,0,0,1,2.143,2.725H4.286V.511A.524.524,0,0,1,4.821,0H6.607a.524.524,0,0,1,.536.511V2.725h5.714V.511A.524.524,0,0,1,13.393,0h1.786a.524.524,0,0,1,.536.511V2.725h2.143A2.1,2.1,0,0,1,20,4.769V6.3A.524.524,0,0,1,19.464,6.812ZM.536,8.175H19.464A.524.524,0,0,1,20,8.686v11.07A2.1,2.1,0,0,1,17.857,21.8H2.143A2.1,2.1,0,0,1,0,19.756V8.686A.524.524,0,0,1,.536,8.175ZM15.415,12.26l-1.258-1.209a.554.554,0,0,0-.758,0L8.666,15.527,6.613,13.553a.554.554,0,0,0-.758,0l-1.268,1.2a.494.494,0,0,0,0,.723l3.688,3.545a.554.554,0,0,0,.758,0l6.382-6.038a.494.494,0,0,0,0-.723Z" transform="translate(33.2 153.2)" fill="none" stroke="#ef7111" stroke-width="1"/>
+            </g>
+            <g id="Group_8-3" data-name="Group 8" transform="translate(0 67)">
+              <rect id="Rectangle_1492-10" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(10 138)" fill="#fff"/>
+              <text id="Products-3" data-name="Products" transform="translate(60 171)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Products</tspan></text>
+              <g id="package-3" data-name="package" transform="translate(31 155.032)" opacity="0.8">
+                <line id="Line_4-3" data-name="Line 4" x1="9" y1="5.19" transform="translate(4.5 2.208)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_439-3" data-name="Path 439" d="M21,16V8a2,2,0,0,0-1-1.73l-7-4a2,2,0,0,0-2,0l-7,4A2,2,0,0,0,3,8v8a2,2,0,0,0,1,1.73l7,4a2,2,0,0,0,2,0l7-4A2,2,0,0,0,21,16Z" transform="translate(-3 -2.002)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_440-3" data-name="Path 440" d="M3.27,6.96,12,12.01l8.73-5.05" transform="translate(-3 -2.002)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_5-3" data-name="Line 5" y1="10.08" transform="translate(9 9.998)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+            <g id="Group_12-3" data-name="Group 12" transform="translate(0 127)">
+              <rect id="Rectangle_1492-11" data-name="Rectangle 1492" width="225" height="55" transform="translate(10 138)" fill="#fff"/>
+              <text id="Customers-3" data-name="Customers" transform="translate(60 171)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Customers</tspan></text>
+              <g id="user-3" data-name="user" transform="translate(32 157)" opacity="0.8">
+                <path id="Path_444-3" data-name="Path 444" d="M20,21V19a4,4,0,0,0-4-4H8a4,4,0,0,0-4,4v2" transform="translate(-4 -3)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <circle id="Ellipse_340-3" data-name="Ellipse 340" cx="4" cy="4" r="4" transform="translate(4)" stroke-width="2" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+              </g>
+            </g>
+            <g id="Group_13-3" data-name="Group 13" transform="translate(0 188)">
+              <rect id="Rectangle_1492-12" data-name="Rectangle 1492" width="225" height="55" rx="5" transform="translate(10 138)" fill="#fff"/>
+              <text id="Settings-5" data-name="Settings" transform="translate(60 171)" fill="#172b4d" font-size="13" font-family="SegoeUI, Segoe UI" opacity="0.8"><tspan x="0" y="0">Settings</tspan></text>
+              <g id="settings-6" data-name="settings" transform="translate(29 155)" opacity="0.8">
+                <circle id="Ellipse_341-3" data-name="Ellipse 341" cx="3" cy="3" r="3" transform="translate(8 8)" stroke-width="2" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                <path id="Path_445-3" data-name="Path 445" d="M19.4,15a1.65,1.65,0,0,0,.33,1.82l.06.06a2,2,0,1,1-2.83,2.83l-.06-.06a1.663,1.663,0,0,0-2.82,1.18V21a2,2,0,0,1-4,0v-.09A1.65,1.65,0,0,0,9,19.4a1.65,1.65,0,0,0-1.82.33l-.06.06a2,2,0,1,1-2.83-2.83l.06-.06a1.663,1.663,0,0,0-1.18-2.82H3a2,2,0,1,1,0-4h.09A1.65,1.65,0,0,0,4.6,9a1.65,1.65,0,0,0-.33-1.82l-.06-.06A2,2,0,1,1,7.04,4.29l.06.06a1.65,1.65,0,0,0,1.82.33H9a1.65,1.65,0,0,0,1-1.51V3a2,2,0,0,1,4,0v.09a1.663,1.663,0,0,0,2.82,1.18l.06-.06a2,2,0,1,1,2.83,2.83l-.06.06a1.65,1.65,0,0,0-.33,1.82V9a1.65,1.65,0,0,0,1.51,1H21a2,2,0,0,1,0,4h-.09A1.65,1.65,0,0,0,19.4,15Z" transform="translate(-1 -1)" fill="none" stroke="#ef7111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="bell-3" data-name="bell" transform="translate(1163 37)" clip-path="url(#clip-path)">
+            <path id="Path_447-3" data-name="Path 447" d="M18,8A6,6,0,0,0,6,8c0,7-3,9-3,9H21s-3-2-3-9" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_448-3" data-name="Path 448" d="M13.73,21a2,2,0,0,1-3.46,0" transform="translate(-2 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_349" data-name="Group 349" transform="translate(22 10)">
+            <text id="Abhishek-3" data-name="Abhishek" transform="translate(1246 40)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Abhishek</tspan></text>
+          </g>
+          <text id="Home-10" data-name="Home" transform="translate(289 62)" fill="#fff" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Home</tspan></text>
+          <g id="Group_350" data-name="Group 350" transform="translate(6 -67)">
+            <g transform="matrix(1, 0, 0, 1, -427, -563)" filter="url(#Rectangle_1495-5)">
+              <rect id="Rectangle_1495-13" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(702 738)" fill="#171717"/>
+            </g>
+            <text id="TOTAL_TRAFFIC-2" data-name="TOTAL TRAFFIC" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TOTAL TRAFFIC</tspan></text>
+            <text id="_123_456-2" data-name="123,456" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">123,456</tspan></text>
+            <text id="_3.48_4" data-name="+3.48%" transform="translate(295 274)" fill="#2dce98" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+3.48%</tspan></text>
+            <text id="Since_last_month-5" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17-5" data-name="Group 17">
+              <path id="Path_496-2" data-name="Path 496" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(445 195)" fill="#f37426"/>
+              <g id="trending-up-2" data-name="trending-up" transform="translate(459 214)">
+                <path id="Path_473-2" data-name="Path 473" d="M23,6l-9.5,9.5-5-5L1,18" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_474-2" data-name="Path 474" d="M17,6h6v6" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_351" data-name="Group 351" transform="translate(276 -67)">
+            <g transform="matrix(1, 0, 0, 1, -697, -563)" filter="url(#Rectangle_1495-6)">
+              <rect id="Rectangle_1495-14" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(972 738)" fill="#171717"/>
+            </g>
+            <text id="NEW_USERS-2" data-name="NEW USERS" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">NEW USERS</tspan></text>
+            <text id="_2_345-2" data-name="2,345" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2,345</tspan></text>
+            <text id="_-3.48_2" data-name="-3.48%" transform="translate(295 274)" fill="#f53c56" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">-3.48%</tspan></text>
+            <text id="Since_last_month-6" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17-6" data-name="Group 17">
+              <path id="Path_497-2" data-name="Path 497" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(445 195)" fill="#f37426"/>
+              <g id="trending-down-2" data-name="trending-down" transform="translate(459 214)">
+                <path id="Path_471-2" data-name="Path 471" d="M23,18,13.5,8.5l-5,5L1,6" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_472-2" data-name="Path 472" d="M17,18h6V12" transform="translate(-1 -6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_352" data-name="Group 352" transform="translate(546 -67)">
+            <g transform="matrix(1, 0, 0, 1, -967, -563)" filter="url(#Rectangle_1495-7)">
+              <rect id="Rectangle_1495-15" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(1242 738)" fill="#171717"/>
+            </g>
+            <text id="SALES-3" data-name="SALES" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SALES</tspan></text>
+            <text id="_924-2" data-name="924" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">924</tspan></text>
+            <text id="_3.48_5" data-name="+3.48%" transform="translate(295 274)" fill="#2dce98" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+3.48%</tspan></text>
+            <text id="Since_last_month-7" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17-7" data-name="Group 17">
+              <circle id="Ellipse_353-3" data-name="Ellipse 353" cx="25" cy="25" r="25" transform="translate(445 195)" fill="#f37426"/>
+              <g id="dollar-sign-2" data-name="dollar-sign" transform="translate(464 209)">
+                <line id="Line_26-2" data-name="Line 26" y2="22" transform="translate(6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <path id="Path_470-2" data-name="Path 470" d="M17,5H9.5a3.5,3.5,0,0,0,0,7h5a3.5,3.5,0,1,1,0,7H6" transform="translate(-6 -1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_353" data-name="Group 353" transform="translate(816 -67)">
+            <g transform="matrix(1, 0, 0, 1, -1237, -563)" filter="url(#Rectangle_1495-8)">
+              <rect id="Rectangle_1495-16" data-name="Rectangle 1495" width="240" height="120" rx="10" transform="translate(1512 738)"/>
+            </g>
+            <text id="PERFORMANCE-2" data-name="PERFORMANCE" transform="translate(295 205)" fill="#b7b7b7" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PERFORMANCE</tspan></text>
+            <text id="_48.65_2" data-name="48.65%" transform="translate(295 233)" fill="#d2d2d2" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">48.65%</tspan></text>
+            <text id="_3.48_6" data-name="+3.48%" transform="translate(295 274)" fill="#2dce98" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+3.48%</tspan></text>
+            <text id="Since_last_month-8" data-name="Since last month" transform="translate(347 274)" fill="#b7b7b7" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Since last month</tspan></text>
+            <g id="Group_17-8" data-name="Group 17">
+              <circle id="Ellipse_353-4" data-name="Ellipse 353" cx="25" cy="25" r="25" transform="translate(445 195)" fill="#f37426"/>
+              <g id="bar-chart-2-5" data-name="bar-chart-2" transform="translate(463 211)" clip-path="url(#clip-path-3)">
+                <line id="Line_1-5" data-name="Line 1" y1="10" transform="translate(13 7)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_2-5" data-name="Line 2" y1="16" transform="translate(7 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                <line id="Line_3-5" data-name="Line 3" y1="6" transform="translate(1 11)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              </g>
+            </g>
+          </g>
+          <g id="Ellipse_379-3" data-name="Ellipse 379" transform="translate(1212 25)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+            <circle cx="23.5" cy="23.5" r="23.5" stroke="none"/>
+            <circle cx="23.5" cy="23.5" r="23" fill="none"/>
+          </g>
+          <rect id="_1041px-YuppTV_logo.svg-3" data-name="1041px-YuppTV_logo.svg" width="98" height="21" transform="translate(18 26)" fill="url(#pattern-2)"/>
+          <g id="Group_354" data-name="Group 354">
+            <g id="Group_306-2" data-name="Group 306" transform="translate(23 17)">
+              <g id="Group_288-2" data-name="Group 288">
+                <g transform="matrix(1, 0, 0, 1, -444, -647)" filter="url(#Rectangle_1497-6)">
+                  <rect id="Rectangle_1497-16" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(725 907)" fill="#fff"/>
+                </g>
+                <text id="BANNERS-4" data-name="BANNERS" transform="translate(311 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">BANNERS</tspan></text>
+                <text id="Promotional-2" data-name="Promotional" transform="translate(311 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Promotional</tspan></text>
+                <text id="_3_new-2" data-name="3 new" transform="translate(311 398)" fill="#b6a438" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3 new</tspan></text>
+                <text id="_banners_went_live-2" data-name=" banners went live" transform="translate(345 398)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve"> banners went live</tspan></text>
+                <g id="Mask_Group_8-4" data-name="Mask Group 8" transform="translate(41 -6)" clip-path="url(#clip-path-29)">
+                  <path id="Icon_material-view-carousel-2" data-name="Icon material-view-carousel" d="M12.9,35.705h19.8V6H12.9ZM3,31.744h7.921V9.961H3ZM34.685,9.961V31.744h7.921V9.961Z" transform="translate(469.275 295.205)" fill="#f3d126"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_305-2" data-name="Group 305" transform="translate(33 17)">
+              <g transform="matrix(1, 0, 0, 1, -454, -647)" filter="url(#Rectangle_1497-7)">
+                <rect id="Rectangle_1497-17" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1070 907)" fill="#fff"/>
+              </g>
+              <text id="VIDEO-2" data-name="VIDEO" transform="translate(646 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">VIDEO</tspan></text>
+              <text id="Home_Page_Dock-2" data-name="Home Page Dock" transform="translate(646 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Home Page Dock</tspan></text>
+              <text id="_1_video_2" data-name="1 video " transform="translate(646 398)" fill="#7764e4" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1 video </tspan></text>
+              <text id="duration_expires_at_12:00_IST-2" data-name="duration expires at 12:00 IST" transform="translate(692 398)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">duration expires at 12:00 IST</tspan></text>
+              <g id="Mask_Group_8-5" data-name="Mask Group 8" transform="translate(365 -11)" clip-path="url(#clip-path-30)">
+                <path id="Icon_awesome-video-2" data-name="Icon awesome-video" d="M21.479,4.5H3.054A3.054,3.054,0,0,0,0,7.554V25.979a3.054,3.054,0,0,0,3.054,3.054H21.479a3.054,3.054,0,0,0,3.054-3.054V7.554A3.054,3.054,0,0,0,21.479,4.5Zm12.1,2.409-7,4.83V21.794l7,4.823a2.048,2.048,0,0,0,3.22-1.648V8.557A2.049,2.049,0,0,0,33.579,6.909Z" transform="translate(487.848 308.671)" fill="#7764e4"/>
+              </g>
+            </g>
+            <g id="Group_304-2" data-name="Group 304" transform="translate(31 17)">
+              <g transform="matrix(1, 0, 0, 1, -452, -647)" filter="url(#Rectangle_1497-8)">
+                <rect id="Rectangle_1497-18" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1403 907)" fill="#fff"/>
+              </g>
+              <text id="PROGRAM_GUIDE-2" data-name="PROGRAM GUIDE" transform="translate(981 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PROGRAM GUIDE</tspan></text>
+              <text id="Catchup_2" data-name="Catchup " transform="translate(981 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Catchup </tspan></text>
+              <text id="_12_-_19_June_2" data-name="12 - 19 June " transform="translate(970 404)" fill="#d42e60" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">12 - 19 June </tspan></text>
+              <text id="programs_added_for_ETV_channel-2" data-name="programs added for ETV channel" transform="translate(1045 404)" fill="#d42e60" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">programs added</tspan><tspan y="0" xml:space="preserve" fill="#4d4f5c"> for ETV channel</tspan></text>
+              <g id="Mask_Group_9-3" data-name="Mask Group 9" transform="translate(713 -10)" clip-path="url(#clip-path-31)">
+                <g id="Group_303-3" data-name="Group 303" transform="translate(478.064 302.041)">
+                  <g id="playlist-3" data-name="playlist">
+                    <g id="Group_298-3" data-name="Group 298" transform="translate(0 8.322)">
+                      <g id="Group_297-3" data-name="Group 297">
+                        <path id="Path_489-3" data-name="Path 489" d="M32.18,15.943H.971A.971.971,0,0,0,0,16.914V39.8a.971.971,0,0,0,.971.971H32.18a.971.971,0,0,0,.971-.971V16.914A.971.971,0,0,0,32.18,15.943ZM22.055,29.165l-7.8,5.2a.971.971,0,0,1-1.51-.808v-10.4a.971.971,0,0,1,1.51-.808l7.8,5.2a.971.971,0,0,1,0,1.616Z" transform="translate(0 -15.943)" fill="#d42e60" stroke="#d42e60" stroke-width="0.124"/>
+                      </g>
+                    </g>
+                    <g id="Group_300-3" data-name="Group 300" transform="translate(3.121 4.161)">
+                      <g id="Group_299-3" data-name="Group 299">
+                        <path id="Path_490-3" data-name="Path 490" d="M31.917,7.972H6.95a.971.971,0,0,0,0,1.942H31.917a.971.971,0,0,0,0-1.942Z" transform="translate(-5.979 -7.972)" fill="#d42e60" stroke="#d42e60" stroke-width="0.124"/>
+                      </g>
+                    </g>
+                    <g id="Group_302-3" data-name="Group 302" transform="translate(6.242)">
+                      <g id="Group_301-3" data-name="Group 301">
+                        <path id="Path_491-3" data-name="Path 491" d="M31.653,0H12.928a.971.971,0,1,0,0,1.942H31.653a.971.971,0,1,0,0-1.942Z" transform="translate(-11.957)" fill="#d42e60" stroke="#d42e60" stroke-width="0.124"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1526)">
+            <rect id="Rectangle_1526-2" data-name="Rectangle 1526" width="297" height="159" rx="10" transform="translate(725 1104)" fill="#fff"/>
+          </g>
+          <text id="SECTIONS-2" data-name="SECTIONS" transform="translate(334 514)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SECTIONS</tspan></text>
+          <text id="Page_Rows-2" data-name="Page Rows" transform="translate(334 542)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Page Rows</tspan></text>
+          <text id="Live_TV_CatchupTV-2" data-name="Live TV, CatchupTV" transform="translate(334 612)" fill="#e420c3" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Live TV, CatchupTV</tspan></text>
+          <text id="_rows_updated-2" data-name=" rows updated" transform="translate(446 612)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve"> rows updated</tspan></text>
+          <g id="Mask_Group_18" data-name="Mask Group 18" transform="translate(64 208)" clip-path="url(#clip-path-29)">
+            <path id="Icon_ionic-md-browsers-2" data-name="Icon ionic-md-browsers" d="M29.813,4.5H6.188A3.376,3.376,0,0,0,2.813,7.875v20.25A3.376,3.376,0,0,0,6.188,31.5H29.813a3.385,3.385,0,0,0,3.375-3.375V7.875A3.376,3.376,0,0,0,29.813,4.5Zm0,23.625H6.188V12.375H29.813Z" transform="translate(475 300.5)" fill="#e420c3"/>
+          </g>
+          <g id="Group_355" data-name="Group 355" transform="translate(33 214)">
+            <g transform="matrix(1, 0, 0, 1, -454, -844)" filter="url(#Rectangle_1497-9)">
+              <rect id="Rectangle_1497-19" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1070 1104)" fill="#fff"/>
+            </g>
+            <text id="MARKETING-2" data-name="MARKETING" transform="translate(646 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">MARKETING</tspan></text>
+            <text id="SEO-2" data-name="SEO" transform="translate(646 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SEO</tspan></text>
+            <text id="USA-2" data-name="USA" transform="translate(646 398)" fill="#1f5578" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">USA</tspan></text>
+            <text id="region_data_changed-2" data-name="region data changed" transform="translate(678 398)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">region data changed</tspan></text>
+            <g id="Mask_Group_8-6" data-name="Mask Group 8" transform="translate(365 -11)" clip-path="url(#clip-path-30)">
+              <path id="Icon_awesome-searchengin-2" data-name="Icon awesome-searchengin" d="M20.42,11.342l-6.22,2.61V3.28L9.136,20.9l5.063-2.24V30.716Zm-7.7-8.951-.12.435-1.407,4.9a9.952,9.952,0,0,0-6.378,9.284,9.712,9.712,0,0,0,7.72,9.766v4.961A14.649,14.649,0,0,1,0,17.017,14.781,14.781,0,0,1,12.718,2.391ZM41.543,43.786a2.832,2.832,0,0,1-2.647.972c-.5-.167-2.509-1.842-5.591-4.11s-3.11-3.3-3.98-5.248A9.6,9.6,0,0,0,24,30.55l-.9-1.361a15.122,15.122,0,0,1-7.526,2.657l.194-.611,1.472-4.582a9.961,9.961,0,0,0,7.488-9.645,9.723,9.723,0,0,0-8.886-9.914V2.271A14.679,14.679,0,0,1,26.936,25.385l1.351.889a9.583,9.583,0,0,0,4.85,5.313c1.935.87,2.981.9,5.258,3.98s3.953,5.082,4.119,5.582A2.822,2.822,0,0,1,41.543,43.786Zm-.916-1.657a.741.741,0,1,0-.741.741A.743.743,0,0,0,40.627,42.129Z" transform="translate(480.534 302.229)" fill="#1f5578"/>
+            </g>
+          </g>
+          <g id="Group_356" data-name="Group 356" transform="translate(31 214)">
+            <g transform="matrix(1, 0, 0, 1, -452, -844)" filter="url(#Rectangle_1497-10)">
+              <rect id="Rectangle_1497-20" data-name="Rectangle 1497" width="297" height="159" rx="10" transform="translate(1403 1104)" fill="#fff"/>
+            </g>
+            <text id="NAVIGATION-2" data-name="NAVIGATION" transform="translate(981 300)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">NAVIGATION</tspan></text>
+            <text id="Header-2" data-name="Header" transform="translate(981 328)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Header</tspan></text>
+            <text id="MALAYSIA-2" data-name="MALAYSIA" transform="translate(979 404)" fill="#2e7bd4" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">MALAYSIA</tspan></text>
+            <text id="region_header_updated_2" data-name="region header updated " transform="translate(1045 404)" fill="#4d4f5c" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">region header updated </tspan></text>
+            <g id="Mask_Group_9-4" data-name="Mask Group 9" transform="translate(713 -10)" clip-path="url(#clip-path-31)">
+              <g id="Group_303-4" data-name="Group 303" transform="translate(478.064 302.041)">
+                <g id="playlist-4" data-name="playlist">
+                  <g id="Group_298-4" data-name="Group 298" transform="translate(0 8.322)">
+                    <g id="Group_297-4" data-name="Group 297">
+                      <path id="Path_489-4" data-name="Path 489" d="M32.18,15.943H.971A.971.971,0,0,0,0,16.914V39.8a.971.971,0,0,0,.971.971H32.18a.971.971,0,0,0,.971-.971V16.914A.971.971,0,0,0,32.18,15.943ZM22.055,29.165l-7.8,5.2a.971.971,0,0,1-1.51-.808v-10.4a.971.971,0,0,1,1.51-.808l7.8,5.2a.971.971,0,0,1,0,1.616Z" transform="translate(0 -15.943)" fill="#2e7bd4"/>
+                    </g>
+                  </g>
+                  <g id="Group_300-4" data-name="Group 300" transform="translate(3.121 4.161)">
+                    <g id="Group_299-4" data-name="Group 299">
+                      <path id="Path_490-4" data-name="Path 490" d="M31.917,7.972H6.95a.971.971,0,0,0,0,1.942H31.917a.971.971,0,0,0,0-1.942Z" transform="translate(-5.979 -7.972)" fill="#2e7bd4"/>
+                    </g>
+                  </g>
+                  <g id="Group_302-4" data-name="Group 302" transform="translate(6.242)">
+                    <g id="Group_301-4" data-name="Group 301">
+                      <path id="Path_491-4" data-name="Path 491" d="M31.653,0H12.928a.971.971,0,1,0,0,1.942H31.653a.971.971,0,1,0,0-1.942Z" transform="translate(-11.957)" fill="#2e7bd4"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1527)">
+            <path id="Rectangle_1527-2" data-name="Rectangle 1527" d="M10,0H287a10,10,0,0,1,10,10v91a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(725 1301)" fill="#fff"/>
+          </g>
+          <text id="COUPONS-2" data-name="COUPONS" transform="translate(334 711)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">COUPONS</tspan></text>
+          <text id="Voucher_Management-2" data-name="Voucher Management" transform="translate(334 739)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Voucher Management</tspan></text>
+          <g id="Mask_Group_19" data-name="Mask Group 19" transform="translate(136 417)" clip-path="url(#clip-path-35)">
+            <path id="coupon-2" data-name="coupon" d="M36.376,82H12.5a.633.633,0,0,0-.65.616v1.9a.644.644,0,0,1-.606.636.636.636,0,0,1-.693-.615v-1.92A.633.633,0,0,0,9.905,82H2.6A2.534,2.534,0,0,0,0,84.464v3.393a2.426,2.426,0,0,0,1.355,2.164,4.59,4.59,0,0,1,0,8.292A2.426,2.426,0,0,0,0,100.476v3.393a2.534,2.534,0,0,0,2.6,2.464H9.906a.633.633,0,0,0,.65-.616v-1.9a.644.644,0,0,1,.606-.636.636.636,0,0,1,.693.615v1.92a.633.633,0,0,0,.65.616H36.376a2.534,2.534,0,0,0,2.6-2.464V84.464A2.534,2.534,0,0,0,36.376,82ZM11.855,99.142a.65.65,0,0,1-1.3,0V96.731a.65.65,0,0,1,1.3,0Zm0-7.54a.65.65,0,0,1-1.3,0V89.191a.65.65,0,0,1,1.3,0Zm7.389-.452a1.287,1.287,0,1,1,1.286,1.219,1.255,1.255,0,0,1-1.286-1.219Zm.614,6.669a.594.594,0,0,1,0-.871l6.36-6.032a.675.675,0,0,1,.919,0,.594.594,0,0,1,0,.871l-6.36,6.032A.675.675,0,0,1,19.858,97.819Zm7.032.583a1.221,1.221,0,1,1,1.286-1.219A1.255,1.255,0,0,1,26.889,98.4Z" transform="translate(399 207)" fill="#14b7b1"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1528)">
+            <g id="Rectangle_1528-2" data-name="Rectangle 1528" transform="translate(1070 1305)" fill="#fff" stroke="#fff" stroke-width="1">
+              <path d="M10,0H287a10,10,0,0,1,10,10V97a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" stroke="none"/>
+              <path d="M10,.5H287a9.5,9.5,0,0,1,9.5,9.5V96a.5.5,0,0,1-.5.5H1A.5.5,0,0,1,.5,96V10A9.5,9.5,0,0,1,10,.5Z" fill="none"/>
+            </g>
+          </g>
+          <text id="DATA-2" data-name="DATA" transform="translate(679 711)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DATA</tspan></text>
+          <text id="Analytics-2" data-name="Analytics" transform="translate(679 739)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Analytics</tspan></text>
+          <g id="Mask_Group_20" data-name="Mask Group 20" transform="translate(398 400)" clip-path="url(#clip-path-30)">
+            <g id="Icon_feather-bar-chart-2-2" data-name="Icon feather-bar-chart-2" transform="translate(482.1 304.5)">
+              <path id="Path_509" data-name="Path 509" d="M27,30V15" fill="none" stroke="#92970b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_510" data-name="Path 510" d="M18,30V6" fill="none" stroke="#92970b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+              <path id="Path_511" data-name="Path 511" d="M9,30V21" fill="none" stroke="#92970b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -421, -630)" filter="url(#Rectangle_1529)">
+            <path id="Rectangle_1529-2" data-name="Rectangle 1529" d="M10,0H287a10,10,0,0,1,10,10V97a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(1403 1305)" fill="#fff"/>
+          </g>
+          <text id="SALES-4" data-name="SALES" transform="translate(1012 711)" fill="#8898aa" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SALES</tspan></text>
+          <text id="Packages-2" data-name="Packages" transform="translate(1012 739)" fill="#172b4d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Packages</tspan></text>
+          <path id="Icon_awesome-box-2" data-name="Icon awesome-box" d="M28.858,10.456l-2.866-8.6A2.711,2.711,0,0,0,23.415,0H15.406V10.875h13.52A2.587,2.587,0,0,0,28.858,10.456ZM13.594,0H5.585A2.711,2.711,0,0,0,3.008,1.858l-2.866,8.6a2.587,2.587,0,0,0-.068.419h13.52ZM0,12.688V26.281A2.719,2.719,0,0,0,2.719,29H26.281A2.719,2.719,0,0,0,29,26.281V12.688Z" transform="translate(1225.215 717)" fill="#0e7b4c"/>
+        </g>
+        <text id="Yupptv__admin.com-2" data-name="Yupptv_ admin.com" transform="translate(987 202)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Yupptv_ admin.com</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
