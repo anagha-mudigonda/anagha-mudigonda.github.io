@@ -64,8 +64,8 @@
       <circle cx="17" cy="17" r="16.5" fill="none"/>
     </g>
     <text id="_4" data-name="4" transform="translate(507 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">4</tspan></text>
-    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(507 363)" fill="#f8004c"/>
-    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(507 472)" fill="#f8004c"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(507 363)" fill="#f8004c"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="5" cy="5" r="5" transform="translate(507 472)" fill="#f8004c"/>
     <text id="Start-25" data-name="Start" transform="translate(530 369)" fill="#101010" font-size="13" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Post Ad</tspan></text>
     <text id="Start-26" data-name="Start" transform="translate(530 392)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Created a post and shared</tspan><tspan x="0" y="19">among WhatsApp groups for</tspan><tspan x="0" y="38">multitaskers with less interest</tspan><tspan x="0" y="57">to read information.</tspan></text>
     <text id="Start-27" data-name="Start" transform="translate(530 482)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Scheduling</tspan></text>
@@ -80,7 +80,7 @@
       <circle cx="17" cy="17" r="16.5" fill="none"/>
     </g>
     <text id="_6" data-name="6" transform="translate(760 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">6</tspan></text>
-    <ellipse id="Ellipse_3-2" data-name="Ellipse 3" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(760 363)" fill="#f8004c"/>
+    <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(760 363)" fill="#f8004c"/>
     <text id="Start-33" data-name="Start" transform="translate(783 369)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Remote usability test</tspan></text>
     <text id="Start-34" data-name="Start" transform="translate(783 392)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">1:1 in-depth interviews and</tspan><tspan x="0" y="19">probed participants </tspan><tspan x="0" y="38">to understand participants&apos;</tspan><tspan x="0" y="57">thought processes. </tspan></text>
     <g id="Start-35" data-name="Start" transform="translate(778.05 320.929)">
@@ -93,7 +93,7 @@
       <circle cx="17" cy="17" r="16.5" fill="none"/>
     </g>
     <text id="_8" data-name="8" transform="translate(968 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">8</tspan></text>
-    <ellipse id="Ellipse_3-3" data-name="Ellipse 3" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(968 363)" fill="#f8004c"/>
+    <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(968 363)" fill="#f8004c"/>
     <text id="Start-39" data-name="Start" transform="translate(986 369)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Insights deck with </tspan><tspan x="0" y="19">qualitative and</tspan><tspan x="0" y="38">quantitative data.</tspan></text>
     <g id="Start-40" data-name="Start" transform="translate(986.121 320.929)">
       <text id="Start-41" data-name="Start" transform="translate(-0.121 13.071)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Deliverables</tspan></text>
@@ -115,7 +115,7 @@
     <g id="Start-52" data-name="Start" transform="translate(918.941 162.046)">
       <text id="Start-53" data-name="Start" transform="translate(0.059 12.954)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Analysis</tspan></text>
     </g>
-    <text id="Start-54" data-name="Start" transform="translate(1016.128 174)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Four days</tspan></text>
+    <text id="Start-54" data-name="Start" transform="translate(1016.128 174)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Two days</tspan></text>
     <text id="Start-55" data-name="Start" transform="translate(1003 175)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
     <line id="Line_2-4" data-name="Line 2" y2="73.711" transform="translate(901.68 196.299)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
     <g id="Ellipse_1-7" data-name="Ellipse 1" transform="translate(885 259)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
@@ -141,8 +141,8 @@
     </g>
     <text id="_2" data-name="2" transform="translate(253 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">2</tspan></text>
     <line id="Line_3" data-name="Line 3" y2="122.824" transform="translate(257.872 294.207)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
-    <line id="Line_3-2" data-name="Line 3" y2="186.941" transform="translate(512.596 290.207)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
-    <line id="Line_3-3" data-name="Line 3" y2="72.774" transform="translate(765.454 290.207)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
-    <line id="Line_3-4" data-name="Line 3" y2="72.774" transform="translate(973.525 290.207)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+    <line id="Line_3-2" data-name="Line 3" y2="179" transform="translate(512.596 293.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+    <line id="Line_3-3" data-name="Line 3" y2="69.481" transform="translate(765.454 293.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+    <line id="Line_3-4" data-name="Line 3" y2="69.481" transform="translate(973.525 293.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
   </g>
 </svg>
