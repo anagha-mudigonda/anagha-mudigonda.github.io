@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="780" viewBox="0 0 1920 780">
+  <defs>
+    <clipPath id="clip-data-analysis-process">
+      <rect width="1920" height="780"/>
+    </clipPath>
+  </defs>
+  <g id="data-analysis-process" clip-path="url(#clip-data-analysis-process)">
+    <rect width="1920" height="780" fill="#f8f9fd"/>
+    <line id="Line_1" data-name="Line 1" x2="1057.973" transform="translate(449.712 365.085)" fill="none" stroke="#707070" stroke-width="1" opacity="0.2"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(415.883 92)">
+      <line id="Line_2" data-name="Line 2" y2="183.856" transform="translate(33.829 63.23)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(0.117 232)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
+        <ellipse cx="35.5" cy="36" rx="35.5" ry="36" stroke="none"/>
+        <ellipse cx="35.5" cy="36" rx="35" ry="35.5" fill="none"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(27.117 282)" fill="#707070" font-size="38" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">1</tspan></text>
+      <g id="Start" transform="translate(71.36 0)">
+        <text id="Start-2" data-name="Start" transform="translate(-0.243 27)" fill="#101010" font-size="37" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Get Data</tspan></text>
+      </g>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="11" cy="11" r="11" transform="translate(23.117 57)" fill="#f8004c"/>
+      <text id="Start-3" data-name="Start" transform="translate(71.117 77)" fill="#101010" font-size="27" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Open source repository</tspan></text>
+      <text id="Start-4" data-name="Start" transform="translate(71.117 125)" fill="#7d7878" font-size="27" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Available datasets</tspan></text>
+    </g>
+    <line id="Line_2-2" data-name="Line 2" y2="257.032" transform="translate(720.259 397.549)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+    <g id="Start-5" data-name="Start" transform="translate(754.517 456.583)">
+      <text id="Start-6" data-name="Start" transform="translate(0.483 26.417)" fill="#101010" font-size="36" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Explore Data</tspan></text>
+    </g>
+    <ellipse id="Ellipse_2-2" data-name="Ellipse 2" cx="11" cy="9.5" rx="11" ry="9.5" transform="translate(709 636)" fill="#f8004c"/>
+    <text id="Start-7" data-name="Start" transform="translate(755 659)" fill="#101010" font-size="30" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Trends</tspan></text>
+    <text id="Start-8" data-name="Start" transform="translate(755 705)" fill="#7d7878" font-size="27" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Identify positive, negative</tspan><tspan x="0" y="37">correlations</tspan></text>
+    <g id="Start-9" data-name="Start" transform="translate(255 329.433)" opacity="0.61">
+      <text id="Start-10" data-name="Start" transform="translate(0 19.567)" fill="#101010" font-size="27" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Research </tspan><tspan x="0" y="37">Question</tspan></text>
+    </g>
+    <g id="Start-11" data-name="Start" transform="translate(1548.554 337.217)" opacity="0.61">
+      <text id="Start-12" data-name="Start" transform="translate(0.446 21.783)" fill="#101010" font-size="30" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Future</tspan><tspan x="0" y="42">directions</tspan></text>
+    </g>
+    <text id="Start-13" data-name="Start" transform="translate(755 546)" fill="#101010" font-size="28" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Clean data</tspan></text>
+    <text id="Start-14" data-name="Start" transform="translate(755 597)" fill="#7d7878" font-size="28" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Missing values, NA</tspan></text>
+    <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(684 324)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
+      <ellipse cx="35.5" cy="36" rx="35.5" ry="36" stroke="none"/>
+      <ellipse cx="35.5" cy="36" rx="35" ry="35.5" fill="none"/>
+    </g>
+    <text id="_2" data-name="2" transform="translate(708 373)" fill="#707070" font-size="37" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">2</tspan></text>
+    <g id="Ellipse_1-3" data-name="Ellipse 1" transform="translate(1229 324)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
+      <circle cx="36" cy="36" r="36" stroke="none"/>
+      <circle cx="36" cy="36" r="35.5" fill="none"/>
+    </g>
+    <text id="_4" data-name="4" transform="translate(1251 375)" fill="#707070" font-size="39" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">4</tspan></text>
+    <text id="Start-15" data-name="Start" transform="translate(1020 194)" fill="#101010" font-size="27" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Statistical Analysis</tspan></text>
+    <text id="Start-16" data-name="Start" transform="translate(1020 244)" fill="#7d7878" font-size="27" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Time to uncover </tspan><tspan x="0" y="37" xml:space="preserve">insights  and predictions</tspan></text>
+    <g id="Start-17" data-name="Start" transform="translate(1010.114 93.297)">
+      <text id="Start-18" data-name="Start" transform="translate(-0.114 28.703)" fill="#101010" font-size="39" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Analysis</tspan></text>
+    </g>
+    <line id="Line_3" data-name="Line 3" x1="0.092" y2="161.428" transform="translate(993.803 167.901)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="11" cy="10.5" rx="11" ry="10.5" transform="translate(983 163)" fill="#f8004c"/>
+    <g id="Start-19" data-name="Start" transform="translate(1299.445 456.583)">
+      <text id="Start-20" data-name="Start" transform="translate(-0.445 26.417)" fill="#101010" font-size="36" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Communicate Insights</tspan></text>
+    </g>
+    <line id="Line_2-3" data-name="Line 2" x2="0.271" y2="130.458" transform="translate(1264.791 394.241)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
+    <text id="Start-21" data-name="Start" transform="translate(1302 544)" fill="#101010" font-size="28" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Presentation</tspan></text>
+    <text id="Start-22" data-name="Start" transform="translate(1299 591)" fill="#7d7878" font-size="27" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Poster presentation,</tspan><tspan x="0" y="37">interactive plots</tspan></text>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="11" cy="11" r="11" transform="translate(1251 502)" fill="#f8004c"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="11" cy="9.5" rx="11" ry="9.5" transform="translate(709 527)" fill="#f8004c"/>
+    <g id="Ellipse_1-4" data-name="Ellipse 1" transform="translate(961 327)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
+      <ellipse cx="36" cy="35.5" rx="36" ry="35.5" stroke="none"/>
+      <ellipse cx="36" cy="35.5" rx="35.5" ry="35" fill="none"/>
+    </g>
+    <text id="_3" data-name="3" transform="translate(985 373)" fill="#707070" font-size="37" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">3</tspan></text>
+  </g>
+</svg>

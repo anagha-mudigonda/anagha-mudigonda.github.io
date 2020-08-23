@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2586" height="700" viewBox="0 0 2586 700">
+  <defs>
+    <clipPath id="clip-mathgrade">
+      <rect width="2586" height="700"/>
+    </clipPath>
+  </defs>
+  <g id="mathgrade" clip-path="url(#clip-mathgrade)">
+    <rect width="2586" height="700" fill="#fff"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(79 79)" fill="#f6f6f6" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2401" height="524" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2400" height="523" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start" transform="translate(156 170)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0">ggplot(data = math.df, aes(x = firstperiod, y = finalgrade, color = school)) + </tspan><tspan x="0" y="60" xml:space="preserve">  geom_point() +</tspan><tspan x="0" y="120" xml:space="preserve">  geom_smooth(method = &quot;lm&quot;, se = FALSE) +</tspan><tspan x="0" y="180" xml:space="preserve">  xlab(&quot; first period math grade &quot;) + ylab(&quot;final math grade&quot;)+</tspan><tspan x="0" y="240" xml:space="preserve">  theme_bw() +</tspan><tspan x="0" y="300" xml:space="preserve">  ggtitle(&quot;final math grade&quot;) +</tspan><tspan x="0" y="360" xml:space="preserve">  theme(legend.position = &quot;bottom&quot;)</tspan></text>
+  </g>
+</svg>

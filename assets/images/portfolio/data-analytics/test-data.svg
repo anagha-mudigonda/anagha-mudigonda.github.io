@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2586" height="1717" viewBox="0 0 2586 1717">
+  <defs>
+    <clipPath id="clip-test-data">
+      <rect width="2586" height="1717"/>
+    </clipPath>
+  </defs>
+  <g id="test-data" clip-path="url(#clip-test-data)">
+    <rect width="2586" height="1717" fill="#fff"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(79 79)" fill="#f6f6f6" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2401" height="1377" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2400" height="1376" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start" transform="translate(156 170)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0"># (5.1.2)prediction for Mousinho da Silveira (school 2)</tspan><tspan x="0" y="60">pred &lt;- predict(train_model.s1, MS.schooldata)</tspan><tspan x="0" y="120">act &lt;- MS.schooldata[,33]</tspan><tspan x="0" y="180"></tspan><tspan x="0" y="240">#what the code means</tspan><tspan x="0" y="300"># (1) pred object is created with trainmodel.s1</tspan><tspan x="0" y="360"># (2) act object is created by subsetting the actual data from MSshool</tspan><tspan x="0" y="420"></tspan><tspan x="0" y="480"></tspan><tspan x="0" y="540"># (5.1.2) Printing R2 for test data Mousinho da Silveira (school 2), using the trained model</tspan><tspan x="0" y="600" xml:space="preserve">rss.s2 &lt;- sum((pred - act) ^ 2)  ## residual sum of squares</tspan><tspan x="0" y="660" xml:space="preserve">tss.s2 &lt;- sum((act - mean(act)) ^ 2)  ## total sum of squares</tspan><tspan x="0" y="720">rsq.s2 &lt;- 1 - rss.s2/tss.s2</tspan><tspan x="0" y="780">rsq.s2</tspan><tspan x="0" y="840"></tspan><tspan x="0" y="900">## what the code means</tspan><tspan x="0" y="960"># (1) rss.s2 object is created is applied on pred and actual data</tspan><tspan x="0" y="1020"># (2) tss.s2 object is created is appled on the act and mean of act data</tspan><tspan x="0" y="1080"># rsq formula is applied for data from (1) and (2)</tspan><tspan x="0" y="1140"></tspan></text>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(71 1509)" fill="none" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2409" height="87" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2408" height="86" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start-2" data-name="Start" transform="translate(131 1563)" fill="#101010" font-size="38" font-family="CourierNewPS-BoldMT, Courier New" font-weight="700"><tspan x="0" y="0">[1] 0.8397656</tspan></text>
+  </g>
+</svg>

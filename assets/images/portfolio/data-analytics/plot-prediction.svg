@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2586" height="1274" viewBox="0 0 2586 1274">
+  <defs>
+    <clipPath id="clip-plot-prediction">
+      <rect width="2586" height="1274"/>
+    </clipPath>
+  </defs>
+  <g id="plot-prediction" clip-path="url(#clip-plot-prediction)">
+    <rect width="2586" height="1274" fill="#fff"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(79 79)" fill="#f6f6f6" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2401" height="492" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2400" height="491" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start" transform="translate(116 170)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0">ggplot(new_df.s1, aes(x=act.s1, y=pred.s1)) + </tspan><tspan x="0" y="60" xml:space="preserve">  geom_point( color=&quot;blue&quot;) +</tspan><tspan x="0" y="120" xml:space="preserve">  geom_smooth(method= &quot;lm&quot; , color=&quot;red&quot;, se = FALSE, formula = y ~ x) +</tspan><tspan x="0" y="180" xml:space="preserve">  xlab(&quot; Actual portuguese final grade (0 - 20)&quot;) + ylab(&quot;Predicted portuguese final grade (0 - 20)&quot;)+</tspan><tspan x="0" y="240" xml:space="preserve">  theme_bw() +</tspan><tspan x="0" y="300" xml:space="preserve">  ggtitle(&quot;Results of predictive model for school 1&quot;) </tspan></text>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(79 634)" fill="#f6f6f6" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2401" height="492" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2400" height="491" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start-2" data-name="Start" transform="translate(116 725)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0">ggplot(new_df.s2, aes(x=act, y=pred)) + </tspan><tspan x="0" y="60" xml:space="preserve">  geom_point( color=&quot;blue&quot;) +</tspan><tspan x="0" y="120" xml:space="preserve">  geom_smooth(method= &quot;lm&quot; , color=&quot;green&quot;, se = FALSE, formula = y ~ x) +</tspan><tspan x="0" y="180" xml:space="preserve">  xlab(&quot; Actual math final grade (0 - 20)&quot;) + ylab(&quot;Predicted math final grade (0 - 20)&quot;)+</tspan><tspan x="0" y="240" xml:space="preserve">  theme_bw() +</tspan><tspan x="0" y="300" xml:space="preserve">  ggtitle(&quot;Results of predictive model for school 2&quot;) </tspan></text>
+  </g>
+</svg>

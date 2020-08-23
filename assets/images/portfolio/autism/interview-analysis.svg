@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1173" height="746" viewBox="0 0 1173 746">
+  <defs>
+    <filter id="Rectangle_1572" x="156" y="407" width="450" height="97" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_16" x="51" y="407" width="93" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1573" x="588" y="512" width="454" height="107" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_16-2" x="1048" y="512" width="86" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1574" x="148" y="638" width="458" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_16-3" x="47" y="638" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-interview-analysis">
+      <rect width="1173" height="746"/>
+    </clipPath>
+  </defs>
+  <g id="interview-analysis" clip-path="url(#clip-interview-analysis)">
+    <rect width="1173" height="746" fill="#fff"/>
+    <text id="TOP_THEMES_FOR_USING_TECHNOLOGY" data-name="TOP THEMES FOR USING TECHNOLOGY" transform="translate(403 71)" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">TOP THEMES FOR USING TECHNOLOGY</tspan></text>
+    <text id="reduce_anxiety" data-name="reduce anxiety" transform="translate(548 288)" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-61.112" y="0">reduce anxiety</tspan></text>
+    <circle id="Ellipse_16-4" data-name="Ellipse 16" cx="63.5" cy="63.5" r="63.5" transform="translate(481 124)" fill="#f8004c"/>
+    <text id="Games_and_music" data-name="Games
+and music" transform="translate(545 182)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-25.445" y="0">Games</tspan><tspan x="-37.226" y="21">and music</tspan></text>
+    <text id="entertainment" transform="translate(901 288)" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-60.512" y="0">entertainment</tspan></text>
+    <circle id="Ellipse_16-5" data-name="Ellipse 16" cx="63.5" cy="63.5" r="63.5" transform="translate(838 124)" fill="#f8004c"/>
+    <text id="Video_games_and_Youtube" data-name="Video games
+and Youtube" transform="translate(855 182)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Video games</tspan><tspan x="0" y="21">and Youtube</tspan></text>
+    <g id="Ellipse_16-6" data-name="Ellipse 16" transform="translate(152 124)" fill="#f8004c" stroke="#f8004c" stroke-width="1">
+      <circle cx="63.5" cy="63.5" r="63.5" stroke="none"/>
+      <circle cx="63.5" cy="63.5" r="63" fill="none"/>
+    </g>
+    <text id="Software_applications" data-name="Software 
+applications" transform="translate(216 182)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-33.131" y="0">Software </tspan><tspan x="-43.974" y="21">applications</tspan></text>
+    <text id="communication_learning" data-name="communication &amp;
+learning" transform="translate(203 288)" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-73.536" y="0">communication &amp;</tspan><tspan x="-34.208" y="19">learning</tspan></text>
+    <line id="Line_14" data-name="Line 14" x2="1035" transform="translate(33.5 378.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.17"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1572)">
+      <rect id="Rectangle_1572-2" data-name="Rectangle 1572" width="432" height="79" rx="16" transform="translate(165 413)" fill="#fff"/>
+    </g>
+    <text id="playing_video_games_especially_Xbox_is_the_area_he_gravitates_a_lot." data-name="playing video games, especially, Xbox is the area he gravitates a lot." transform="translate(207 448)" fill="#f8004c" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">playing video games, </tspan><tspan y="0" fill="#000">especially, Xbox is the area he gravitates a lot.</tspan></text>
+    <path id="Icon_awesome-quote-left" data-name="Icon awesome-quote-left" d="M25.646,13.293H21.224V10.138a3.366,3.366,0,0,1,3.537-3.155H25.2A1.258,1.258,0,0,0,26.53,5.8V3.433A1.258,1.258,0,0,0,25.2,2.25h-.442c-4.886,0-8.843,3.53-8.843,7.888V21.97a2.523,2.523,0,0,0,2.653,2.366h7.075A2.523,2.523,0,0,0,28.3,21.97V15.66A2.523,2.523,0,0,0,25.646,13.293Zm-15.918,0H5.306V10.138A3.366,3.366,0,0,1,8.843,6.983h.442A1.258,1.258,0,0,0,10.612,5.8V3.433A1.258,1.258,0,0,0,9.286,2.25H8.843C3.957,2.25,0,5.78,0,10.138V21.97a2.523,2.523,0,0,0,2.653,2.366H9.728a2.523,2.523,0,0,0,2.653-2.366V15.66A2.523,2.523,0,0,0,9.728,13.293Z" transform="translate(172.483 419.787)" fill="#ececec"/>
+    <g id="Group_77" data-name="Group 77" transform="translate(60 413)">
+      <g transform="matrix(1, 0, 0, 1, -60, -413)" filter="url(#Ellipse_16)">
+        <g id="Ellipse_16-7" data-name="Ellipse 16" transform="translate(60 413)" fill="#f8f9fd" stroke="#f8f9fd" stroke-width="4">
+          <circle cx="37.5" cy="37.5" r="37.5" stroke="none"/>
+          <circle cx="37.5" cy="37.5" r="35.5" fill="none"/>
+        </g>
+      </g>
+      <text id="P1" transform="translate(26 45)" font-size="23" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">P1</tspan></text>
+    </g>
+    <text id="_social_impairments" data-name=" social impairments" transform="translate(493 475)" font-size="8" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" xml:space="preserve"> social impairments</tspan></text>
+    <text id="diagnosed_" data-name="diagnosed " transform="translate(528 464)" font-size="8" font-family="Poppins-Regular, Poppins" opacity="0.4"><tspan x="0" y="0">diagnosed </tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1573)">
+      <rect id="Rectangle_1573-2" data-name="Rectangle 1573" width="436" height="89" rx="16" transform="translate(597 518)" fill="#fff"/>
+    </g>
+    <text id="she_plugs_in_her_iPod_listens_to_her_songs_loaded_by_her_mother_to_calm_herself." data-name="she plugs in her iPod, listens to her songs loaded by her mother to calm herself." transform="translate(637 555)" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">she plugs in</tspan><tspan y="0" xml:space="preserve" fill="#f8004c"> her iPod, listens to her songs</tspan><tspan y="0" xml:space="preserve"> loaded by her mother to calm herself.</tspan></text>
+    <path id="Icon_awesome-quote-left-2" data-name="Icon awesome-quote-left" d="M23.189,13.445h-4v-3.2a3.2,3.2,0,0,1,3.2-3.2h.4a1.2,1.2,0,0,0,1.2-1.2v-2.4a1.2,1.2,0,0,0-1.2-1.2h-.4a7.994,7.994,0,0,0-8,8V22.241a2.4,2.4,0,0,0,2.4,2.4h6.4a2.4,2.4,0,0,0,2.4-2.4v-6.4A2.4,2.4,0,0,0,23.189,13.445Zm-14.393,0h-4v-3.2A3.2,3.2,0,0,1,8,7.048h.4a1.2,1.2,0,0,0,1.2-1.2v-2.4a1.2,1.2,0,0,0-1.2-1.2H8a7.994,7.994,0,0,0-8,8V22.241a2.4,2.4,0,0,0,2.4,2.4H8.8a2.4,2.4,0,0,0,2.4-2.4v-6.4A2.4,2.4,0,0,0,8.8,13.445Z" transform="translate(604.873 531.989)" fill="#ececec"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_16-2)">
+      <g id="Ellipse_16-8" data-name="Ellipse 16" transform="translate(1057 518)" fill="#f8f9fd" stroke="#f8f9fd" stroke-width="4">
+        <circle cx="34" cy="34" r="34" stroke="none"/>
+        <circle cx="34" cy="34" r="32" fill="none"/>
+      </g>
+    </g>
+    <text id="P2" transform="translate(1078 559)" font-size="21" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">P2</tspan></text>
+    <text id="social_communication_impairments" data-name="social &amp; communication
+impairments" transform="translate(1023 585)" font-size="7" font-family="Poppins-Regular, Poppins"><tspan x="-84.924" y="0">social &amp; communication</tspan><tspan x="-44.947" y="10">impairments</tspan></text>
+    <text id="diagnosed_2" data-name="diagnosed " transform="translate(988 575)" font-size="7" font-family="Poppins-Regular, Poppins" opacity="0.4"><tspan x="0" y="0">diagnosed </tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1574)">
+      <rect id="Rectangle_1574-2" data-name="Rectangle 1574" width="440" height="81" rx="16" transform="translate(157 644)" fill="#fff"/>
+    </g>
+    <text id="comes_home_sits_in_his_favorite_chair_and_watches_video_and_laughs." data-name="comes home sits in his favorite chair and watches video and laughs." transform="translate(200 673)" fill="#f8004c" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" fill="#000">comes home sits in his favorite chair and</tspan><tspan y="0" xml:space="preserve" fill="#f8004c"> watches video and laughs.</tspan></text>
+    <path id="Icon_awesome-quote-left-3" data-name="Icon awesome-quote-left" d="M26.742,15.16H22.132V11.472A3.692,3.692,0,0,1,25.82,7.783h.461A1.38,1.38,0,0,0,27.665,6.4V3.633A1.38,1.38,0,0,0,26.281,2.25H25.82A9.219,9.219,0,0,0,16.6,11.472V25.3a2.767,2.767,0,0,0,2.766,2.766h7.377A2.767,2.767,0,0,0,29.509,25.3V17.927A2.767,2.767,0,0,0,26.742,15.16Zm-16.6,0H5.533V11.472A3.692,3.692,0,0,1,9.222,7.783h.461A1.38,1.38,0,0,0,11.066,6.4V3.633A1.38,1.38,0,0,0,9.683,2.25H9.222A9.219,9.219,0,0,0,0,11.472V25.3A2.767,2.767,0,0,0,2.766,28.07h7.377A2.767,2.767,0,0,0,12.91,25.3V17.927A2.767,2.767,0,0,0,10.144,15.16Z" transform="translate(165.261 648.747)" fill="#ececec"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_16-3)">
+      <g id="Ellipse_16-9" data-name="Ellipse 16" transform="translate(56 644)" fill="#f8f9fd" stroke="#f8f9fd" stroke-width="4">
+        <circle cx="37" cy="37" r="37" stroke="none"/>
+        <circle cx="37" cy="37" r="35" fill="none"/>
+      </g>
+    </g>
+    <text id="P3" transform="translate(80 687)" font-size="23" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">P3</tspan></text>
+    <text id="_social_impairments-2" data-name=" social impairments" transform="translate(503 708)" font-size="7" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" xml:space="preserve"> social impairments</tspan></text>
+    <text id="diagnosed_3" data-name="diagnosed " transform="translate(533 697)" font-size="7" font-family="Poppins-Regular, Poppins" opacity="0.4"><tspan x="0" y="0">diagnosed </tspan></text>
+  </g>
+</svg>

@@ -7,6 +7,9 @@
       <rect width="512" height="152" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-3">
+      <rect width="635.541" height="2" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
       <rect width="321.249" height="149.88" fill="none"/>
     </clipPath>
     <clipPath id="clip-ws-analysis-1230X850_">
@@ -15,197 +18,205 @@
   </defs>
   <g id="ws-analysis-1230X850_" data-name="ws-analysis-1230X850 " clip-path="url(#clip-ws-analysis-1230X850_)">
     <rect width="1230" height="700" fill="#f8f9fd"/>
-    <text id="QUALITATIVE_DATA" data-name="QUALITATIVE DATA" transform="translate(32 76)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">QUALITATIVE DATA</tspan></text>
-    <text id="Design_Ideas_D_Quotes_Q_Surprises_S_Pain-points_P_" data-name="Design Ideas(D), Quotes(Q), Surprises (S), Pain-points (P)" transform="translate(31 96)" font-size="11" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Design Ideas(D), Quotes(Q), Surprises (S), Pain-points (P)</tspan></text>
-    <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(281.219 133.981)" clip-path="url(#clip-path)">
-      <g transform="translate(-477.5 -520.5)">
-        <line id="Line_17" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+    <g id="Group_77" data-name="Group 77">
+      <text id="QUALITATIVE_DATA" data-name="QUALITATIVE DATA" transform="translate(32 76)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">QUALITATIVE DATA</tspan></text>
+      <text id="Design_Ideas_D_Quotes_Q_Surprises_S_Pain-points_P_" data-name="Design Ideas(D), Quotes(Q), Surprises (S), Pain-points (P)" transform="translate(31 96)" font-size="11" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Design Ideas(D), Quotes(Q), Surprises (S), Pain-points (P)</tspan></text>
+      <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(281.219 133.981)" opacity="0.7" clip-path="url(#clip-path)">
+        <g transform="translate(-477.5 -520.5)">
+          <line id="Line_17" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-439.5 -520.5)">
+          <line id="Line_17-2" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-401.5 -520.5)">
+          <line id="Line_17-3" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-363.5 -520.5)">
+          <line id="Line_17-4" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-325.5 -520.5)">
+          <line id="Line_17-5" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+        </g>
       </g>
-      <g transform="translate(-439.5 -520.5)">
-        <line id="Line_17-2" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-      </g>
-      <g transform="translate(-401.5 -520.5)">
-        <line id="Line_17-3" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-      </g>
-      <g transform="translate(-363.5 -520.5)">
-        <line id="Line_17-4" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-      </g>
-      <g transform="translate(-325.5 -520.5)">
-        <line id="Line_17-5" data-name="Line 17" y2="717" transform="translate(478 520.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-      </g>
-    </g>
-    <text id="length_of_the_message_stops_me_from_reading_the_message." data-name="length of the message stops me from reading the message." transform="translate(32 149)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">length of the message stops me from reading the message.</tspan></text>
-    <text id="seeing_a_forward_tag_turns_me_off" data-name="seeing a &quot;forward&quot; tag turns me off" transform="translate(32 172)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">seeing a &quot;forward&quot; tag turns me off</tspan></text>
-    <text id="sender_individually_group_influence_me_to_read_the_message" data-name="sender (individually/ group) influence me to read the message" transform="translate(32 195)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">sender (individually/ group) influence me to read the message</tspan></text>
-    <text id="errors_in_the_message_grammatical_topic_related_stops_from_reading_a_message" data-name="errors in the message (grammatical, topic related) stops
-from reading a message" transform="translate(32 214)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">errors in the message (grammatical, topic related) stops</tspan><tspan x="0" y="10">from reading a message</tspan></text>
-    <text id="D" transform="translate(297.316 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">D</tspan></text>
-    <text id="Q" transform="translate(335.098 130.473)" font-size="8" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Q</tspan></text>
-    <text id="S" transform="translate(373.443 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">S</tspan></text>
-    <text id="P" transform="translate(410.097 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P</tspan></text>
-    <text id="OPPORTUNITY" transform="translate(514.983 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">OPPORTUNITY</tspan></text>
-    <text id="T1" transform="translate(31 131)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T1</tspan></text>
-    <rect id="Rectangle_1537" data-name="Rectangle 1537" width="13.534" height="14.098" transform="translate(400.511 140.518)" fill="#f52828"/>
-    <rect id="Rectangle_1537-2" data-name="Rectangle 1537" width="13.534" height="14.098" transform="translate(417.992 140.518)" fill="#c14ac1"/>
-    <rect id="Rectangle_1539" data-name="Rectangle 1539" width="13.534" height="14.098" transform="translate(400.511 166.458)" fill="#f52828"/>
-    <rect id="Rectangle_1540" data-name="Rectangle 1540" width="13.534" height="14.098" transform="translate(324.948 165.33)" fill="#f52828"/>
-    <rect id="Rectangle_1541" data-name="Rectangle 1541" width="13.534" height="14.098" transform="translate(286.038 187.886)" fill="#c14ac1"/>
-    <rect id="Rectangle_1542" data-name="Rectangle 1542" width="13.534" height="14.098" transform="translate(305.211 187.886)" fill="#3535e2"/>
-    <rect id="Rectangle_1543" data-name="Rectangle 1543" width="13.534" height="14.098" transform="translate(340.737 209.314)" fill="#38bed9"/>
-    <text id="T2" transform="translate(31 261)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T2</tspan></text>
-    <text id="source_check_with_friends_to_verify_the_facts" data-name="source check with friends to verify the facts" transform="translate(32 271)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">source check with friends to verify the facts</tspan></text>
-    <text id="_I_would_verify_the_content_on_google_to_check_some_valid_sources" data-name=" I would verify the content on google
- to check some valid sources" transform="translate(32 287)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve"> I would verify the content on google</tspan><tspan x="0" y="10" xml:space="preserve"> to check some valid sources</tspan></text>
-    <rect id="Rectangle_1544" data-name="Rectangle 1544" width="13.534" height="14.098" transform="translate(341.301 261.193)" fill="#f52828"/>
-    <rect id="Rectangle_1545" data-name="Rectangle 1545" width="13.534" height="14.098" transform="translate(285.475 284.877)" fill="#c14ac1"/>
-    <rect id="Rectangle_1546" data-name="Rectangle 1546" width="13.534" height="14.098" transform="translate(399.383 336.193)" fill="#3535e2"/>
-    <rect id="Rectangle_1547" data-name="Rectangle 1547" width="13.534" height="14.098" transform="translate(416.864 336.193)" fill="#137e48"/>
-    <text id="T3" transform="translate(31 332)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T3</tspan></text>
-    <text id="summary_option_is_a_good_feature_saves_time_" data-name="summary option is a good feature ( saves time)" transform="translate(32 371)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">summary option is a good feature ( saves time)</tspan></text>
-    <rect id="Rectangle_1549" data-name="Rectangle 1549" width="13.534" height="14.098" transform="translate(324.948 361.568)" fill="#f52828"/>
-    <text id="not_sure_what_New_tag_means_and_interesting_that_it_is_10_times_forwaded" data-name="not sure what &quot;New&quot; tag means and interesting
+      <text id="length_of_the_message_stops_from_reading_the_message." data-name="length of the message stops  from reading the message." transform="translate(32 149)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve">length of the message stops  from reading the message.</tspan></text>
+      <text id="seeing_a_forward_tag_turns_me_off" data-name="seeing a &quot;forward&quot; tag turns me off" transform="translate(32 172)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">seeing a &quot;forward&quot; tag turns me off</tspan></text>
+      <text id="sender_individually_group_influence_me_to_read_the_message" data-name="sender (individually/ group) influence me to read the message" transform="translate(32 195)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">sender (individually/ group) influence me to read the message</tspan></text>
+      <text id="errors_in_the_message_grammatical_topic_related_stops_from_reading_a_message" data-name="errors in the message (grammatical, topic related) stops
+from reading a message" transform="translate(32 223)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">errors in the message (grammatical, topic related) stops</tspan><tspan x="0" y="10">from reading a message</tspan></text>
+      <text id="D" transform="translate(297.316 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">D</tspan></text>
+      <text id="Q" transform="translate(335.098 130.473)" font-size="8" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Q</tspan></text>
+      <text id="S" transform="translate(373.443 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">S</tspan></text>
+      <text id="P" transform="translate(410.097 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P</tspan></text>
+      <text id="OPPORTUNITY" transform="translate(514.983 129.473)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">OPPORTUNITY</tspan></text>
+      <text id="T1" transform="translate(31 131)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T1</tspan></text>
+      <rect id="Rectangle_1537" data-name="Rectangle 1537" width="13.534" height="14.098" transform="translate(400.511 140.518)" fill="#f52828"/>
+      <rect id="Rectangle_1537-2" data-name="Rectangle 1537" width="13.534" height="14.098" transform="translate(417.992 140.518)" fill="#c14ac1"/>
+      <rect id="Rectangle_1539" data-name="Rectangle 1539" width="13.534" height="14.098" transform="translate(400.511 166.458)" fill="#f52828"/>
+      <rect id="Rectangle_1540" data-name="Rectangle 1540" width="13.534" height="14.098" transform="translate(324.948 165.33)" fill="#f52828"/>
+      <rect id="Rectangle_1541" data-name="Rectangle 1541" width="13.534" height="14.098" transform="translate(286.039 187.886)" fill="#c14ac1"/>
+      <rect id="Rectangle_1542" data-name="Rectangle 1542" width="13.534" height="14.098" transform="translate(305.211 187.886)" fill="#3535e2"/>
+      <rect id="Rectangle_1543" data-name="Rectangle 1543" width="13.534" height="14.098" transform="translate(340.737 219.314)" fill="#38bed9"/>
+      <text id="T2" transform="translate(31 261)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T2</tspan></text>
+      <text id="source_check_with_friends_to_verify_the_facts" data-name="source check with friends to verify the facts" transform="translate(32 276)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">source check with friends to verify the facts</tspan></text>
+      <text id="_I_would_verify_the_content_on_google_to_check_some_valid_sources" data-name=" I would verify the content on google
+ to check some valid sources" transform="translate(32 294)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve"> I would verify the content on google</tspan><tspan x="0" y="10" xml:space="preserve"> to check some valid sources</tspan></text>
+      <rect id="Rectangle_1544" data-name="Rectangle 1544" width="13.534" height="14.098" transform="translate(341.301 268.193)" fill="#f52828"/>
+      <rect id="Rectangle_1545" data-name="Rectangle 1545" width="13.534" height="14.098" transform="translate(285.475 290.877)" fill="#c14ac1"/>
+      <rect id="Rectangle_1546" data-name="Rectangle 1546" width="13.534" height="14.098" transform="translate(399.383 336.193)" fill="#3535e2"/>
+      <rect id="Rectangle_1547" data-name="Rectangle 1547" width="13.534" height="14.098" transform="translate(416.864 336.193)" fill="#137e48"/>
+      <text id="T3" transform="translate(31 332)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T3</tspan></text>
+      <text id="summary_option_is_a_good_feature_saves_time_" data-name="summary option is a good feature ( saves time)" transform="translate(32 371)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">summary option is a good feature ( saves time)</tspan></text>
+      <rect id="Rectangle_1549" data-name="Rectangle 1549" width="13.534" height="14.098" transform="translate(324.948 361.568)" fill="#f52828"/>
+      <text id="not_sure_what_New_tag_means_and_interesting_that_it_is_10_times_forwaded" data-name="not sure what &quot;New&quot; tag means and interesting
 that it is 10 times forwaded" transform="translate(32 395)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">not sure what &quot;New&quot; tag means and interesting</tspan><tspan x="0" y="10">that it is 10 times forwaded</tspan></text>
-    <rect id="Rectangle_1551" data-name="Rectangle 1551" width="13.534" height="14.098" transform="translate(398.819 386.38)" fill="#3535e2"/>
-    <text id="I_know_message_is_wrong_not_sure_I_will_use_summary_feature_" data-name="I know message is wrong, not sure I will use
+      <rect id="Rectangle_1551" data-name="Rectangle 1551" width="13.534" height="14.098" transform="translate(398.819 386.38)" fill="#3535e2"/>
+      <text id="I_know_message_is_wrong_not_sure_I_will_use_summary_feature_" data-name="I know message is wrong, not sure I will use
 summary feature " transform="translate(32 419)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">I know message is wrong, not sure I will use</tspan><tspan x="0" y="10">summary feature </tspan></text>
-    <rect id="Rectangle_1552" data-name="Rectangle 1552" width="13.534" height="14.098" transform="translate(398.819 416.831)" fill="#38bed9"/>
-    <rect id="Rectangle_1553" data-name="Rectangle 1553" width="13.534" height="14.098" transform="translate(398.819 444.462)" fill="#137e48"/>
-    <rect id="Rectangle_1554" data-name="Rectangle 1554" width="13.534" height="14.098" transform="translate(324.948 416.831)" fill="#137e48"/>
-    <text id="_I_see_the_message_is_false_then_it_should_notify_people_who_sent_this_message._" data-name=" I see the message is false then it
+      <rect id="Rectangle_1552" data-name="Rectangle 1552" width="13.534" height="14.098" transform="translate(398.819 416.831)" fill="#38bed9"/>
+      <rect id="Rectangle_1553" data-name="Rectangle 1553" width="13.534" height="14.098" transform="translate(398.819 444.462)" fill="#137e48"/>
+      <rect id="Rectangle_1554" data-name="Rectangle 1554" width="13.534" height="14.098" transform="translate(324.948 416.831)" fill="#137e48"/>
+      <text id="_I_see_the_message_is_false_then_it_should_notify_people_who_sent_this_message._" data-name=" I see the message is false then it
  should notify people who sent this message. " transform="translate(32 503)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve"> I see the message is false then it</tspan><tspan x="0" y="10" xml:space="preserve"> should notify people who sent this message. </tspan></text>
-    <text id="add_true_links_for_information._" data-name="add true links for information.     " transform="translate(32 534)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve">add true links for information.     </tspan></text>
-    <rect id="Rectangle_1555" data-name="Rectangle 1555" width="13.534" height="14.098" transform="translate(398.819 494.649)" fill="#c14ac1"/>
-    <rect id="Rectangle_1556" data-name="Rectangle 1556" width="13.534" height="14.098" transform="translate(285.475 520.589)" fill="#c14ac1"/>
-    <text id="forwarding_message_should_be_difficult_including_add_roadblocks" data-name="forwarding message should be 
+      <text id="add_true_links_for_information._" data-name="add true links for information.     " transform="translate(32 534)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve">add true links for information.     </tspan></text>
+      <rect id="Rectangle_1555" data-name="Rectangle 1555" width="13.534" height="14.098" transform="translate(398.819 494.649)" fill="#c14ac1"/>
+      <rect id="Rectangle_1556" data-name="Rectangle 1556" width="13.534" height="14.098" transform="translate(285.475 520.589)" fill="#c14ac1"/>
+      <text id="forwarding_message_should_be_difficult_including_add_roadblocks" data-name="forwarding message should be 
 difficult including add roadblocks" transform="translate(32 555)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">forwarding message should be </tspan><tspan x="0" y="10">difficult including add roadblocks</tspan></text>
-    <text id="add_message_start_date" data-name="add message start date" transform="translate(32 583)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">add message start date</tspan></text>
-    <text id="link_to_actual_source_is_required_instead_of_fact_checkers." data-name="link to actual source is required instead
+      <text id="add_message_start_date" data-name="add message start date" transform="translate(32 583)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">add message start date</tspan></text>
+      <text id="link_to_actual_source_is_required_instead_of_fact_checkers." data-name="link to actual source is required instead
 of fact checkers." transform="translate(32 607)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">link to actual source is required instead</tspan><tspan x="0" y="10">of fact checkers.</tspan></text>
-    <rect id="Rectangle_1558" data-name="Rectangle 1558" width="13.534" height="14.098" transform="translate(285.475 552.168)" fill="#38bed9"/>
-    <rect id="Rectangle_1559" data-name="Rectangle 1559" width="13.534" height="14.098" transform="translate(285.475 576.415)" fill="#38bed9"/>
-    <rect id="Rectangle_1560" data-name="Rectangle 1560" width="13.534" height="14.098" transform="translate(399.383 522.281)" fill="#c14ac1"/>
-    <rect id="Rectangle_1562" data-name="Rectangle 1562" width="13.534" height="14.098" transform="translate(398.819 552.168)" fill="#38bed9"/>
-    <rect id="Rectangle_1563" data-name="Rectangle 1563" width="13.534" height="14.098" transform="translate(285.475 601.791)" fill="#137e48"/>
-    <rect id="Rectangle_1564" data-name="Rectangle 1564" width="13.534" height="14.098" transform="translate(304.083 520.589)" fill="#3535e2"/>
-    <rect id="Rectangle_1565" data-name="Rectangle 1565" width="13.534" height="14.098" transform="translate(324.948 601.791)" fill="#137e48"/>
-    <text id="How_can_we_provide_include_sender_information_in_message_" data-name="How can we provide include sender information in message?" transform="translate(440 195)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we provide include sender information in message?</tspan></text>
-    <text id="How_can_we_rebrand_the_forward_tag_to_influence_reading_the_message_" data-name="How can we rebrand the forward tag to influence 
+      <rect id="Rectangle_1558" data-name="Rectangle 1558" width="13.534" height="14.098" transform="translate(285.475 552.168)" fill="#38bed9"/>
+      <rect id="Rectangle_1559" data-name="Rectangle 1559" width="13.534" height="14.098" transform="translate(285.475 576.415)" fill="#38bed9"/>
+      <rect id="Rectangle_1560" data-name="Rectangle 1560" width="13.534" height="14.098" transform="translate(399.383 522.281)" fill="#c14ac1"/>
+      <rect id="Rectangle_1562" data-name="Rectangle 1562" width="13.534" height="14.098" transform="translate(398.819 552.168)" fill="#38bed9"/>
+      <rect id="Rectangle_1563" data-name="Rectangle 1563" width="13.534" height="14.098" transform="translate(285.475 601.791)" fill="#137e48"/>
+      <rect id="Rectangle_1564" data-name="Rectangle 1564" width="13.534" height="14.098" transform="translate(304.083 520.589)" fill="#3535e2"/>
+      <rect id="Rectangle_1565" data-name="Rectangle 1565" width="13.534" height="14.098" transform="translate(324.948 601.791)" fill="#137e48"/>
+      <text id="How_can_we_provide_include_sender_information_in_message_" data-name="How can we provide include sender information in message?" transform="translate(440 195)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we provide include sender information in message?</tspan></text>
+      <text id="How_can_we_rebrand_the_forward_tag_to_influence_reading_the_message_" data-name="How can we rebrand the forward tag to influence 
 
 reading the message?" transform="translate(440 168)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we rebrand the forward tag to influence </tspan><tspan x="0" y="5"></tspan><tspan x="0" y="10">reading the message?</tspan></text>
-    <text id="How_can_we_provide_information_to_save_reading_time_" data-name="How can we provide information to save reading time?" transform="translate(440 150)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we provide information to save reading time?</tspan></text>
-    <text id="source_check_with_friends_to_verify_the_facts-2" data-name="source check with friends to verify the facts" transform="translate(32 348)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">source check with friends to verify the facts</tspan></text>
-    <text id="T4" transform="translate(32 480)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T4</tspan></text>
-    <text id="How_can_we_add_links_to_the_source_in_the_forward_messages_" data-name="How can we add links to the source in the forward messages?" transform="translate(440 271)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we add links to the source in the forward messages?</tspan></text>
-    <text id="How_can_we_identity_messages_from_category_and_suggest_authentic_sources_" data-name="How can we identity messages from category and 
-suggest authentic sources?" transform="translate(440 287)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we identity messages from category and </tspan><tspan x="0" y="10">suggest authentic sources?</tspan></text>
-    <text id="How_can_we_add_links_to_the_source_in_the_forward_messages_2" data-name="How can we add links to the source in the forward messages?" transform="translate(440 427)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we add links to the source in the forward messages?</tspan></text>
-    <text id="How_can_we_use_the_feature_for_different_language_" data-name="How can we use the feature for different language? " transform="translate(440 451)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we use the feature for different language? </tspan></text>
-    <text id="How_can_we_add_links_to_the_source_in_the_forward_messages_3" data-name="How can we add links to the source in the forward messages?" transform="translate(438 345)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we add links to the source in the forward messages?</tspan></text>
-    <text id="When_can_we_notify_people_if_the_message_sent_is_false_" data-name="When can we notify people if the message sent is false?" transform="translate(440 509)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">When can we notify people if the message sent is false?</tspan></text>
-    <text id="How_can_we_add_more_fiction_before_sending_a_message_" data-name="How  can we add more fiction before sending a message?" transform="translate(440 555)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve">How  can we add more fiction before sending a message?</tspan></text>
-    <text id="_How_can_we_inform_users_if_the_evidence_is_present_or_not_" data-name=" How can we inform users if the evidence is present or not? " transform="translate(440 613)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve"> How can we inform users if the evidence is present or not? </tspan></text>
-    <text id="QUANTITATIVE_DATA" data-name="QUANTITATIVE DATA" transform="translate(675 74)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">QUANTITATIVE DATA</tspan></text>
-    <text id="Task_completion_TC_Time_on_Task_ToT_Single_ease_question_SEQ_" data-name="Task completion (TC), Time on Task (ToT), Single ease question (SEQ)" transform="translate(676 99)" font-size="11" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Task completion (TC), Time on Task (ToT), Single ease question (SEQ)</tspan></text>
-    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(675 134)" clip-path="url(#clip-path-2)">
-      <g transform="translate(-32.5 -128)">
-        <line id="Line_16" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+      <text id="How_can_we_provide_information_to_save_reading_time_" data-name="How can we provide information to save reading time?" transform="translate(440 150)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we provide information to save reading time?</tspan></text>
+      <text id="source_check_with_friends_to_verify_the_facts-2" data-name="source check with friends to verify the facts" transform="translate(32 348)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">source check with friends to verify the facts</tspan></text>
+      <text id="T4" transform="translate(32 480)" font-size="11" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T4</tspan></text>
+      <text id="How_can_we_add_links_to_the_source_in_the_forward_messages_" data-name="How can we add links to the source in the forward messages?" transform="translate(440 271)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we add links to the source in the forward messages?</tspan></text>
+      <text id="How_can_we_identity_messages_from_category_and_suggest_authentic_sources_" data-name="How can we identity messages from category and 
+suggest authentic sources?" transform="translate(440 293)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we identity messages from category and </tspan><tspan x="0" y="10">suggest authentic sources?</tspan></text>
+      <text id="How_can_we_use_the_feature_for_different_language_" data-name="How can we use the feature for different language? " transform="translate(440 451)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can we use the feature for different language? </tspan></text>
+      <text id="When_can_we_notify_people_if_the_message_sent_is_false_" data-name="When can we notify people if the message sent is false?" transform="translate(440 509)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">When can we notify people if the message sent is false?</tspan></text>
+      <text id="How_can_we_add_more_fiction_before_sending_a_message_" data-name="How  can we add more fiction before sending a message?" transform="translate(440 555)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve">How  can we add more fiction before sending a message?</tspan></text>
+      <text id="_How_can_we_inform_users_if_the_evidence_is_present_or_not_" data-name=" How can we inform users if the evidence is present or not? " transform="translate(440 613)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve"> How can we inform users if the evidence is present or not? </tspan></text>
+      <text id="QUANTITATIVE_DATA" data-name="QUANTITATIVE DATA" transform="translate(675 74)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">QUANTITATIVE DATA</tspan></text>
+      <text id="Task_completion_TC_Time_on_Task_ToT_Single_ease_question_SEQ_" data-name="Task completion (TC), Time on Task (ToT), Single ease question (SEQ)" transform="translate(676 99)" font-size="11" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Task completion (TC), Time on Task (ToT), Single ease question (SEQ)</tspan></text>
+      <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(675 134)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-32.5 -128)">
+          <line id="Line_16" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-32.5 -91)">
+          <line id="Line_16-2" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-32.5 -54)">
+          <line id="Line_16-3" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-32.5 -17)">
+          <line id="Line_16-4" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+        </g>
+        <g transform="translate(-32.5 20)">
+          <line id="Line_16-5" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+        </g>
       </g>
-      <g transform="translate(-32.5 -91)">
-        <line id="Line_16-2" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+      <text id="T1-2" data-name="T1" transform="translate(715 159)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T1</tspan></text>
+      <text id="T2-2" data-name="T2" transform="translate(715 198)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T2</tspan></text>
+      <text id="T3-2" data-name="T3" transform="translate(715 235)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T3</tspan></text>
+      <text id="T4-2" data-name="T4" transform="translate(715 273)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T4</tspan></text>
+      <text id="P1" transform="translate(802.563 121)" fill="#f52828" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P1</tspan></text>
+      <text id="P2" transform="translate(859.069 121)" fill="#c14ac1" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P2</tspan></text>
+      <text id="P3" transform="translate(913.574 121)" fill="#3535e2" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P3</tspan></text>
+      <text id="P4" transform="translate(974.08 121)" fill="#38bed9" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P4</tspan></text>
+      <text id="P5" transform="translate(1034.585 121)" fill="#137e48" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P5</tspan></text>
+      <text id="TOT" transform="translate(1125.009 121)" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">TOT</tspan></text>
+      <rect id="Rectangle_1529" data-name="Rectangle 1529" width="57.505" height="35.918" transform="translate(841.403 135.348)" fill="#f8004c"/>
+      <rect id="Rectangle_1530" data-name="Rectangle 1530" width="57.109" height="38.918" transform="translate(840.715 244.568)" fill="#f8004c"/>
+      <text id="_65.8_" data-name="65.8 " transform="translate(1122.913 157)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">65.8 </tspan></text>
+      <text id="_48.4" data-name="48.4" transform="translate(1122.913 196)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">48.4</tspan></text>
+      <text id="_52.6" data-name="52.6" transform="translate(1122.913 233)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">52.6</tspan></text>
+      <text id="_63.8" data-name="63.8" transform="translate(1122.913 271)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">63.8</tspan></text>
+      <text id="_sec_" data-name="(sec)" transform="translate(1126.405 130.174)" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">(sec)</tspan></text>
+      <text id="TC" transform="translate(1085.202 121)" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">TC</tspan></text>
+      <text id="_4_5" data-name="4/5" transform="translate(1081.71 157)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">4/5</tspan></text>
+      <text id="_4_5-2" data-name="4/5" transform="translate(1081.71 196)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">4/5</tspan></text>
+      <text id="_5_5" data-name="5/5" transform="translate(1081.71 233)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">5/5</tspan></text>
+      <text id="_3_5" data-name="3/5" transform="translate(1081.71 271)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">3/5</tspan></text>
+      <text id="SEQ" transform="translate(1162.022 121)" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">SEQ</tspan></text>
+      <text id="_1.6" data-name="1.6" transform="translate(1164.815 157)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">1.6</tspan></text>
+      <text id="_3.2" data-name="3.2" transform="translate(1164.117 196)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">3.2</tspan></text>
+      <text id="_1.4" data-name="1.4" transform="translate(1164.815 233)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">1.4</tspan></text>
+      <text id="_1.8" data-name="1.8" transform="translate(1164.815 271)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">1.8</tspan></text>
+      <rect id="Rectangle_1570" data-name="Rectangle 1570" width="57.109" height="38.918" transform="translate(1011.715 244.568)" fill="#f8004c"/>
+      <text id="COMPARING_TASK_TIME" data-name="COMPARING TASK TIME" transform="translate(680.5 351)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">COMPARING TASK TIME</tspan></text>
+      <rect id="Rectangle_1528" data-name="Rectangle 1528" width="160" height="152" rx="76" transform="translate(711.5 428)" fill="#f8004c"/>
+      <text id="between_current_design_X_new_wireframe" data-name="between current design X new wireframe" transform="translate(680.5 378)" font-size="11" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">between current design X new wireframe</tspan></text>
+      <path id="Icon_awesome-arrow-down" data-name="Icon awesome-arrow-down" d="M28.217,15.257l1.516,1.516a1.632,1.632,0,0,1,0,2.315L16.466,32.36a1.632,1.632,0,0,1-2.315,0L.879,19.087a1.632,1.632,0,0,1,0-2.315l1.516-1.516a1.641,1.641,0,0,1,2.342.027l7.838,8.227V3.889A1.635,1.635,0,0,1,14.213,2.25H16.4a1.635,1.635,0,0,1,1.639,1.639V23.512l7.838-8.227A1.629,1.629,0,0,1,28.217,15.257Z" transform="translate(833.209 479.866)" fill="#fff"/>
+      <g id="Group_72" data-name="Group 72" transform="translate(745.576 463.496)">
+        <text id="_20_" data-name="20%" transform="translate(8.924 40.504)" fill="#fff" font-size="39" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">20%</tspan></text>
+        <text id="task_time" data-name="task time" transform="translate(-0.076 65.504)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">task time</tspan></text>
       </g>
-      <g transform="translate(-32.5 -54)">
-        <line id="Line_16-3" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+      <rect id="Rectangle_1528-2" data-name="Rectangle 1528" width="160" height="152" rx="76" transform="translate(934.5 428)" fill="#f8004c"/>
+      <text id="T2_-_T4" data-name="T2 - T4" transform="translate(989.5 607)" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">T2 - T4</tspan></text>
+      <path id="Icon_awesome-arrow-down-2" data-name="Icon awesome-arrow-down" d="M28.217,19.835l1.516-1.516a1.632,1.632,0,0,0,0-2.315L16.466,2.731a1.632,1.632,0,0,0-2.315,0L.879,16a1.632,1.632,0,0,0,0,2.315l1.516,1.516a1.641,1.641,0,0,0,2.342-.027l7.838-8.227V31.2a1.635,1.635,0,0,0,1.639,1.639H16.4A1.635,1.635,0,0,0,18.037,31.2V11.58l7.838,8.227A1.629,1.629,0,0,0,28.217,19.835Z" transform="translate(1056.126 477.026)" fill="#fff"/>
+      <g id="Group_71" data-name="Group 71" transform="translate(968.492 463.496)">
+        <text id="_31_" data-name="31%" transform="translate(14.008 40.504)" fill="#fff" font-size="39" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">31%</tspan></text>
+        <text id="task_time-2" data-name="task time" transform="translate(0.008 65.504)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">task time</tspan></text>
       </g>
-      <g transform="translate(-32.5 -17)">
-        <line id="Line_16-4" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+      <text id="T1_-_T3" data-name="T1 - T3" transform="translate(766.5 607)" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">T1 - T3</tspan></text>
+      <line id="Line_17-6" data-name="Line 17" y2="490" transform="translate(25.719 133.5)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+      <line id="Line_19" data-name="Line 19" x1="0.219" y2="489.519" transform="translate(661.5 133.981)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+      <line id="Line_20" data-name="Line 20" x2="635.541" transform="translate(25.959 623.74)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+      <g id="Repeat_Grid_16" data-name="Repeat Grid 16" transform="translate(25.959 133.24)" clip-path="url(#clip-path-3)">
+        <g transform="translate(-25.959 -133.24)">
+          <line id="Line_21" data-name="Line 21" x2="635.541" transform="translate(25.959 133.74)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+        </g>
       </g>
-      <g transform="translate(-32.5 20)">
-        <line id="Line_16-5" data-name="Line 16" x2="1172" transform="translate(32.5 128.5)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="1"/>
+      <g id="Group_75" data-name="Group 75" opacity="0.53">
+        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(783.596 133.999)" clip-path="url(#clip-path-4)">
+          <g transform="translate(-32 -53.5)">
+            <line id="Line_17-7" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
+          </g>
+          <g transform="translate(25 -53.5)">
+            <line id="Line_17-8" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
+          </g>
+          <g transform="translate(82 -53.5)">
+            <line id="Line_17-9" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
+          </g>
+          <g transform="translate(139 -53.5)">
+            <line id="Line_17-10" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
+          </g>
+          <g transform="translate(196 -53.5)">
+            <line id="Line_17-11" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
+          </g>
+          <g transform="translate(253 -53.5)">
+            <line id="Line_17-12" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
+          </g>
+        </g>
+        <line id="Line_18" data-name="Line 18" y2="148.803" transform="translate(675.698 134.697)" fill="none" stroke="#cacace" stroke-width="1"/>
+        <line id="Line_22" data-name="Line 22" y2="148.803" transform="translate(1186.698 134.697)" fill="none" stroke="#cacace" stroke-width="1"/>
       </g>
+      <text id="Read_important_information" data-name="Read important information" transform="translate(30 656)" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Read important information</tspan></text>
+      <text id="Verify_information" data-name="Verify information" transform="translate(29 678)" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Verify information</tspan></text>
+      <text id="current" transform="translate(192 640)" font-size="10" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">current</tspan></text>
+      <text id="T1-3" data-name="T1" transform="translate(208 657)" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T1</tspan></text>
+      <text id="wireframe" transform="translate(253 640)" font-size="10" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">wireframe</tspan></text>
+      <text id="T3-3" data-name="T3" transform="translate(277 657)" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T3</tspan></text>
+      <text id="T2-3" data-name="T2" transform="translate(207 679)" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T2</tspan></text>
+      <text id="T4-3" data-name="T4" transform="translate(277 679)" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T4</tspan></text>
+      <rect id="Rectangle_1571" data-name="Rectangle 1571" width="16" height="15" transform="translate(676 295)" fill="#f8004c"/>
+      <text id="Task_failed" data-name="Task failed" transform="translate(698 307)" font-size="9" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Task failed</tspan></text>
+      <line id="Line_21-2" data-name="Line 21" x2="635.541" transform="translate(25.959 263.74)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+      <line id="Line_21-3" data-name="Line 21" x2="635.541" transform="translate(25.959 334.74)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+      <line id="Line_23" data-name="Line 23" x2="635.541" transform="translate(25.959 485.74)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
+      <text id="How_can_inform_user_about_the_number_the_message_that_is_unread_" data-name="How can inform user about the number the message that
+is unread?" transform="translate(440 393)" font-size="7" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How can inform user about the number the message that</tspan><tspan x="0" y="10">is unread?</tspan></text>
+      <rect id="Rectangle_1578" data-name="Rectangle 1578" width="57.505" height="37.918" transform="translate(954.403 171.348)" fill="#f8004c"/>
     </g>
-    <text id="T1-2" data-name="T1" transform="translate(715 159)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T1</tspan></text>
-    <text id="T2-2" data-name="T2" transform="translate(715 199)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T2</tspan></text>
-    <text id="T3-2" data-name="T3" transform="translate(715 239)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T3</tspan></text>
-    <text id="T4-2" data-name="T4" transform="translate(715 279)" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">T4</tspan></text>
-    <text id="P1" transform="translate(802.564 126)" fill="#f52828" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P1</tspan></text>
-    <text id="P2" transform="translate(859.069 126)" fill="#c14ac1" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P2</tspan></text>
-    <text id="P3" transform="translate(913.574 126)" fill="#3535e2" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P3</tspan></text>
-    <text id="P4" transform="translate(974.079 126)" fill="#38bed9" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P4</tspan></text>
-    <text id="P5" transform="translate(1034.585 126)" fill="#137e48" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">P5</tspan></text>
-    <text id="TOT" transform="translate(1125.009 121)" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">TOT</tspan></text>
-    <rect id="Rectangle_1529" data-name="Rectangle 1529" width="57.505" height="35.918" transform="translate(841.403 135.348)" fill="#ce6b46"/>
-    <rect id="Rectangle_1530" data-name="Rectangle 1530" width="57.109" height="38.918" transform="translate(840.715 244.568)" fill="#ce6b46"/>
-    <g id="Group_62" data-name="Group 62" transform="translate(1122.913 145.522)">
-      <text id="_65.8_" data-name="65.8 " transform="translate(0 9)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">65.8 </tspan></text>
-      <text id="_48.4" data-name="48.4" transform="translate(0 43.918)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">48.4</tspan></text>
-      <text id="_52.6" data-name="52.6" transform="translate(0 78.837)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">52.6</tspan></text>
-      <text id="_63.8" data-name="63.8" transform="translate(0 113.755)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">63.8</tspan></text>
-    </g>
-    <text id="_sec_" data-name="(sec)" transform="translate(1126.405 130.174)" font-size="7" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">(sec)</tspan></text>
-    <text id="TC" transform="translate(1085.202 121)" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">TC</tspan></text>
-    <text id="_4_5" data-name="4/5" transform="translate(1081.71 154.522)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">4/5</tspan></text>
-    <text id="_4_5-2" data-name="4/5" transform="translate(1081.71 189.44)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">4/5</tspan></text>
-    <text id="_5_5" data-name="5/5" transform="translate(1081.71 224.358)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">5/5</tspan></text>
-    <text id="_3_5" data-name="3/5" transform="translate(1081.71 259.277)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">3/5</tspan></text>
-    <text id="SEQ" transform="translate(1162.022 121)" font-size="9" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">SEQ</tspan></text>
-    <text id="_1.6" data-name="1.6" transform="translate(1164.815 154.522)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">1.6</tspan></text>
-    <text id="_3.2" data-name="3.2" transform="translate(1164.117 189.44)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">3.2</tspan></text>
-    <text id="_1.4" data-name="1.4" transform="translate(1164.815 224.358)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">1.4</tspan></text>
-    <text id="_1.8" data-name="1.8" transform="translate(1164.815 259.277)" font-size="9" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">1.8</tspan></text>
-    <rect id="Rectangle_1570" data-name="Rectangle 1570" width="57.109" height="38.918" transform="translate(1011.715 244.568)" fill="#ce6b46"/>
-    <text id="COMPARING_TASK_TIME" data-name="COMPARING TASK TIME" transform="translate(680.5 351)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">COMPARING TASK TIME</tspan></text>
-    <rect id="Rectangle_1528" data-name="Rectangle 1528" width="160" height="152" rx="76" transform="translate(711.5 428)" fill="#f8004c"/>
-    <text id="between_current_design_X_new_design" data-name="between current design X new design" transform="translate(680.5 378)" font-size="11" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">between current design X new design</tspan></text>
-    <path id="Icon_awesome-arrow-down" data-name="Icon awesome-arrow-down" d="M28.217,15.257l1.516,1.516a1.632,1.632,0,0,1,0,2.315L16.466,32.36a1.632,1.632,0,0,1-2.315,0L.879,19.087a1.632,1.632,0,0,1,0-2.315l1.516-1.516a1.641,1.641,0,0,1,2.342.027l7.838,8.227V3.889A1.635,1.635,0,0,1,14.213,2.25H16.4a1.635,1.635,0,0,1,1.639,1.639V23.512l7.838-8.227A1.629,1.629,0,0,1,28.217,15.257Z" transform="translate(833.209 479.866)" fill="#fff"/>
-    <g id="Group_72" data-name="Group 72" transform="translate(745.576 463.496)">
-      <text id="_20_" data-name="20%" transform="translate(8.924 40.504)" fill="#fff" font-size="39" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">20%</tspan></text>
-      <text id="task_time" data-name="task time" transform="translate(-0.076 65.504)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">task time</tspan></text>
-    </g>
-    <rect id="Rectangle_1528-2" data-name="Rectangle 1528" width="160" height="152" rx="76" transform="translate(934.5 428)" fill="#f8004c"/>
-    <text id="T2_-_T4" data-name="T2 - T4" transform="translate(989.5 607)" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">T2 - T4</tspan></text>
-    <path id="Icon_awesome-arrow-down-2" data-name="Icon awesome-arrow-down" d="M28.217,19.835l1.516-1.516a1.632,1.632,0,0,0,0-2.315L16.466,2.731a1.632,1.632,0,0,0-2.315,0L.879,16a1.632,1.632,0,0,0,0,2.315l1.516,1.516a1.641,1.641,0,0,0,2.342-.027l7.838-8.227V31.2a1.635,1.635,0,0,0,1.639,1.639H16.4A1.635,1.635,0,0,0,18.037,31.2V11.58l7.838,8.227A1.629,1.629,0,0,0,28.217,19.835Z" transform="translate(1056.126 477.026)" fill="#fff"/>
-    <g id="Group_71" data-name="Group 71" transform="translate(968.492 463.496)">
-      <text id="_31_" data-name="31%" transform="translate(14.008 40.504)" fill="#fff" font-size="39" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">31%</tspan></text>
-      <text id="task_time-2" data-name="task time" transform="translate(0.008 65.504)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">task time</tspan></text>
-    </g>
-    <text id="T1_-_T3" data-name="T1 - T3" transform="translate(766.5 607)" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">T1 - T3</tspan></text>
-    <line id="Line_17-6" data-name="Line 17" y2="485.519" transform="translate(25.719 137.981)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-    <line id="Line_19" data-name="Line 19" x1="0.219" y2="489.519" transform="translate(661.5 133.981)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-    <line id="Line_20" data-name="Line 20" x2="635.541" transform="translate(25.959 623.74)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-    <line id="Line_21" data-name="Line 21" x2="635.541" transform="translate(25.959 133.74)" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="1"/>
-    <g id="Group_75" data-name="Group 75" opacity="0.53">
-      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(783.596 133.999)" clip-path="url(#clip-path-3)">
-        <g transform="translate(-32 -53.5)">
-          <line id="Line_17-7" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
-        </g>
-        <g transform="translate(25 -53.5)">
-          <line id="Line_17-8" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
-        </g>
-        <g transform="translate(82 -53.5)">
-          <line id="Line_17-9" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
-        </g>
-        <g transform="translate(139 -53.5)">
-          <line id="Line_17-10" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
-        </g>
-        <g transform="translate(196 -53.5)">
-          <line id="Line_17-11" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
-        </g>
-        <g transform="translate(253 -53.5)">
-          <line id="Line_17-12" data-name="Line 17" y2="717" transform="translate(32.5 53.5)" fill="none" stroke="rgba(0,0,0,0.19)" stroke-width="1"/>
-        </g>
-      </g>
-      <line id="Line_18" data-name="Line 18" y2="148.803" transform="translate(675.698 134.697)" fill="none" stroke="#cacace" stroke-width="1"/>
-      <line id="Line_22" data-name="Line 22" y2="148.803" transform="translate(1186.698 134.697)" fill="none" stroke="#cacace" stroke-width="1"/>
-    </g>
-    <text id="Read_important_information" data-name="Read important information" transform="translate(30 656)" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Read important information</tspan></text>
-    <text id="Verify_information" data-name="Verify information" transform="translate(29 678)" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Verify information</tspan></text>
-    <text id="current" transform="translate(192 640)" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">current</tspan></text>
-    <text id="T1-3" data-name="T1" transform="translate(208 657)" fill="#f8004c" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T1</tspan></text>
-    <text id="wireframe" transform="translate(253 640)" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">wireframe</tspan></text>
-    <text id="T3-3" data-name="T3" transform="translate(277 657)" fill="#f8004c" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T3</tspan></text>
-    <text id="T2-3" data-name="T2" transform="translate(207 679)" fill="#f8004c" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T2</tspan></text>
-    <text id="T4-3" data-name="T4" transform="translate(277 679)" fill="#f8004c" font-size="12" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">T4</tspan></text>
-    <rect id="Rectangle_1571" data-name="Rectangle 1571" width="16" height="15" transform="translate(322 667)" fill="#ce6b46"/>
-    <text id="Task_failed" data-name="Task failed" transform="translate(344 679)" font-size="9" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Task failed</tspan></text>
   </g>
 </svg>

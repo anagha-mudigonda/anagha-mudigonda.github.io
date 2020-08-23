@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-impact-frequency">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="impact-frequency" clip-path="url(#clip-impact-frequency)">
+    <rect width="1920" height="1080" fill="#f8f9fd"/>
+    <g id="frame">
+      <g id="Rectangle_147669" data-name="Rectangle 147669" transform="translate(180 200)" fill="none" stroke="#e0e0e0" stroke-width="4">
+        <rect width="820" height="360" stroke="none"/>
+        <rect x="2" y="2" width="816" height="356" fill="none"/>
+      </g>
+      <g id="Rectangle_147672" data-name="Rectangle 147672" transform="translate(180 560)" fill="none" stroke="#e0e0e0" stroke-width="4">
+        <rect width="820" height="360" stroke="none"/>
+        <rect x="2" y="2" width="816" height="356" fill="none"/>
+      </g>
+      <g id="Rectangle_147670" data-name="Rectangle 147670" transform="translate(1000 200)" fill="none" stroke="#e0e0e0" stroke-width="4">
+        <rect width="820" height="360" stroke="none"/>
+        <rect x="2" y="2" width="816" height="356" fill="none"/>
+      </g>
+      <g id="Rectangle_147671" data-name="Rectangle 147671" transform="translate(1000 560)" fill="none" stroke="#e0e0e0" stroke-width="4">
+        <rect width="820" height="360" stroke="none"/>
+        <rect x="2" y="2" width="816" height="356" fill="none"/>
+      </g>
+    </g>
+    <text id="label" transform="translate(118 300) rotate(-90)" fill="#101010" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Impact +</tspan></text>
+    <text id="label-2" data-name="label" transform="translate(118 958) rotate(-90)" fill="#101010" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Impact -</tspan></text>
+    <text id="label-3" data-name="label" transform="translate(1684 997)" fill="#101010" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Frequency +</tspan></text>
+    <text id="label-4" data-name="label" transform="translate(140 998)" fill="#101010" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Frequency -</tspan></text>
+    <g id="Element_-_Flowchart_connector_Straight_b_" data-name="Element - Flowchart connector [Straight b]" transform="translate(147 960) rotate(180)">
+      <path id="line_color_border_" data-name="line [color_border]" d="M389,100V860" transform="translate(-382 -100)" fill="none" stroke="#101010" stroke-width="4"/>
+      <g id="arrow_head" data-name="arrow head" transform="translate(14.143 752.929) rotate(135)">
+        <line id="line_color_border_2" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+        <line id="line_color_border_3" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+      </g>
+    </g>
+    <g id="Element_-_Flowchart_connector_Straight_b_2" data-name="Element - Flowchart connector [Straight b]" transform="translate(140.001 965) rotate(-90)">
+      <path id="line_color_border_4" data-name="line [color_border]" d="M389,100V1780" transform="translate(-382 -100)" fill="none" stroke="#101010" stroke-width="4"/>
+      <g id="arrow_head-2" data-name="arrow head" transform="translate(14.143 1672.929) rotate(135)">
+        <line id="line_color_border_5" data-name="line [color_border]" x2="10" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+        <line id="line_color_border_6" data-name="line [color_border]" y2="10" transform="translate(10)" fill="none" stroke="#101010" stroke-linecap="round" stroke-width="3.5"/>
+      </g>
+    </g>
+    <text id="High_impact_Low_Effort" data-name="High impact, Low Effort" transform="translate(260 245)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">High impact, Low Frequency</tspan></text>
+    <text id="Low_impact_Low_Effort" data-name="Low impact, Low Effort" transform="translate(260 607)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Low impact, Low Frequency</tspan></text>
+    <text id="High_impact_High_Effort" data-name="High impact, High Effort" transform="translate(1080 243)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">High impact, High Frequency</tspan></text>
+    <text id="Low_impact_High_Effort" data-name="Low impact, High Effort" transform="translate(1080 603)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Low impact, High Frequency</tspan></text>
+    <g id="Emotion_-_Love_-_Element" data-name="Emotion - Love - Element" transform="translate(200 220)">
+      <path id="ellipse_color_border_" data-name="ellipse [color_border]" d="M40,20A20,20,0,1,1,20,0,20,20,0,0,1,40,20Z" fill="#fff" stroke="#26cc2c" stroke-linecap="round" stroke-width="3.5"/>
+      <path id="line_color_border_7" data-name="line [color_border]" d="M328.594,484.948a10,10,0,0,1-17.322,0" transform="translate(-299.933 -459.946)" fill="none" stroke="#26cc2c" stroke-linecap="round" stroke-width="3.5"/>
+      <path id="line_color_border_8" data-name="line [color_border]" d="M5.75,0A2.24,2.24,0,0,0,4,.838,2.249,2.249,0,0,0,0,2.25C0,4.912,3.739,7.842,3.9,7.965a.166.166,0,0,0,.2,0C4.261,7.842,8,4.912,8,2.25A2.253,2.253,0,0,0,5.75,0Z" transform="translate(9 11)" fill="none" stroke="#26cc2c" stroke-linecap="round" stroke-width="3.5"/>
+      <path id="line_color_border_9" data-name="line [color_border]" d="M5.75,0A2.24,2.24,0,0,0,4,.838,2.249,2.249,0,0,0,0,2.25C0,4.912,3.739,7.842,3.9,7.965a.166.166,0,0,0,.2,0C4.261,7.842,8,4.912,8,2.25A2.253,2.253,0,0,0,5.75,0Z" transform="translate(23 11)" fill="none" stroke="#26cc2c" stroke-linecap="round" stroke-width="3.5"/>
+    </g>
+    <g id="Emotion_-_Sad_-_Element" data-name="Emotion - Sad - Element" transform="translate(1020 580)">
+      <path id="ellipse_color_border_2" data-name="ellipse [color_border]" d="M40,20A20,20,0,1,1,20,0,20,20,0,0,1,40,20Z" fill="#fff" stroke="#fd80ac" stroke-linecap="round" stroke-width="3.5"/>
+      <path id="line_color_border_10" data-name="line [color_border]" d="M328.594,489.946a10,10,0,0,0-17.322,0" transform="translate(-299.933 -459.946)" fill="none" stroke="#fd80ac" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_11" data-name="line [color_border]" y2="4" transform="translate(13 13.998)" fill="none" stroke="#fd80ac" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_12" data-name="line [color_border]" y2="4" transform="translate(27 13.998)" fill="none" stroke="#fd80ac" stroke-linecap="round" stroke-width="3.5"/>
+    </g>
+    <g id="Emotion_-_Uninterested_-_Element" data-name="Emotion - Uninterested - Element" transform="translate(1020 220)">
+      <path id="ellipse_color_border_3" data-name="ellipse [color_border]" d="M40,20A20,20,0,1,1,20,0,20,20,0,0,1,40,20Z" fill="#fff" stroke="#feac80" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_13" data-name="line [color_border]" y2="4" transform="translate(13 13.998)" fill="none" stroke="#feac80" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_14" data-name="line [color_border]" y2="4" transform="translate(27 13.998)" fill="none" stroke="#feac80" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_15" data-name="line [color_border]" x2="14" transform="translate(13.5 26.5)" fill="none" stroke="#feac80" stroke-linecap="round" stroke-width="3.5"/>
+    </g>
+    <g id="Emotion_-_Uninterested_-_Element-2" data-name="Emotion - Uninterested - Element" transform="translate(200 580)">
+      <path id="ellipse_color_border_4" data-name="ellipse [color_border]" d="M40,20A20,20,0,1,1,20,0,20,20,0,0,1,40,20Z" fill="#fff" stroke="#7ee1ff" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_16" data-name="line [color_border]" y2="4" transform="translate(13 13.998)" fill="none" stroke="#7ee1ff" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_17" data-name="line [color_border]" y2="4" transform="translate(27 13.998)" fill="none" stroke="#7ee1ff" stroke-linecap="round" stroke-width="3.5"/>
+      <line id="line_color_border_18" data-name="line [color_border]" x2="14" transform="translate(13.5 26.5)" fill="none" stroke="#7ee1ff" stroke-linecap="round" stroke-width="3.5"/>
+    </g>
+    <g id="Post-It_Element" data-name="Post-It Element" transform="translate(200 318)">
+      <g id="background_color_fill_" data-name="background [color_fill]" fill="#26cc2c" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-5" data-name="label" transform="translate(10 33)" fill="#101010" font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Seeing </tspan><tspan x="0" y="18">&quot;forward&quot;tag turns </tspan><tspan x="0" y="36">me off from </tspan><tspan x="0" y="54">reading the </tspan><tspan x="0" y="72">message</tspan></text>
+      <g id="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-2" data-name="Post-It Element" transform="translate(1020 318)">
+      <g id="background_color_fill_2" data-name="background [color_fill]" fill="#ffac80" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-6" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15">verify the facts and </tspan><tspan x="0" y="36">later on google</tspan></text>
+      <g id="sticker-2" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-3" data-name="Post-It Element" transform="translate(200 698)">
+      <g id="background_color_fill_3" data-name="background [color_fill]" fill="#7ee1ff" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-7" data-name="label" transform="translate(10 40)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Useful feature is </tspan><tspan x="0" y="21">confusing</tspan></text>
+      <g id="sticker-3" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-4" data-name="Post-It Element" transform="translate(1020 698)">
+      <g id="background_color_fill_4" data-name="background [color_fill]" fill="#ff80ac" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-8" data-name="label" transform="translate(10 45)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Adding history </tspan><tspan x="0" y="21">when the message </tspan><tspan x="0" y="42" xml:space="preserve">started   </tspan><tspan x="0" y="63"></tspan></text>
+      <g id="sticker-4" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-5" data-name="Post-It Element" transform="translate(380 360)">
+      <g id="background_color_fill_5" data-name="background [color_fill]" fill="#26cc2c" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-9" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15" xml:space="preserve"> length of the </tspan><tspan x="0" y="36">message and who </tspan><tspan x="0" y="57">is sending </tspan></text>
+      <g id="sticker-5" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-6" data-name="Post-It Element" transform="translate(1200 360)">
+      <g id="background_color_fill_6" data-name="background [color_fill]" fill="#ffac80" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-10" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15" xml:space="preserve"> length of the </tspan><tspan x="0" y="36">message and who </tspan><tspan x="0" y="57">is sending </tspan></text>
+      <g id="sticker-6" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-7" data-name="Post-It Element" transform="translate(380 740)">
+      <g id="background_color_fill_7" data-name="background [color_fill]" fill="#7ee1ff" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-11" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15">not sure what </tspan><tspan x="0" y="36">&quot;New&quot; tag means </tspan></text>
+      <g id="sticker-7" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-8" data-name="Post-It Element" transform="translate(1200 740)">
+      <g id="background_color_fill_8" data-name="background [color_fill]" fill="#ff80ac" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-12" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15">Valid check before </tspan><tspan x="0" y="36">sharing the </tspan><tspan x="0" y="57" xml:space="preserve">information        </tspan></text>
+      <g id="sticker-8" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-9" data-name="Post-It Element" transform="translate(560 300)">
+      <g id="background_color_fill_9" data-name="background [color_fill]" fill="#26cc2c" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-13" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="10">summary feature </tspan><tspan x="0" y="30" xml:space="preserve">saves the time        </tspan></text>
+      <g id="sticker-9" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-10" data-name="Post-It Element" transform="translate(1380 300)">
+      <g id="background_color_fill_10" data-name="background [color_fill]" fill="#ffac80" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-14" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15">add true links for </tspan><tspan x="0" y="36" xml:space="preserve">information.                      </tspan></text>
+      <g id="sticker-10" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-11" data-name="Post-It Element" transform="translate(560 680)">
+      <g id="background_color_fill_11" data-name="background [color_fill]" fill="#7ee1ff" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-15" data-name="label" transform="translate(10 30)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="15">useful feature can </tspan><tspan x="0" y="36">be biased, need </tspan><tspan x="0" y="57">more explanation</tspan></text>
+      <g id="sticker-11" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-12" data-name="Post-It Element" transform="translate(1380 680)">
+      <g id="background_color_fill_12" data-name="background [color_fill]" fill="#ff80ac" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="120" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="119" fill="none"/>
+      </g>
+      <text id="label-16" data-name="label" transform="translate(10 40)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">&quot;Forward messages </tspan><tspan x="0" y="21">should have a tag </tspan><tspan x="0" y="42">that says 1) verified / </tspan><tspan x="0" y="63">not verified</tspan><tspan x="0" y="84">&quot;</tspan></text>
+      <g id="sticker-12" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+    <g id="Post-It_Element-13" data-name="Post-It Element" transform="translate(1560 344)">
+      <g id="background_color_fill_13" data-name="background [color_fill]" fill="#ffac80" stroke="rgba(0,0,0,0)" stroke-width="1">
+        <rect width="160" height="161" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="160" fill="none"/>
+      </g>
+      <text id="label-17" data-name="label" transform="translate(10 45)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">why the message </tspan><tspan x="0" y="21">is false. if there is </tspan><tspan x="0" y="42">not evidence, the </tspan><tspan x="0" y="63">message should </tspan><tspan x="0" y="84">appear that it is </tspan><tspan x="0" y="105">not trust worthy </tspan></text>
+      <g id="sticker-13" data-name="sticker" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate">
+        <rect width="160" height="20" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="19" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

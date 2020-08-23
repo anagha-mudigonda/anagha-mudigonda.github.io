@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2763" height="799" viewBox="0 0 2763 799">
+  <defs>
+    <clipPath id="clip-renaming">
+      <rect width="2763" height="799"/>
+    </clipPath>
+  </defs>
+  <g id="renaming" clip-path="url(#clip-renaming)">
+    <rect width="2763" height="799" fill="#fff"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(93 83)" fill="none" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2532" height="625" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2531" height="624" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start" transform="translate(165 158)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0">names(student_environment)[names(student_environment) == &quot;Medu&quot;] &lt;- &quot;mothers.education&quot;</tspan><tspan x="0" y="60">names(student_environment)[names(student_environment) == &quot;Fedu&quot;] &lt;- &quot;fathers.education&quot;</tspan><tspan x="0" y="120">names(student_environment)[names(student_environment) == &quot;Mjob&quot;] &lt;- &quot;mothers.job&quot;</tspan><tspan x="0" y="180">names(student_environment)[names(student_environment) == &quot;Fjob&quot;] &lt;- &quot;fathers.job&quot;</tspan><tspan x="0" y="240">names(student_environment)[names(student_environment) == &quot;schoolsup&quot;] &lt;- &quot;school.support&quot;</tspan><tspan x="0" y="300">names(student_environment)[names(student_environment) == &quot;famsup&quot;] &lt;- &quot;family.support&quot;</tspan><tspan x="0" y="360">names(student_environment)[names(student_environment) == &quot;internet&quot;] &lt;- &quot;internet.home&quot;</tspan><tspan x="0" y="420">names(student_environment)[names(student_environment) == &quot;famrel&quot;] &lt;- &quot;family.relationship&quot;</tspan><tspan x="0" y="480">names(student_environment)[names(student_environment) == &quot;G3&quot;] &lt;- &quot;math.finalgrade&quot;</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2586" height="1073" viewBox="0 0 2586 1073">
+  <defs>
+    <clipPath id="clip-measure-train-model">
+      <rect width="2586" height="1073"/>
+    </clipPath>
+  </defs>
+  <g id="measure-train-model" clip-path="url(#clip-measure-train-model)">
+    <rect width="2586" height="1073" fill="#f8f9fd"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(79 79)" fill="#f6f6f6" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2436" height="167" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2435" height="166" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start" transform="translate(105 176)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0">tab_model(train_model.s1)</tspan></text>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(75 323)" fill="none" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2436" height="647" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2435" height="646" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start-2" data-name="Start" transform="translate(123 371)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0"></tspan><tspan x="0" y="43">finalgrade</tspan><tspan x="0" y="86">Predictors	Estimates	CI	p</tspan><tspan x="0" y="129">(Intercept)	-1.97	-2.91 – -1.03	&lt;0.001</tspan><tspan x="0" y="172">G1	0.17	0.05 – 0.29	0.006</tspan><tspan x="0" y="215">G2	0.97	0.87 – 1.08	&lt;0.001</tspan><tspan x="0" y="258">internet [yes]	-0.20	-0.81 – 0.41	0.521</tspan><tspan x="0" y="301">Mjob [health]	0.23	-0.69 – 1.15	0.622</tspan><tspan x="0" y="344">Mjob [other]	0.41	-0.26 – 1.08	0.233</tspan><tspan x="0" y="387">Mjob [services]	0.41	-0.30 – 1.13	0.257</tspan><tspan x="0" y="430">Mjob [teacher]	0.31	-0.50 – 1.12	0.450</tspan><tspan x="0" y="473">Observations	349</tspan><tspan x="0" y="516">R2 / R2 adjusted	</tspan><tspan y="516" font-family="CourierNewPS-BoldMT, Courier New" font-weight="700">0.820</tspan><tspan y="516" xml:space="preserve"> / 0.816</tspan></text>
+  </g>
+</svg>

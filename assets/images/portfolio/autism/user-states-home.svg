@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1683" viewBox="0 0 1920 1683">
+  <defs>
+    <clipPath id="clip-user-states-home">
+      <rect width="1920" height="1683"/>
+    </clipPath>
+  </defs>
+  <g id="user-states-home" clip-path="url(#clip-user-states-home)">
+    <rect width="1920" height="1683" fill="#fff"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="650" cy="650" r="650" transform="translate(275 192)" fill="#f8f9fd"/>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(459 382)" fill="#f3f3f3" stroke="#ebefda" stroke-width="1">
+      <circle cx="466" cy="466" r="466" stroke="none"/>
+      <circle cx="466" cy="466" r="465.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="23.5" cy="23.5" r="23.5" transform="translate(902 818)" fill="#fff"/>
+    <line id="Line_1" data-name="Line 1" y2="1311" transform="translate(925.5 192.5)" fill="none" stroke="#fff" stroke-width="9"/>
+    <line id="Line_2" data-name="Line 2" y2="1311" transform="translate(1581 848) rotate(90)" fill="none" stroke="#fff" stroke-width="9"/>
+    <text id="SENSORY" transform="translate(1358 219)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">SENSORY</tspan></text>
+    <text id="COGNITIVE" transform="translate(1575 1030)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">COGNITIVE</tspan></text>
+    <text id="COMMUNICATION" transform="translate(1276 1497)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">COMMUNICATION</tspan></text>
+    <text id="TEMPORAL" transform="translate(366 1485)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">TEMPORAL</tspan></text>
+    <text id="DEVICE" transform="translate(154 590)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">DEVICE</tspan></text>
+    <text id="SOCIAL" transform="translate(421 203)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">SOCIAL</tspan></text>
+    <text id="DEXTERITY" transform="translate(1581 590)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">DEXTERITY</tspan></text>
+    <text id="LEARNING" transform="translate(128 1030)" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">LEARNING</tspan></text>
+    <text id="can_see_well" data-name="can see well" transform="translate(987 285)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">can see well</tspan></text>
+    <text id="can_hear_well" data-name="can hear well" transform="translate(1179 388)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">can hear well</tspan></text>
+    <text id="difficult_to_speak" data-name="difficult to speak" transform="translate(1300 488)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">difficult to speak</tspan></text>
+    <text id="needs_an_alternative_to_speak" data-name="needs an alternative 
+to speak" transform="translate(1227 578)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="-221.613" y="0">needs an alternative </tspan><tspan x="-89.187" y="31">to speak</tspan></text>
+    <text id="needs_bigger_touch_targets" data-name="needs bigger 
+touch targets" transform="translate(1132 698)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">needs bigger </tspan><tspan x="0" y="31">touch targets</tspan></text>
+    <text id="use_touch_screens" data-name="use touch
+screens" transform="translate(1403 616)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">use touch</tspan><tspan x="0" y="27">screens</tspan></text>
+    <text id="needs_simplified_layout" data-name="needs simplified 
+layout" transform="translate(1162 940)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">needs simplified </tspan><tspan x="0" y="31">layout</tspan></text>
+    <text id="scans_the_UI_for_visuals" data-name="scans the
+UI for visuals" transform="translate(1431 993)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">scans the</tspan><tspan x="0" y="27">UI for visuals</tspan></text>
+    <text id="difficult_to_read_long_sentences" data-name="difficult to read long
+sentences" transform="translate(1155 1333)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">difficult to read long</tspan><tspan x="0" y="27">sentences</tspan></text>
+    <text id="needs_simplified_content" data-name="needs simplified
+content" transform="translate(1029 1096)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">needs simplified</tspan><tspan x="0" y="31">content</tspan></text>
+    <text id="less_concentration" data-name="less concentration" transform="translate(583 1340)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">less concentration</tspan></text>
+    <text id="needs_shorter_interaction_sessions" data-name="needs shorter interaction
+sessions" transform="translate(655 1182)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">needs shorter interaction</tspan><tspan x="0" y="31">sessions</tspan></text>
+    <text id="needs_personalized_interventions" data-name="needs personalized 
+interventions" transform="translate(532 940)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">needs personalized </tspan><tspan x="0" y="31">interventions</tspan></text>
+    <text id="special_learning_interventions" data-name="special learning
+interventions" transform="translate(316 988)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">special learning</tspan><tspan x="0" y="27">interventions</tspan></text>
+    <text id="has_a_xbox" data-name="has a xbox" transform="translate(413 526)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">has a xbox</tspan></text>
+    <text id="conntectivity" transform="translate(687 728)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="-136.983" y="0">conntectivity</tspan></text>
+    <text id="personalization" transform="translate(637 608)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">personalization</tspan></text>
+    <text id="no_distractions" data-name="no distractions" transform="translate(637 295)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">no distractions</tspan></text>
+    <text id="has_a_mobile_phone" data-name="has a mobile
+phone" transform="translate(334 638)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">has a mobile</tspan><tspan x="0" y="31">phone</tspan></text>
+    <text id="has_a_tablet" data-name="has a tablet" transform="translate(311 787)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">has a tablet</tspan></text>
+    <text id="less_notifications" data-name="less notifications" transform="translate(744 482)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">less notifications</tspan></text>
+    <text id="quite_environment" data-name="quite environment" transform="translate(516 390)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">quite environment</tspan></text>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="9.5" cy="9.5" r="9.5" transform="translate(1086 687)" fill="#f8004c"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="9.5" cy="9.5" r="9.5" transform="translate(711 466)" fill="#f8004c"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="9.5" cy="9.5" r="9.5" transform="translate(550 1331)" fill="#f8004c"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" cx="9.5" cy="9.5" r="9.5" transform="translate(1096 929)" fill="#f8004c"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="9.5" cy="9.5" r="9.5" transform="translate(1042 1029)" fill="#f8004c"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="9.5" cy="9.5" r="9.5" transform="translate(378 508)" fill="#f8004c"/>
+    <text id="USER_STATES_AND_CONTEXTS" data-name="USER STATES AND CONTEXTS" transform="translate(753 73)" font-size="27" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">USER STATES AND CONTEXTS</tspan></text>
+    <text id="anxiety" transform="translate(394 1161)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">anxiety</tspan></text>
+    <text id="needs_assistance_for_coping_stategies" data-name="needs assistance for
+coping stategies" transform="translate(550 1067)" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">needs assistance for</tspan><tspan x="0" y="31">coping stategies</tspan></text>
+    <text id="use_keyboards" data-name="use keyboards" transform="translate(1425 725)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">use keyboards</tspan></text>
+    <text id="_at_home" data-name=" at home" transform="translate(1716 1624)" font-size="33" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0" xml:space="preserve"> at home</tspan></text>
+    <rect id="Rectangle_1529" data-name="Rectangle 1529" width="112" height="40" transform="translate(1600 1593)" fill="#f8004c"/>
+    <text id="MYKE" transform="translate(1616 1623)" fill="#fff" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">MYKE</tspan></text>
+    <circle id="Ellipse_20" data-name="Ellipse 20" cx="9.5" cy="9.5" r="9.5" transform="translate(516 712)" fill="#f8004c"/>
+    <path id="Path_2" data-name="Path 2" d="M2287,1833.5l-135.93-202.431,331.067-39.867,374.4,220.134,10.4,240.934L2813.2,2159.737,2324.4,2457.87Z" transform="translate(-1762 -1115)" fill="none" stroke="#f8004c" stroke-width="4"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2763" height="420" viewBox="0 0 2763 420">
+  <defs>
+    <clipPath id="clip-subsets">
+      <rect width="2763" height="420"/>
+    </clipPath>
+  </defs>
+  <g id="subsets" clip-path="url(#clip-subsets)">
+    <rect width="2763" height="420" fill="#fff"/>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(84 83)" fill="none" stroke="#8d8d8d" stroke-width="1">
+      <rect width="2532" height="255" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2531" height="254" rx="23.5" fill="none"/>
+    </g>
+    <text id="Start" transform="translate(156 152)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0">student_environment &lt;- select(math.df, c(1, 2, 3, 7, 8, 9, 10, 16, 17, 22, 24, 33))</tspan></text>
+    <text id="Start-2" data-name="Start" transform="translate(156 240)" fill="#101010" font-size="38" font-family="CourierNewPSMT, Courier New"><tspan x="0" y="0">student_habits &lt;- select(math.df, c(1, 2, 3, 14, 19, 25, 26, 27, 28, 29, 30, 33))</tspan></text>
+  </g>
+</svg>

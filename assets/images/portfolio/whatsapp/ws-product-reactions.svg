@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1230" height="800" viewBox="0 0 1230 800">
+  <defs>
+    <clipPath id="clip-ws-product-reactions">
+      <rect width="1230" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="ws-product-reactions" clip-path="url(#clip-ws-product-reactions)">
+    <rect width="1230" height="800" fill="#f8f9fd"/>
+    <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(148 222)" fill="#acacac" stroke="#707070" stroke-width="4">
+      <ellipse cx="57" cy="55.5" rx="57" ry="55.5" stroke="none"/>
+      <ellipse cx="57" cy="55.5" rx="55" ry="53.5" fill="none"/>
+    </g>
+    <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(290 170)" fill="#acacac" stroke="#707070" stroke-width="4">
+      <ellipse cx="75.5" cy="73.5" rx="75.5" ry="73.5" stroke="none"/>
+      <ellipse cx="75.5" cy="73.5" rx="73.5" ry="71.5" fill="none"/>
+    </g>
+    <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(231 303)" fill="#acacac" stroke="#707070" stroke-width="4">
+      <ellipse cx="58.5" cy="57" rx="58.5" ry="57" stroke="none"/>
+      <ellipse cx="58.5" cy="57" rx="56.5" ry="55" fill="none"/>
+    </g>
+    <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(56 325)" fill="#acacac" stroke="#707070" stroke-width="4">
+      <circle cx="91.5" cy="91.5" r="91.5" stroke="none"/>
+      <circle cx="91.5" cy="91.5" r="89.5" fill="none"/>
+    </g>
+    <g id="Ellipse_20" data-name="Ellipse 20" transform="translate(641 451)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="58.5" cy="57" rx="58.5" ry="57" stroke="none"/>
+      <ellipse cx="58.5" cy="57" rx="56.5" ry="55" fill="none"/>
+    </g>
+    <g id="Ellipse_21" data-name="Ellipse 21" transform="translate(615 337)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="58.5" cy="57" rx="58.5" ry="57" stroke="none"/>
+      <ellipse cx="58.5" cy="57" rx="56.5" ry="55" fill="none"/>
+    </g>
+    <text id="CURRENT_DESIGN" data-name="CURRENT DESIGN" transform="translate(223 64)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">CURRENT DESIGN</tspan></text>
+    <text id="Calm" transform="translate(263.5 367)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Calm</tspan></text>
+    <text id="Boring" transform="translate(114 424)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Boring</tspan></text>
+    <g id="Ellipse_22" data-name="Ellipse 22" transform="translate(216 417)" fill="#acacac" stroke="#707070" stroke-width="4">
+      <circle cx="91.5" cy="91.5" r="91.5" stroke="none"/>
+      <circle cx="91.5" cy="91.5" r="89.5" fill="none"/>
+    </g>
+    <text id="Familiar" transform="translate(267 516)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Familiar</tspan></text>
+    <g id="Ellipse_23" data-name="Ellipse 23" transform="translate(348 338)" fill="#acacac" stroke="#707070" stroke-width="4">
+      <ellipse cx="57" cy="55.5" rx="57" ry="55.5" stroke="none"/>
+      <ellipse cx="57" cy="55.5" rx="55" ry="53.5" fill="none"/>
+    </g>
+    <text id="Impressive" transform="translate(162 283)" fill="#fff" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Impressive</tspan></text>
+    <text id="Professional" transform="translate(357 399)" fill="#fff" font-size="16" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Professional</tspan></text>
+    <text id="Old" transform="translate(339.5 251)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Old</tspan></text>
+    <g id="Ellipse_24" data-name="Ellipse 24" transform="translate(727 371)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="58.5" cy="57" rx="58.5" ry="57" stroke="none"/>
+      <ellipse cx="58.5" cy="57" rx="56.5" ry="55" fill="none"/>
+    </g>
+    <g id="Ellipse_25" data-name="Ellipse 25" transform="translate(799 280)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="58.5" cy="57" rx="58.5" ry="57" stroke="none"/>
+      <ellipse cx="58.5" cy="57" rx="56.5" ry="55" fill="none"/>
+    </g>
+    <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(844 389)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="58.5" cy="57" rx="58.5" ry="57" stroke="none"/>
+      <ellipse cx="58.5" cy="57" rx="56.5" ry="55" fill="none"/>
+    </g>
+    <g id="Ellipse_27" data-name="Ellipse 27" transform="translate(740 486)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="92" cy="90.5" rx="92" ry="90.5" stroke="none"/>
+      <ellipse cx="92" cy="90.5" rx="90" ry="88.5" fill="none"/>
+    </g>
+    <g id="Ellipse_28" data-name="Ellipse 28" transform="translate(638 166)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="92" cy="90.5" rx="92" ry="90.5" stroke="none"/>
+      <ellipse cx="92" cy="90.5" rx="90" ry="88.5" fill="none"/>
+    </g>
+    <g id="Ellipse_29" data-name="Ellipse 29" transform="translate(924 459)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="92" cy="90.5" rx="92" ry="90.5" stroke="none"/>
+      <ellipse cx="92" cy="90.5" rx="90" ry="88.5" fill="none"/>
+    </g>
+    <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(884 623)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="58.5" cy="57" rx="58.5" ry="57" stroke="none"/>
+      <ellipse cx="58.5" cy="57" rx="56.5" ry="55" fill="none"/>
+    </g>
+    <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(925 273)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="76.5" cy="74.5" rx="76.5" ry="74.5" stroke="none"/>
+      <ellipse cx="76.5" cy="74.5" rx="74.5" ry="72.5" fill="none"/>
+    </g>
+    <g id="Ellipse_32" data-name="Ellipse 32" transform="translate(824 108)" fill="#e9507f" stroke="#f8004c" stroke-width="4">
+      <ellipse cx="92" cy="90.5" rx="92" ry="90.5" stroke="none"/>
+      <ellipse cx="92" cy="90.5" rx="90" ry="88.5" fill="none"/>
+    </g>
+    <text id="Trustworthy" transform="translate(856 206)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Trustworthy</tspan></text>
+    <text id="Fresh" transform="translate(974 355)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Fresh</tspan></text>
+    <text id="Exciting" transform="translate(817 344)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Exciting</tspan></text>
+    <text id="Busy" transform="translate(761 435)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Busy</tspan></text>
+    <text id="Calm-2" data-name="Calm" transform="translate(876 453)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Calm</tspan></text>
+    <text id="Innovative" transform="translate(964 557)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Innovative</tspan></text>
+    <text id="Creative" transform="translate(791 584)" fill="#fff" font-size="20" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Creative</tspan></text>
+    <text id="Professional-2" data-name="Professional" transform="translate(891 686)" fill="#fff" font-size="17" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Professional</tspan></text>
+    <text id="Cutting-edge" transform="translate(652 513)" fill="#fff" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Cutting-edge</tspan></text>
+    <text id="Familiar-2" data-name="Familiar" transform="translate(645 399)" fill="#fff" font-size="14" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Familiar</tspan></text>
+    <text id="Impressive-2" data-name="Impressive" transform="translate(673 264)" fill="#fff" font-size="21" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Impressive</tspan></text>
+    <text id="WIREFRAME" transform="translate(817 64)" fill="#f8004c" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">WIREFRAME</tspan></text>
+    <text id="bubble_size_is_based_on_value_frequency" data-name="bubble size is based on value frequency" transform="translate(1005 748)" font-size="10" font-family="Poppins-Regular, Poppins" opacity="0.51"><tspan x="0" y="0">bubble size is based on value frequency</tspan></text>
+  </g>
+</svg>

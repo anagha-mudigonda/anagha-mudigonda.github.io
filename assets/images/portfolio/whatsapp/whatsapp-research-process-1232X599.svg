@@ -13,52 +13,44 @@
       <ellipse cx="16.5" cy="17" rx="16" ry="16.5" fill="none"/>
     </g>
     <text id="_1" data-name="1" transform="translate(130 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">1</tspan></text>
-    <g id="Start" transform="translate(150.105 83)">
-      <text id="Start-2" data-name="Start" transform="translate(-0.105 13)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Understand</tspan></text>
-    </g>
-    <text id="Start-3" data-name="Start" transform="translate(273.417 95)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">One week</tspan></text>
-    <text id="Start-4" data-name="Start" transform="translate(260 96)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start" transform="translate(142 95)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Understand</tspan></text>
+    <text id="Start-2" data-name="Start" transform="translate(273.417 95)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">One week</tspan></text>
+    <text id="Start-3" data-name="Start" transform="translate(260 96)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
     <circle id="Ellipse_2" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(128 125)" fill="#f8004c"/>
     <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(128 178)" fill="#f8004c"/>
-    <g id="Group_3" data-name="Group 3" transform="translate(150.105 121.188)">
-      <g id="_2.Subtitle" data-name="2.Subtitle" transform="translate(-0.105 -0.188)">
-        <text id="Start-5" data-name="Start" transform="translate(0 10)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Generative research</tspan></text>
-      </g>
-      <text id="Start-6" data-name="Start" transform="translate(-0.105 32.812)" fill="#7d7878" font-size="14" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Survey to identify user goals</tspan></text>
+    <g id="_2.Subtitle" data-name="2.Subtitle" transform="translate(150 121)">
+      <text id="Start-4" data-name="Start" transform="translate(0 10)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Generative research</tspan></text>
     </g>
-    <text id="Start-7" data-name="Start" transform="translate(150 188)" fill="#101010" font-size="13" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Existing Literature</tspan></text>
-    <text id="Start-8" data-name="Start" transform="translate(150 210)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Understand trends in user behavior</tspan></text>
+    <text id="Start-5" data-name="Start" transform="translate(150 154)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Survey to identify user goals</tspan></text>
+    <text id="Start-6" data-name="Start" transform="translate(150 188)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Existing Literature</tspan></text>
+    <text id="Start-7" data-name="Start" transform="translate(150 210)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Understand trends in user </tspan><tspan x="0" y="21">behavior</tspan></text>
     <line id="Line_2-2" data-name="Line 2" y2="136.226" transform="translate(398.764 133.785)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
     <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(382 259)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
       <circle cx="17" cy="17" r="17" stroke="none"/>
       <circle cx="17" cy="17" r="16.5" fill="none"/>
     </g>
     <text id="_3" data-name="3" transform="translate(394 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">3</tspan></text>
-    <g id="Start-9" data-name="Start" transform="translate(416.025 86.732)">
-      <text id="Start-10" data-name="Start" transform="translate(-0.025 13.268)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Plan</tspan></text>
-    </g>
-    <text id="Start-11" data-name="Start" transform="translate(475.89 99)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">One week</tspan></text>
-    <text id="Start-12" data-name="Start" transform="translate(463 100)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start-8" data-name="Start" transform="translate(416 100)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Plan</tspan></text>
+    <text id="Start-9" data-name="Start" transform="translate(475.89 99)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">One week</tspan></text>
+    <text id="Start-10" data-name="Start" transform="translate(463 100)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
     <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(394 129)" fill="#f8004c"/>
     <circle id="Ellipse_2-4" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(394 191)" fill="#f8004c"/>
-    <text id="Start-13" data-name="Start" transform="translate(416 135)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Research Plan</tspan></text>
-    <text id="Start-14" data-name="Start" transform="translate(416 157)" fill="#7d7878" font-size="14" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Objectives. Research questions.</tspan><tspan x="0" y="20">Tasks. Scenarios</tspan></text>
-    <text id="Start-15" data-name="Start" transform="translate(416 201)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Moderator Guide</tspan></text>
-    <text id="Start-16" data-name="Start" transform="translate(416 224)" fill="#7d7878" font-size="14" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Interview script. Develop post</tspan><tspan x="0" y="20">session survey.</tspan></text>
+    <text id="Start-11" data-name="Start" transform="translate(416 135)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Research Plan</tspan></text>
+    <text id="Start-12" data-name="Start" transform="translate(416 157)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Objectives. Research questions.</tspan><tspan x="0" y="21">Tasks. Scenarios</tspan></text>
+    <text id="Start-13" data-name="Start" transform="translate(416 201)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Moderator Guide</tspan></text>
+    <text id="Start-14" data-name="Start" transform="translate(416 224)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Interview script. Develop post</tspan><tspan x="0" y="21">session survey.</tspan></text>
     <g id="Ellipse_1-3" data-name="Ellipse 1" transform="translate(631 259)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
       <ellipse cx="16.5" cy="17" rx="16.5" ry="17" stroke="none"/>
       <ellipse cx="16.5" cy="17" rx="16" ry="16.5" fill="none"/>
     </g>
     <text id="_5" data-name="5" transform="translate(642 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">5</tspan></text>
-    <g id="Start-17" data-name="Start" transform="translate(275.134 320.929)">
-      <text id="Start-18" data-name="Start" transform="translate(-0.134 13.071)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Define</tspan></text>
-    </g>
-    <text id="Start-19" data-name="Start" transform="translate(351.794 333)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">One week</tspan></text>
-    <text id="Start-20" data-name="Start" transform="translate(339 334)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
-    <text id="Start-21" data-name="Start" transform="translate(275 369)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Research goals</tspan></text>
-    <text id="Start-22" data-name="Start" transform="translate(275 392)" fill="#7d7878" font-size="14" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Based on survey insights</tspan></text>
-    <text id="Start-23" data-name="Start" transform="translate(275 426)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Design ideas</tspan></text>
-    <text id="Start-24" data-name="Start" transform="translate(275 448)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Story board.</tspan><tspan x="0" y="19">Low-Fi (clickable)</tspan><tspan x="0" y="38">wireframe.</tspan></text>
+    <text id="Start-15" data-name="Start" transform="translate(275 334)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Define</tspan></text>
+    <text id="Start-16" data-name="Start" transform="translate(351.794 333)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">One week</tspan></text>
+    <text id="Start-17" data-name="Start" transform="translate(339 334)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start-18" data-name="Start" transform="translate(275 369)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Research goals</tspan></text>
+    <text id="Start-19" data-name="Start" transform="translate(275 392)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Based on survey insights</tspan></text>
+    <text id="Start-20" data-name="Start" transform="translate(275 426)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Design ideas</tspan></text>
+    <text id="Start-21" data-name="Start" transform="translate(275 448)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Story board.</tspan><tspan x="0" y="21">Low-Fi (clickable)</tspan><tspan x="0" y="42">wireframe.</tspan></text>
     <g id="Ellipse_1-4" data-name="Ellipse 1" transform="translate(496 259)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
       <circle cx="17" cy="17" r="17" stroke="none"/>
       <circle cx="17" cy="17" r="16.5" fill="none"/>
@@ -66,57 +58,47 @@
     <text id="_4" data-name="4" transform="translate(507 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">4</tspan></text>
     <circle id="Ellipse_3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(507 363)" fill="#f8004c"/>
     <circle id="Ellipse_4" data-name="Ellipse 4" cx="5" cy="5" r="5" transform="translate(507 472)" fill="#f8004c"/>
-    <text id="Start-25" data-name="Start" transform="translate(530 369)" fill="#101010" font-size="13" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Post Ad</tspan></text>
-    <text id="Start-26" data-name="Start" transform="translate(530 392)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Created a post and shared</tspan><tspan x="0" y="19">among WhatsApp groups for</tspan><tspan x="0" y="38">multitaskers with less interest</tspan><tspan x="0" y="57">to read information.</tspan></text>
-    <text id="Start-27" data-name="Start" transform="translate(530 482)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Scheduling</tspan></text>
-    <g id="Start-28" data-name="Start" transform="translate(525.193 320.929)">
-      <text id="Start-29" data-name="Start" transform="translate(-0.193 13.071)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Recruitment</tspan></text>
-    </g>
-    <text id="Start-30" data-name="Start" transform="translate(655.036 333)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">One week</tspan></text>
-    <text id="Start-31" data-name="Start" transform="translate(642 334)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
-    <text id="Start-32" data-name="Start" transform="translate(530 504)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Sent Zoom invitations before the </tspan><tspan x="0" y="19">study.</tspan></text>
+    <text id="Start-22" data-name="Start" transform="translate(530 369)" fill="#101010" font-size="13" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Post Ad</tspan></text>
+    <text id="Start-23" data-name="Start" transform="translate(530 392)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Created a post and shared</tspan><tspan x="0" y="21">among WhatsApp groups for</tspan><tspan x="0" y="42">multitaskers with less interest</tspan><tspan x="0" y="63">to read information.</tspan></text>
+    <text id="Start-24" data-name="Start" transform="translate(530 482)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Scheduling</tspan></text>
+    <text id="Start-25" data-name="Start" transform="translate(525 334)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Recruitment</tspan></text>
+    <text id="Start-26" data-name="Start" transform="translate(655.036 333)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">One week</tspan></text>
+    <text id="Start-27" data-name="Start" transform="translate(645 334)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start-28" data-name="Start" transform="translate(530 504)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sent Zoom invitations before the </tspan><tspan x="0" y="21">study.</tspan></text>
     <g id="Ellipse_1-5" data-name="Ellipse 1" transform="translate(749 259)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
       <circle cx="17" cy="17" r="17" stroke="none"/>
       <circle cx="17" cy="17" r="16.5" fill="none"/>
     </g>
     <text id="_6" data-name="6" transform="translate(760 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">6</tspan></text>
     <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(760 363)" fill="#f8004c"/>
-    <text id="Start-33" data-name="Start" transform="translate(783 369)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Remote usability test</tspan></text>
-    <text id="Start-34" data-name="Start" transform="translate(783 392)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">1:1 in-depth interviews and</tspan><tspan x="0" y="19">probed participants </tspan><tspan x="0" y="38">to understand participants&apos;</tspan><tspan x="0" y="57">thought processes. </tspan></text>
-    <g id="Start-35" data-name="Start" transform="translate(778.05 320.929)">
-      <text id="Start-36" data-name="Start" transform="translate(-0.05 13.071)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Test</tspan></text>
-    </g>
-    <text id="Start-37" data-name="Start" transform="translate(833.25 333)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">One week</tspan></text>
-    <text id="Start-38" data-name="Start" transform="translate(820 334)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start-29" data-name="Start" transform="translate(783 369)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Remote usability test</tspan></text>
+    <text id="Start-30" data-name="Start" transform="translate(783 392)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1:1 in-depth interviews and</tspan><tspan x="0" y="21">probed participants </tspan><tspan x="0" y="42">to understand </tspan><tspan x="0" y="63">participants &apos;thought </tspan><tspan x="0" y="84">processes. </tspan></text>
+    <text id="Start-31" data-name="Start" transform="translate(778 334)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Test</tspan></text>
+    <text id="Start-32" data-name="Start" transform="translate(833.25 333)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">One week</tspan></text>
+    <text id="Start-33" data-name="Start" transform="translate(820 334)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
     <g id="Ellipse_1-6" data-name="Ellipse 1" transform="translate(957 259)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
       <circle cx="17" cy="17" r="17" stroke="none"/>
       <circle cx="17" cy="17" r="16.5" fill="none"/>
     </g>
     <text id="_8" data-name="8" transform="translate(968 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">8</tspan></text>
     <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(968 363)" fill="#f8004c"/>
-    <text id="Start-39" data-name="Start" transform="translate(986 369)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Insights deck with </tspan><tspan x="0" y="19">qualitative and</tspan><tspan x="0" y="38">quantitative data.</tspan></text>
-    <g id="Start-40" data-name="Start" transform="translate(986.121 320.929)">
-      <text id="Start-41" data-name="Start" transform="translate(-0.121 13.071)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Deliverables</tspan></text>
-    </g>
-    <text id="Start-42" data-name="Start" transform="translate(1115.032 333)" fill="#101010" font-size="12" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">One day</tspan></text>
-    <text id="Start-43" data-name="Start" transform="translate(1102 334)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
-    <g id="Start-44" data-name="Start" transform="translate(664.218 86.732)">
-      <text id="Start-45" data-name="Start" transform="translate(-0.218 13.268)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Preparation</tspan></text>
-    </g>
-    <text id="Start-46" data-name="Start" transform="translate(789.396 99)" fill="#101010" font-size="12" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">One day</tspan></text>
-    <text id="Start-47" data-name="Start" transform="translate(776 100)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start-34" data-name="Start" transform="translate(986 369)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Insights deck with </tspan><tspan x="0" y="21">qualitative and</tspan><tspan x="0" y="42">quantitative data.</tspan></text>
+    <text id="Start-35" data-name="Start" transform="translate(986 334)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Deliverables</tspan></text>
+    <text id="Start-36" data-name="Start" transform="translate(1115.032 333)" fill="#101010" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">One day</tspan></text>
+    <text id="Start-37" data-name="Start" transform="translate(1105 334)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start-38" data-name="Start" transform="translate(664 100)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Preparation</tspan></text>
+    <text id="Start-39" data-name="Start" transform="translate(789.396 99)" fill="#101010" font-size="12" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">One day</tspan></text>
+    <text id="Start-40" data-name="Start" transform="translate(781 100)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
     <line id="Line_2-3" data-name="Line 2" x2="0.544" y2="125.715" transform="translate(646.956 133.785)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
     <circle id="Ellipse_2-5" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(642 129)" fill="#f8004c"/>
     <circle id="Ellipse_2-6" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(642 191)" fill="#f8004c"/>
-    <text id="Start-48" data-name="Start" transform="translate(664 135)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Reminders</tspan></text>
-    <text id="Start-49" data-name="Start" transform="translate(664 157)" fill="#7d7878" font-size="14" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Text reminders are sent</tspan><tspan x="0" y="20">2 hours before the test</tspan></text>
-    <text id="Start-50" data-name="Start" transform="translate(664 201)" fill="#101010" font-size="14" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Equipment and material</tspan></text>
-    <text id="Start-51" data-name="Start" transform="translate(663 224)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Get the logistics and test</tspan><tspan x="0" y="19">materials ready</tspan></text>
-    <g id="Start-52" data-name="Start" transform="translate(918.941 162.046)">
-      <text id="Start-53" data-name="Start" transform="translate(0.059 12.954)" fill="#101010" font-size="18" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="0" y="0">Analysis</tspan></text>
-    </g>
-    <text id="Start-54" data-name="Start" transform="translate(1016.128 174)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Two days</tspan></text>
-    <text id="Start-55" data-name="Start" transform="translate(1003 175)" fill="#101010" font-size="19" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">I</tspan></text>
+    <text id="Start-41" data-name="Start" transform="translate(664 135)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Reminders</tspan></text>
+    <text id="Start-42" data-name="Start" transform="translate(664 157)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Text reminders are sent</tspan><tspan x="0" y="21">2 hours before the test</tspan></text>
+    <text id="Start-43" data-name="Start" transform="translate(664 201)" fill="#101010" font-size="14" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Equipment and material</tspan></text>
+    <text id="Start-44" data-name="Start" transform="translate(663 224)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Get the logistics and test</tspan><tspan x="0" y="21">materials ready</tspan></text>
+    <text id="Start-45" data-name="Start" transform="translate(919 175)" fill="#101010" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Analysis</tspan></text>
+    <text id="Start-46" data-name="Start" transform="translate(1016.128 174)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Two days</tspan></text>
+    <text id="Start-47" data-name="Start" transform="translate(1003 175)" fill="#101010" font-size="19" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">I</tspan></text>
     <line id="Line_2-4" data-name="Line 2" y2="73.711" transform="translate(901.68 196.299)" fill="none" stroke="#707070" stroke-width="1" opacity="0.3"/>
     <g id="Ellipse_1-7" data-name="Ellipse 1" transform="translate(885 259)" fill="#f8f9fd" stroke="#707070" stroke-width="1">
       <circle cx="17" cy="17" r="17" stroke="none"/>
@@ -124,13 +106,9 @@
     </g>
     <text id="_7" data-name="7" transform="translate(897 282)" fill="#707070" font-size="18" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">7</tspan></text>
     <circle id="Ellipse_2-7" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(897 191)" fill="#f8004c"/>
-    <text id="Start-56" data-name="Start" transform="translate(918 205)" fill="#7d7878" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Reviewed the user recordings.</tspan><tspan x="0" y="19">Analyzed quantitative and</tspan><tspan x="0" y="38">qualitative data</tspan></text>
-    <g id="Start-57" data-name="Start" transform="translate(54 268.611)" opacity="0.61">
-      <text id="Start-58" data-name="Start" transform="translate(0 10.389)" fill="#101010" font-size="13" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Problem</tspan></text>
-    </g>
-    <g id="Start-59" data-name="Start" transform="translate(1114.883 261.146)" opacity="0.61">
-      <text id="Start-60" data-name="Start" transform="translate(0.117 9.854)" fill="#101010" font-size="14" font-family="AcuminPro-Regular, Acumin Pro"><tspan x="0" y="0">Future</tspan><tspan x="0" y="20">directions</tspan></text>
-    </g>
+    <text id="Start-48" data-name="Start" transform="translate(918 205)" fill="#7d7878" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Reviewed the user recordings.</tspan><tspan x="0" y="21">Analyzed quantitative and</tspan><tspan x="0" y="42">qualitative data</tspan></text>
+    <text id="Start-49" data-name="Start" transform="translate(54 279)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Problem</tspan></text>
+    <text id="Start-50" data-name="Start" transform="translate(1115 271)" fill="#101010" font-size="13" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Future</tspan><tspan x="0" y="16">directions</tspan></text>
     <g id="Group_22" data-name="Group 22" transform="translate(252.741 362.849)">
       <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(0.259 0.151)" fill="#f8004c"/>
       <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="5" cy="5" r="5" transform="translate(0.259 53.151)" fill="#f8004c"/>
